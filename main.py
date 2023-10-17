@@ -118,6 +118,6 @@ class WebCrawler:
 # cào xong sẽ có file csv hiện lên bên cạnh, làm lần lượt hết các tháng trong năm
 if __name__ == "__main__":
     crawler = WebCrawler(show_browser=False)
-    crawler.write_month_data_to_csv(year=2021, month=6)
+    crawler.write_month_data_to_csv(year=2022, month=12)
     crawler.stop()
     # print(pd.read_csv('weather_data_06_2021.csv'))

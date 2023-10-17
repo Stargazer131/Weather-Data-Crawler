@@ -1,0 +1,1441 @@
+date,time,temperature,dewpoint,humidity,wind,wind speed,wind gust,pressure,precip,condition
+01/06/2021,12:00 AM,88 °F,77 °F,70 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,12:30 AM,88 °F,77 °F,70 °%,SE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,01:00 AM,88 °F,81 °F,79 °%,ESE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,01:30 AM,88 °F,81 °F,79 °%,ESE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,02:00 AM,88 °F,81 °F,79 °%,SE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,02:30 AM,86 °F,81 °F,84 °%,SE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,03:00 AM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,03:30 AM,86 °F,81 °F,84 °%,ESE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,04:00 AM,84 °F,82 °F,94 °%,E,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,04:30 AM,84 °F,82 °F,94 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,05:00 AM,84 °F,82 °F,94 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,05:30 AM,84 °F,82 °F,94 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,06:00 AM,84 °F,82 °F,94 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,06:30 AM,86 °F,82 °F,89 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,07:00 AM,88 °F,82 °F,84 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,07:30 AM,88 °F,84 °F,89 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,08:00 AM,91 °F,82 °F,75 °%,ESE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,08:30 AM,93 °F,81 °F,67 °%,SSE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,09:00 AM,95 °F,75 °F,53 °%,SSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,09:30 AM,97 °F,73 °F,47 °%,SSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,10:00 AM,97 °F,72 °F,44 °%,SSW,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,10:30 AM,97 °F,72 °F,44 °%,WSW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,11:00 AM,97 °F,72 °F,44 °%,W,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,11:30 AM,99 °F,72 °F,42 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,12:00 PM,99 °F,72 °F,42 °%,W,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,12:30 PM,99 °F,72 °F,42 °%,WSW,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,01:00 PM,100 °F,72 °F,39 °%,W,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,01:30 PM,100 °F,72 °F,39 °%,W,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,02:00 PM,102 °F,70 °F,35 °%,W,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,02:30 PM,102 °F,70 °F,35 °%,W,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/06/2021,03:00 PM,102 °F,68 °F,33 °%,W,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/06/2021,03:30 PM,102 °F,70 °F,35 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,04:00 PM,102 °F,68 °F,33 °%,W,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,04:30 PM,102 °F,70 °F,35 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,05:00 PM,102 °F,70 °F,35 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,05:30 PM,102 °F,70 °F,35 °%,SSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,06:00 PM,100 °F,72 °F,39 °%,S,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+01/06/2021,06:30 PM,100 °F,72 °F,39 °%,SSE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/06/2021,07:00 PM,99 °F,72 °F,42 °%,SE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/06/2021,07:30 PM,99 °F,70 °F,39 °%,SSE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,08:00 PM,97 °F,72 °F,44 °%,SSE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,08:30 PM,97 °F,73 °F,47 °%,SE,12 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/06/2021,09:00 PM,95 °F,75 °F,53 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,09:30 PM,93 °F,75 °F,56 °%,SE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,10:00 PM,91 °F,75 °F,59 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,10:30 PM,91 °F,75 °F,59 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/06/2021,11:00 PM,91 °F,75 °F,59 °%,SE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/06/2021,11:30 PM,90 °F,75 °F,62 °%,ESE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,12:00 AM,90 °F,77 °F,66 °%,ESE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,12:30 AM,88 °F,81 °F,79 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,01:00 AM,88 °F,81 °F,79 °%,ESE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,01:30 AM,88 °F,81 °F,79 °%,ESE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,02:00 AM,86 °F,81 °F,84 °%,E,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,02:30 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,03:00 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,03:30 AM,88 °F,81 °F,79 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,04:00 AM,86 °F,81 °F,84 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,04:30 AM,86 °F,82 °F,89 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,05:00 AM,84 °F,82 °F,94 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,05:30 AM,84 °F,82 °F,94 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,06:00 AM,86 °F,84 °F,94 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,06:30 AM,86 °F,84 °F,94 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,07:00 AM,88 °F,84 °F,89 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,07:30 AM,88 °F,84 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,08:00 AM,88 °F,84 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+02/06/2021,08:30 AM,90 °F,84 °F,84 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,09:00 AM,91 °F,84 °F,79 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,09:30 AM,93 °F,84 °F,75 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,10:00 AM,95 °F,79 °F,59 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,10:30 AM,95 °F,79 °F,59 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,11:00 AM,95 °F,75 °F,53 °%,NE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,11:30 AM,97 °F,75 °F,50 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,12:00 PM,97 °F,77 °F,53 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/06/2021,12:30 PM,99 °F,75 °F,47 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,01:00 PM,99 °F,77 °F,50 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,01:30 PM,100 °F,72 °F,39 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,02:00 PM,100 °F,73 °F,42 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/06/2021,02:30 PM,102 °F,72 °F,37 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/06/2021,03:00 PM,104 °F,73 °F,37 °%,VAR,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,03:30 PM,102 °F,72 °F,37 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,04:00 PM,102 °F,72 °F,37 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,04:30 PM,99 °F,75 °F,47 °%,SE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,05:00 PM,99 °F,72 °F,42 °%,SE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,05:30 PM,99 °F,72 °F,42 °%,S,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/06/2021,06:00 PM,97 °F,73 °F,47 °%,SSE,7 °mph,0 °mph,29.46 °in,0.0 °in,Smoke
+02/06/2021,06:30 PM,95 °F,77 °F,56 °%,SE,12 °mph,0 °mph,29.49 °in,0.0 °in,Smoke
+02/06/2021,07:00 PM,93 °F,77 °F,59 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/06/2021,07:30 PM,91 °F,77 °F,63 °%,ESE,10 °mph,0 °mph,29.52 °in,0.0 °in,Smoke
+02/06/2021,08:00 PM,91 °F,77 °F,63 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Smoke
+02/06/2021,08:30 PM,90 °F,77 °F,66 °%,E,10 °mph,0 °mph,29.55 °in,0.0 °in,Smoke
+02/06/2021,09:00 PM,90 °F,77 °F,66 °%,E,9 °mph,0 °mph,29.58 °in,0.0 °in,Smoke
+02/06/2021,09:30 PM,88 °F,82 °F,84 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Smoke
+02/06/2021,10:00 PM,90 °F,81 °F,75 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,10:30 PM,88 °F,81 °F,79 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,11:00 PM,88 °F,81 °F,79 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/06/2021,11:30 PM,88 °F,81 °F,79 °%,ESE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,12:00 AM,88 °F,82 °F,84 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,12:30 AM,86 °F,82 °F,89 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,01:00 AM,86 °F,82 °F,89 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,01:30 AM,88 °F,82 °F,84 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,02:00 AM,88 °F,82 °F,84 °%,SE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,02:30 AM,86 °F,82 °F,89 °%,SE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,03:00 AM,86 °F,82 °F,89 °%,SE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,03:30 AM,86 °F,82 °F,89 °%,ESE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,04:00 AM,86 °F,82 °F,89 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+03/06/2021,04:30 AM,86 °F,82 °F,89 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+03/06/2021,05:00 AM,86 °F,82 °F,89 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+03/06/2021,05:30 AM,86 °F,82 °F,89 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+03/06/2021,06:00 AM,86 °F,82 °F,89 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+03/06/2021,06:30 AM,86 °F,82 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/06/2021,07:00 AM,88 °F,84 °F,89 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/06/2021,07:30 AM,88 °F,82 °F,84 °%,ESE,8 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/06/2021,08:00 AM,90 °F,84 °F,84 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+03/06/2021,08:30 AM,91 °F,84 °F,79 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,09:00 AM,91 °F,84 °F,79 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,09:30 AM,93 °F,82 °F,71 °%,SE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,10:00 AM,95 °F,77 °F,56 °%,SE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,10:30 AM,95 °F,75 °F,53 °%,SE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,11:00 AM,99 °F,77 °F,50 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,11:30 AM,99 °F,75 °F,47 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,12:00 PM,99 °F,73 °F,44 °%,NW,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,12:30 PM,100 °F,73 °F,42 °%,WSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,01:00 PM,100 °F,73 °F,42 °%,N,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,01:30 PM,100 °F,73 °F,42 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,02:00 PM,102 °F,72 °F,37 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+03/06/2021,02:30 PM,102 °F,70 °F,35 °%,W,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+03/06/2021,03:00 PM,104 °F,70 °F,33 °%,N,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+03/06/2021,03:30 PM,102 °F,72 °F,37 °%,N,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,04:00 PM,102 °F,72 °F,37 °%,N,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,04:30 PM,102 °F,70 °F,35 °%,N,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,05:00 PM,102 °F,72 °F,37 °%,ENE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,05:30 PM,100 °F,73 °F,42 °%,E,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,06:00 PM,99 °F,77 °F,50 °%,E,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,06:30 PM,97 °F,79 °F,56 °%,E,12 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+03/06/2021,07:00 PM,95 °F,79 °F,59 °%,E,13 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+03/06/2021,07:30 PM,93 °F,79 °F,63 °%,E,12 °mph,0 °mph,29.49 °in,0.0 °in,Smoke
+03/06/2021,08:00 PM,93 °F,77 °F,59 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Smoke
+03/06/2021,08:30 PM,91 °F,77 °F,63 °%,E,10 °mph,0 °mph,29.52 °in,0.0 °in,Smoke
+03/06/2021,09:00 PM,91 °F,77 °F,63 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Smoke
+03/06/2021,09:30 PM,91 °F,75 °F,59 °%,E,12 °mph,0 °mph,29.58 °in,0.0 °in,Smoke
+03/06/2021,10:00 PM,90 °F,82 °F,79 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,10:30 PM,90 °F,82 °F,79 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/06/2021,11:00 PM,90 °F,82 °F,79 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/06/2021,11:30 PM,90 °F,81 °F,75 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+04/06/2021,12:00 AM,88 °F,82 °F,84 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+04/06/2021,12:30 AM,88 °F,82 °F,84 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+04/06/2021,01:00 AM,88 °F,82 °F,84 °%,NE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+04/06/2021,01:30 AM,88 °F,82 °F,84 °%,NNE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+04/06/2021,02:00 AM,84 °F,73 °F,70 °%,N,23 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy / Windy
+04/06/2021,02:30 AM,,,,,,,,,
+04/06/2021,03:00 AM,81 °F,75 °F,84 °%,NE,16 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/06/2021,03:30 AM,81 °F,75 °F,84 °%,NE,17 °mph,29 °mph,29.58 °in,0.0 °in,Fair
+04/06/2021,04:00 AM,79 °F,75 °F,89 °%,NE,15 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+04/06/2021,04:30 AM,,,,,,,,,
+04/06/2021,05:00 AM,79 °F,77 °F,94 °%,NNE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+04/06/2021,05:30 AM,79 °F,75 °F,89 °%,NNW,7 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/06/2021,06:00 AM,79 °F,75 °F,89 °%,N,5 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/06/2021,06:30 AM,79 °F,75 °F,89 °%,N,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/06/2021,07:00 AM,79 °F,75 °F,89 °%,N,10 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/06/2021,07:30 AM,79 °F,75 °F,89 °%,N,7 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+04/06/2021,08:00 AM,81 °F,72 °F,74 °%,N,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,08:30 AM,81 °F,72 °F,74 °%,N,10 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+04/06/2021,09:00 AM,81 °F,68 °F,65 °%,N,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,09:30 AM,81 °F,63 °F,54 °%,NE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,10:00 AM,81 °F,63 °F,54 °%,NE,14 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,10:30 AM,82 °F,63 °F,51 °%,NNE,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,11:00 AM,81 °F,63 °F,54 °%,NNE,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,11:30 AM,82 °F,63 °F,51 °%,NNE,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,12:00 PM,82 °F,63 °F,51 °%,NNE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,12:30 PM,82 °F,63 °F,51 °%,NNE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,01:00 PM,82 °F,61 °F,48 °%,NNE,9 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,01:30 PM,82 °F,63 °F,51 °%,N,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+04/06/2021,02:00 PM,84 °F,64 °F,51 °%,N,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+04/06/2021,02:30 PM,84 °F,64 °F,51 °%,N,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,03:00 PM,84 °F,64 °F,51 °%,NNW,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,03:30 PM,82 °F,68 °F,62 °%,WNW,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,04:00 PM,82 °F,70 °F,66 °%,W,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/06/2021,04:30 PM,82 °F,70 °F,66 °%,W,8 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/06/2021,05:00 PM,82 °F,68 °F,62 °%,WNW,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,05:30 PM,82 °F,68 °F,62 °%,WNW,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,06:00 PM,81 °F,68 °F,65 °%,WNW,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,06:30 PM,81 °F,68 °F,65 °%,WNW,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,07:00 PM,79 °F,73 °F,83 °%,NW,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/06/2021,07:30 PM,,,,,,,,,
+04/06/2021,08:00 PM,,,,,,,,,
+04/06/2021,08:30 PM,,,,,,,,,
+04/06/2021,09:00 PM,79 °F,72 °F,78 °%,WNW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,09:30 PM,79 °F,72 °F,78 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,10:00 PM,79 °F,72 °F,78 °%,NW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,10:30 PM,79 °F,72 °F,78 °%,WNW,3 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+04/06/2021,11:00 PM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+04/06/2021,11:30 PM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,12:00 AM,79 °F,73 °F,83 °%,N,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,12:30 AM,79 °F,73 °F,83 °%,N,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,01:00 AM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,01:30 AM,79 °F,72 °F,78 °%,CALM,0 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,02:00 AM,79 °F,72 °F,78 °%,VAR,1 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,02:30 AM,79 °F,68 °F,69 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,03:00 AM,79 °F,70 °F,74 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,03:30 AM,79 °F,72 °F,78 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,04:00 AM,77 °F,72 °F,83 °%,NNW,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,04:30 AM,77 °F,72 °F,83 °%,N,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,05:00 AM,77 °F,73 °F,89 °%,N,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,05:30 AM,79 °F,70 °F,74 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,06:00 AM,79 °F,70 °F,74 °%,NW,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,06:30 AM,79 °F,72 °F,78 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,07:00 AM,79 °F,68 °F,69 °%,CALM,0 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,07:30 AM,81 °F,70 °F,70 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,08:00 AM,81 °F,68 °F,65 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,08:30 AM,81 °F,66 °F,61 °%,VAR,1 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,09:00 AM,82 °F,66 °F,58 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,09:30 AM,82 °F,70 °F,66 °%,NNW,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,10:00 AM,82 °F,70 °F,66 °%,NNW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,10:30 AM,82 °F,70 °F,66 °%,N,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,11:00 AM,82 °F,66 °F,58 °%,N,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+05/06/2021,11:30 AM,84 °F,64 °F,51 °%,NNE,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,12:00 PM,86 °F,64 °F,48 °%,VAR,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+05/06/2021,12:30 PM,88 °F,63 °F,43 °%,VAR,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,01:00 PM,88 °F,63 °F,43 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,01:30 PM,88 °F,66 °F,49 °%,VAR,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,02:00 PM,88 °F,66 °F,49 °%,NNW,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/06/2021,02:30 PM,88 °F,64 °F,46 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,03:00 PM,90 °F,64 °F,43 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,03:30 PM,90 °F,63 °F,40 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/06/2021,04:00 PM,90 °F,61 °F,38 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/06/2021,04:30 PM,90 °F,63 °F,40 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/06/2021,05:00 PM,90 °F,63 °F,40 °%,S,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/06/2021,05:30 PM,90 °F,63 °F,40 °%,SSE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/06/2021,06:00 PM,90 °F,63 °F,40 °%,S,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,06:30 PM,88 °F,63 °F,43 °%,S,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,07:00 PM,88 °F,63 °F,43 °%,S,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,07:30 PM,84 °F,64 °F,51 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/06/2021,08:00 PM,84 °F,63 °F,48 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+05/06/2021,08:30 PM,84 °F,64 °F,51 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+05/06/2021,09:00 PM,84 °F,66 °F,55 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+05/06/2021,09:30 PM,82 °F,68 °F,62 °%,CALM,0 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+05/06/2021,10:00 PM,82 °F,70 °F,66 °%,VAR,1 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+05/06/2021,10:30 PM,81 °F,73 °F,79 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,11:00 PM,82 °F,70 °F,66 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/06/2021,11:30 PM,81 °F,72 °F,74 °%,E,5 °mph,0 °mph,29.66 °in,0.0 °in,Smoke
+06/06/2021,12:00 AM,82 °F,70 °F,66 °%,SSE,3 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+06/06/2021,12:30 AM,82 °F,72 °F,70 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Smoke
+06/06/2021,01:00 AM,79 °F,75 °F,89 °%,N,3 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/06/2021,01:30 AM,79 °F,73 °F,83 °%,NNE,2 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,02:00 AM,81 °F,75 °F,84 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,02:30 AM,81 °F,75 °F,84 °%,NE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,03:00 AM,81 °F,75 °F,84 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,03:30 AM,81 °F,75 °F,84 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,04:00 AM,81 °F,75 °F,84 °%,NE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,04:30 AM,81 °F,77 °F,89 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,05:00 AM,81 °F,77 °F,89 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,05:30 AM,79 °F,77 °F,94 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,06:00 AM,,,,,,,,,
+06/06/2021,06:30 AM,81 °F,75 °F,84 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,07:00 AM,81 °F,77 °F,89 °%,NNE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+06/06/2021,07:30 AM,82 °F,77 °F,84 °%,NNE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,08:00 AM,82 °F,77 °F,84 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,08:30 AM,82 °F,77 °F,84 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,09:00 AM,84 °F,77 °F,79 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,09:30 AM,84 °F,77 °F,79 °%,ENE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,10:00 AM,86 °F,77 °F,74 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,10:30 AM,86 °F,77 °F,74 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+06/06/2021,11:00 AM,88 °F,75 °F,66 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Haze
+06/06/2021,11:30 AM,88 °F,75 °F,66 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Haze
+06/06/2021,12:00 PM,88 °F,70 °F,55 °%,S,7 °mph,0 °mph,29.61 °in,0.0 °in,Haze
+06/06/2021,12:30 PM,88 °F,72 °F,58 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Haze
+06/06/2021,01:00 PM,88 °F,72 °F,58 °%,S,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/06/2021,01:30 PM,90 °F,72 °F,55 °%,SSE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/06/2021,02:00 PM,91 °F,72 °F,52 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/06/2021,02:30 PM,91 °F,70 °F,49 °%,VAR,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/06/2021,03:00 PM,91 °F,72 °F,52 °%,SE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/06/2021,03:30 PM,91 °F,70 °F,49 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/06/2021,04:00 PM,91 °F,68 °F,46 °%,SE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/06/2021,04:30 PM,91 °F,72 °F,52 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Haze
+06/06/2021,05:00 PM,91 °F,72 °F,52 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Haze
+06/06/2021,05:30 PM,88 °F,75 °F,66 °%,SE,12 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain
+06/06/2021,06:00 PM,88 °F,82 °F,84 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fog
+06/06/2021,06:30 PM,88 °F,79 °F,75 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fog
+06/06/2021,07:00 PM,88 °F,77 °F,70 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+06/06/2021,07:30 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/06/2021,08:00 PM,86 °F,77 °F,74 °%,SSE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/06/2021,08:30 PM,86 °F,77 °F,74 °%,SSE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/06/2021,09:00 PM,86 °F,75 °F,70 °%,SSE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/06/2021,09:30 PM,84 °F,73 °F,70 °%,SE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/06/2021,10:00 PM,84 °F,73 °F,70 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+06/06/2021,10:30 PM,84 °F,73 °F,70 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+06/06/2021,11:00 PM,84 °F,75 °F,74 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+06/06/2021,11:30 PM,84 °F,77 °F,79 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,12:00 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,12:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,01:00 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,01:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,02:00 AM,82 °F,79 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,02:30 AM,82 °F,79 °F,89 °%,ENE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,03:00 AM,82 °F,79 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,03:30 AM,82 °F,79 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,04:00 AM,82 °F,79 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,04:30 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,05:00 AM,81 °F,77 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,05:30 AM,81 °F,77 °F,89 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,06:00 AM,81 °F,77 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,06:30 AM,82 °F,77 °F,84 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+07/06/2021,07:00 AM,82 °F,77 °F,84 °%,NE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,07:30 AM,84 °F,75 °F,74 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+07/06/2021,08:00 AM,86 °F,73 °F,66 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,08:30 AM,86 °F,70 °F,58 °%,ENE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,09:00 AM,88 °F,68 °F,52 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+07/06/2021,09:30 AM,90 °F,68 °F,49 °%,ENE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/06/2021,10:00 AM,88 °F,72 °F,58 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/06/2021,10:30 AM,90 °F,72 °F,55 °%,E,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/06/2021,11:00 AM,91 °F,70 °F,49 °%,NE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,11:30 AM,91 °F,73 °F,55 °%,ENE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,12:00 PM,,,,,,,,,
+07/06/2021,12:30 PM,91 °F,72 °F,52 °%,NNE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/06/2021,01:00 PM,93 °F,70 °F,46 °%,NNE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,01:30 PM,93 °F,70 °F,46 °%,NNE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/06/2021,02:00 PM,93 °F,70 °F,46 °%,N,8 °mph,0 °mph,29.58 °in,0.0 °in,Thunder
+07/06/2021,02:30 PM,88 °F,73 °F,62 °%,SSW,15 °mph,0 °mph,29.61 °in,0.0 °in,Thunder
+07/06/2021,03:00 PM,86 °F,77 °F,74 °%,S,12 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+07/06/2021,03:30 PM,84 °F,77 °F,79 °%,S,10 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain with Thunder
+07/06/2021,04:00 PM,82 °F,79 °F,89 °%,S,8 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+07/06/2021,04:30 PM,81 °F,79 °F,94 °%,S,6 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+07/06/2021,05:00 PM,81 °F,79 °F,94 °%,S,7 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+07/06/2021,05:30 PM,82 °F,77 °F,84 °%,SE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+07/06/2021,06:00 PM,82 °F,77 °F,84 °%,SSE,8 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+07/06/2021,06:30 PM,81 °F,77 °F,89 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+07/06/2021,07:00 PM,81 °F,77 °F,89 °%,S,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+07/06/2021,07:30 PM,79 °F,77 °F,94 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Rain
+07/06/2021,08:00 PM,79 °F,77 °F,94 °%,VAR,1 °mph,0 °mph,29.64 °in,0.0 °in,Rain Shower
+07/06/2021,08:30 PM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+07/06/2021,09:00 PM,79 °F,77 °F,94 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+07/06/2021,09:30 PM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/06/2021,10:00 PM,79 °F,77 °F,94 °%,WNW,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+07/06/2021,10:30 PM,79 °F,77 °F,94 °%,NW,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+07/06/2021,11:00 PM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+07/06/2021,11:30 PM,79 °F,77 °F,94 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/06/2021,12:00 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/06/2021,12:30 AM,81 °F,79 °F,94 °%,N,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,01:00 AM,79 °F,79 °F,100 °%,NNW,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,01:30 AM,79 °F,77 °F,94 °%,NNW,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,02:00 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/06/2021,02:30 AM,,,,,,,,,
+08/06/2021,03:00 AM,81 °F,77 °F,89 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+08/06/2021,03:30 AM,,,,,,,,,
+08/06/2021,04:00 AM,81 °F,77 °F,89 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/06/2021,04:30 AM,79 °F,75 °F,89 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+08/06/2021,05:00 AM,79 °F,75 °F,89 °%,SE,3 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+08/06/2021,05:30 AM,79 °F,75 °F,89 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+08/06/2021,06:00 AM,79 °F,75 °F,89 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,06:30 AM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,07:00 AM,81 °F,77 °F,89 °%,VAR,1 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/06/2021,07:30 AM,81 °F,77 °F,89 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/06/2021,08:00 AM,81 °F,75 °F,84 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/06/2021,08:30 AM,82 °F,75 °F,79 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+08/06/2021,09:00 AM,82 °F,77 °F,84 °%,NNE,3 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+08/06/2021,09:30 AM,84 °F,77 °F,79 °%,N,5 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+08/06/2021,10:00 AM,84 °F,77 °F,79 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+08/06/2021,10:30 AM,86 °F,77 °F,74 °%,NNW,5 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+08/06/2021,11:00 AM,86 °F,77 °F,74 °%,N,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+08/06/2021,11:30 AM,88 °F,73 °F,62 °%,NE,7 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+08/06/2021,12:00 PM,90 °F,75 °F,62 °%,NNE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,12:30 PM,90 °F,73 °F,59 °%,NE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/06/2021,01:00 PM,90 °F,72 °F,55 °%,NNE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+08/06/2021,01:30 PM,91 °F,72 °F,52 °%,N,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+08/06/2021,02:00 PM,91 °F,70 °F,49 °%,NNE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+08/06/2021,02:30 PM,91 °F,70 °F,49 °%,NNE,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+08/06/2021,03:00 PM,93 °F,70 °F,46 °%,N,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+08/06/2021,03:30 PM,91 °F,70 °F,49 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/06/2021,04:00 PM,91 °F,72 °F,52 °%,WNW,6 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+08/06/2021,04:30 PM,81 °F,79 °F,94 °%,ENE,17 °mph,0 °mph,29.58 °in,0.0 °in,T-Storm
+08/06/2021,05:00 PM,81 °F,79 °F,94 °%,S,3 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain with Thunder
+08/06/2021,05:30 PM,81 °F,79 °F,94 °%,W,5 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+08/06/2021,06:00 PM,81 °F,79 °F,94 °%,W,3 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+08/06/2021,06:30 PM,81 °F,79 °F,94 °%,WNW,3 °mph,0 °mph,29.64 °in,0.0 °in,Thunder in the Vicinity
+08/06/2021,07:00 PM,81 °F,79 °F,94 °%,W,2 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+08/06/2021,07:30 PM,81 °F,79 °F,94 °%,NNW,2 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+08/06/2021,08:00 PM,81 °F,79 °F,94 °%,NW,3 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+08/06/2021,08:30 PM,81 °F,79 °F,94 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+08/06/2021,09:00 PM,81 °F,79 °F,94 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Rain
+08/06/2021,09:30 PM,79 °F,79 °F,100 °%,N,5 °mph,0 °mph,29.69 °in,0.0 °in,Rain
+08/06/2021,10:00 PM,79 °F,77 °F,94 °%,CALM,0 °mph,0 °mph,29.69 °in,0.0 °in,T-Storm
+08/06/2021,10:30 PM,79 °F,77 °F,94 °%,NNE,3 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain
+08/06/2021,11:00 PM,79 °F,77 °F,94 °%,CALM,0 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain
+08/06/2021,11:30 PM,79 °F,77 °F,94 °%,ENE,3 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain
+09/06/2021,12:00 AM,79 °F,79 °F,100 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,12:30 AM,79 °F,79 °F,100 °%,NW,2 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,01:00 AM,79 °F,79 °F,100 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,01:30 AM,79 °F,79 °F,100 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,02:00 AM,79 °F,79 °F,100 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+09/06/2021,02:30 AM,79 °F,79 °F,100 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+09/06/2021,03:00 AM,79 °F,79 °F,100 °%,WNW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+09/06/2021,03:30 AM,79 °F,77 °F,94 °%,WNW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+09/06/2021,04:00 AM,79 °F,77 °F,94 °%,NNW,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+09/06/2021,04:30 AM,79 °F,77 °F,94 °%,NW,5 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+09/06/2021,05:00 AM,79 °F,77 °F,94 °%,VAR,5 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,05:30 AM,79 °F,77 °F,94 °%,NW,3 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+09/06/2021,06:00 AM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+09/06/2021,06:30 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,07:00 AM,79 °F,77 °F,94 °%,NE,3 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,07:30 AM,79 °F,77 °F,94 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,08:00 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,08:30 AM,81 °F,77 °F,89 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,09:00 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+09/06/2021,09:30 AM,81 °F,79 °F,94 °%,WNW,3 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+09/06/2021,10:00 AM,81 °F,79 °F,94 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+09/06/2021,10:30 AM,82 °F,79 °F,89 °%,NE,5 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,11:00 AM,84 °F,77 °F,79 °%,NNE,3 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+09/06/2021,11:30 AM,84 °F,79 °F,84 °%,N,3 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,12:00 PM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+09/06/2021,12:30 PM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+09/06/2021,01:00 PM,84 °F,79 °F,84 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+09/06/2021,01:30 PM,86 °F,79 °F,79 °%,NNE,5 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+09/06/2021,02:00 PM,86 °F,77 °F,74 °%,NE,3 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+09/06/2021,02:30 PM,88 °F,79 °F,75 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/06/2021,03:00 PM,90 °F,77 °F,66 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/06/2021,03:30 PM,90 °F,79 °F,70 °%,NNE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/06/2021,04:00 PM,90 °F,75 °F,62 °%,NNE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/06/2021,04:30 PM,88 °F,75 °F,66 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/06/2021,05:00 PM,90 °F,73 °F,59 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/06/2021,05:30 PM,88 °F,73 °F,62 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/06/2021,06:00 PM,88 °F,73 °F,62 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/06/2021,06:30 PM,88 °F,73 °F,62 °%,ENE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/06/2021,07:00 PM,86 °F,73 °F,66 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+09/06/2021,07:30 PM,86 °F,79 °F,79 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+09/06/2021,08:00 PM,84 °F,81 °F,89 °%,E,10 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+09/06/2021,08:30 PM,84 °F,81 °F,89 °%,ESE,12 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+09/06/2021,09:00 PM,84 °F,79 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+09/06/2021,09:30 PM,84 °F,79 °F,84 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+09/06/2021,10:00 PM,84 °F,79 °F,84 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+09/06/2021,10:30 PM,,,,,,,,,
+09/06/2021,11:00 PM,82 °F,79 °F,89 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+09/06/2021,11:30 PM,82 °F,79 °F,89 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+10/06/2021,12:00 AM,82 °F,79 °F,89 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+10/06/2021,12:30 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+10/06/2021,01:00 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+10/06/2021,01:30 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+10/06/2021,02:00 AM,81 °F,79 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,02:30 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+10/06/2021,03:00 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,03:30 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,04:00 AM,81 °F,79 °F,94 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+10/06/2021,04:30 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,05:00 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,05:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,06:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,06:30 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,07:00 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+10/06/2021,07:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+10/06/2021,08:00 AM,82 °F,81 °F,94 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+10/06/2021,08:30 AM,84 °F,79 °F,84 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+10/06/2021,09:00 AM,82 °F,81 °F,94 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Rain Shower
+10/06/2021,09:30 AM,84 °F,81 °F,89 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Thunder
+10/06/2021,10:00 AM,79 °F,77 °F,94 °%,SE,14 °mph,0 °mph,29.61 °in,0.0 °in,Heavy T-Storm
+10/06/2021,10:30 AM,79 °F,77 °F,94 °%,ESE,9 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+10/06/2021,11:00 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Thunder
+10/06/2021,11:30 AM,82 °F,79 °F,89 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Thunder
+10/06/2021,12:00 PM,82 °F,81 °F,94 °%,NNE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,12:30 PM,82 °F,81 °F,94 °%,N,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,01:00 PM,84 °F,81 °F,89 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,01:30 PM,84 °F,81 °F,89 °%,NNE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+10/06/2021,02:00 PM,84 °F,81 °F,89 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+10/06/2021,02:30 PM,86 °F,79 °F,79 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/06/2021,03:00 PM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/06/2021,03:30 PM,86 °F,79 °F,79 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/06/2021,04:00 PM,88 °F,79 °F,75 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/06/2021,04:30 PM,88 °F,77 °F,70 °%,ESE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/06/2021,05:00 PM,90 °F,79 °F,70 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/06/2021,05:30 PM,88 °F,77 °F,70 °%,ESE,6 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+10/06/2021,06:00 PM,88 °F,77 °F,70 °%,SSE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/06/2021,06:30 PM,86 °F,77 °F,74 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/06/2021,07:00 PM,86 °F,79 °F,79 °%,SE,3 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+10/06/2021,07:30 PM,84 °F,79 °F,84 °%,ESE,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+10/06/2021,08:00 PM,84 °F,79 °F,84 °%,SE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+10/06/2021,08:30 PM,84 °F,79 °F,84 °%,SE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+10/06/2021,09:00 PM,84 °F,81 °F,89 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Thunder
+10/06/2021,09:30 PM,82 °F,81 °F,94 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+10/06/2021,10:00 PM,82 °F,81 °F,94 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+10/06/2021,10:30 PM,82 °F,81 °F,94 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+10/06/2021,11:00 PM,82 °F,81 °F,94 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+10/06/2021,11:30 PM,82 °F,81 °F,94 °%,SSE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+11/06/2021,12:00 AM,82 °F,79 °F,89 °%,ESE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+11/06/2021,12:30 AM,82 °F,81 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/06/2021,01:00 AM,82 °F,81 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/06/2021,01:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/06/2021,02:00 AM,81 °F,79 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,02:30 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+11/06/2021,03:00 AM,81 °F,81 °F,100 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+11/06/2021,03:30 AM,81 °F,79 °F,94 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+11/06/2021,04:00 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+11/06/2021,04:30 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Rain
+11/06/2021,05:00 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,05:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,06:00 AM,81 °F,79 °F,94 °%,NE,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,06:30 AM,81 °F,79 °F,94 °%,NE,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,07:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,07:30 AM,82 °F,79 °F,89 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,08:00 AM,82 °F,79 °F,89 °%,ENE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+11/06/2021,08:30 AM,82 °F,79 °F,89 °%,ENE,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+11/06/2021,09:00 AM,82 °F,79 °F,89 °%,ENE,8 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+11/06/2021,09:30 AM,84 °F,79 °F,84 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+11/06/2021,10:00 AM,88 °F,81 °F,79 °%,ENE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+11/06/2021,10:30 AM,88 °F,79 °F,75 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,11:00 AM,88 °F,79 °F,75 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+11/06/2021,11:30 AM,90 °F,77 °F,66 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,12:00 PM,90 °F,73 °F,59 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+11/06/2021,12:30 PM,91 °F,75 °F,59 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,01:00 PM,91 °F,75 °F,59 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,01:30 PM,93 °F,75 °F,56 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/06/2021,02:00 PM,93 °F,73 °F,52 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,02:30 PM,90 °F,75 °F,62 °%,E,15 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,03:00 PM,88 °F,73 °F,62 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,03:30 PM,90 °F,75 °F,62 °%,E,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,04:00 PM,90 °F,75 °F,62 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Thunder in the Vicinity
+11/06/2021,04:30 PM,90 °F,75 °F,62 °%,ESE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,05:00 PM,90 °F,73 °F,59 °%,ESE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,05:30 PM,90 °F,73 °F,59 °%,ESE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,06:00 PM,90 °F,73 °F,59 °%,ENE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,06:30 PM,88 °F,73 °F,62 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/06/2021,07:00 PM,86 °F,81 °F,84 °%,WNW,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+11/06/2021,07:30 PM,84 °F,79 °F,84 °%,WNW,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+11/06/2021,08:00 PM,84 °F,79 °F,84 °%,WNW,3 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,08:30 PM,84 °F,81 °F,89 °%,WNW,6 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+11/06/2021,09:00 PM,84 °F,81 °F,89 °%,WNW,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+11/06/2021,09:30 PM,82 °F,79 °F,89 °%,WNW,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+11/06/2021,10:00 PM,82 °F,81 °F,94 °%,WNW,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+11/06/2021,10:30 PM,82 °F,81 °F,94 °%,N,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+11/06/2021,11:00 PM,82 °F,81 °F,94 °%,WNW,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+11/06/2021,11:30 PM,82 °F,81 °F,94 °%,W,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/06/2021,12:00 AM,82 °F,81 °F,94 °%,WNW,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/06/2021,12:30 AM,82 °F,81 °F,94 °%,W,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/06/2021,01:00 AM,82 °F,81 °F,94 °%,W,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/06/2021,01:30 AM,81 °F,81 °F,100 °%,WNW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+12/06/2021,02:00 AM,82 °F,81 °F,94 °%,NNW,3 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+12/06/2021,02:30 AM,82 °F,81 °F,94 °%,NW,6 °mph,0 °mph,29.61 °in,0.0 °in,Rain
+12/06/2021,03:00 AM,81 °F,81 °F,100 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+12/06/2021,03:30 AM,81 °F,79 °F,94 °%,NW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/06/2021,04:00 AM,81 °F,79 °F,94 °%,NW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/06/2021,04:30 AM,81 °F,79 °F,94 °%,NW,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/06/2021,05:00 AM,81 °F,79 °F,94 °%,WNW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/06/2021,05:30 AM,81 °F,79 °F,94 °%,WNW,8 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+12/06/2021,06:00 AM,81 °F,79 °F,94 °%,NW,6 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+12/06/2021,06:30 AM,81 °F,77 °F,89 °%,NNE,6 °mph,0 °mph,29.64 °in,0.0 °in,Thunder
+12/06/2021,07:00 AM,79 °F,77 °F,94 °%,SSW,3 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+12/06/2021,07:30 AM,81 °F,79 °F,94 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/06/2021,08:00 AM,81 °F,79 °F,94 °%,W,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+12/06/2021,08:30 AM,81 °F,79 °F,94 °%,W,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+12/06/2021,09:00 AM,82 °F,79 °F,89 °%,WNW,12 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+12/06/2021,09:30 AM,84 °F,79 °F,84 °%,WNW,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/06/2021,10:00 AM,84 °F,79 °F,84 °%,W,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/06/2021,10:30 AM,86 °F,79 °F,79 °%,WNW,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+12/06/2021,11:00 AM,88 °F,79 °F,75 °%,W,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+12/06/2021,11:30 AM,90 °F,81 °F,75 °%,WNW,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+12/06/2021,12:00 PM,91 °F,75 °F,59 °%,NW,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+12/06/2021,12:30 PM,91 °F,72 °F,52 °%,NNW,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/06/2021,01:00 PM,93 °F,73 °F,52 °%,NNW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/06/2021,01:30 PM,91 °F,75 °F,59 °%,NW,9 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+12/06/2021,02:00 PM,95 °F,73 °F,49 °%,NNW,9 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+12/06/2021,02:30 PM,88 °F,79 °F,75 °%,N,9 °mph,0 °mph,29.49 °in,0.0 °in,T-Storm
+12/06/2021,03:00 PM,81 °F,81 °F,100 °%,N,8 °mph,20 °mph,29.49 °in,0.0 °in,Thunder
+12/06/2021,03:30 PM,84 °F,81 °F,89 °%,WNW,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+12/06/2021,04:00 PM,84 °F,79 °F,84 °%,NNW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+12/06/2021,04:30 PM,84 °F,81 °F,89 °%,N,3 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+12/06/2021,05:00 PM,84 °F,79 °F,84 °%,NNW,5 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+12/06/2021,05:30 PM,84 °F,79 °F,84 °%,N,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+12/06/2021,06:00 PM,84 °F,79 °F,84 °%,W,3 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+12/06/2021,06:30 PM,82 °F,79 °F,89 °%,NNW,6 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+12/06/2021,07:00 PM,82 °F,79 °F,89 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+12/06/2021,07:30 PM,82 °F,79 °F,89 °%,N,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+12/06/2021,08:00 PM,84 °F,77 °F,79 °%,N,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+12/06/2021,08:30 PM,82 °F,77 °F,84 °%,NNE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+12/06/2021,09:00 PM,84 °F,77 °F,79 °%,NE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+12/06/2021,09:30 PM,84 °F,77 °F,79 °%,NNE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+12/06/2021,10:00 PM,84 °F,77 °F,79 °%,N,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+12/06/2021,10:30 PM,82 °F,77 °F,84 °%,N,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/06/2021,11:00 PM,84 °F,77 °F,79 °%,N,10 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+12/06/2021,11:30 PM,82 °F,77 °F,84 °%,NNE,10 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+13/06/2021,12:00 AM,82 °F,77 °F,84 °%,N,15 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+13/06/2021,12:30 AM,81 °F,77 °F,89 °%,N,10 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,01:00 AM,81 °F,77 °F,89 °%,N,8 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain
+13/06/2021,01:30 AM,82 °F,77 °F,84 °%,NNE,13 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+13/06/2021,02:00 AM,81 °F,77 °F,89 °%,NNE,14 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain
+13/06/2021,02:30 AM,82 °F,77 °F,84 °%,NNE,15 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+13/06/2021,03:00 AM,81 °F,77 °F,89 °%,NNE,15 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+13/06/2021,03:30 AM,82 °F,77 °F,84 °%,NNE,14 °mph,0 °mph,29.49 °in,0.0 °in,Rain
+13/06/2021,04:00 AM,79 °F,77 °F,94 °%,NE,17 °mph,0 °mph,29.52 °in,0.0 °in,Heavy Rain
+13/06/2021,04:30 AM,79 °F,77 °F,94 °%,ENE,14 °mph,0 °mph,29.55 °in,0.0 °in,Cloudy
+13/06/2021,05:00 AM,79 °F,77 °F,94 °%,ENE,13 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+13/06/2021,05:30 AM,77 °F,77 °F,100 °%,NE,10 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,06:00 AM,79 °F,77 °F,94 °%,NE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/06/2021,06:30 AM,79 °F,77 °F,94 °%,NE,13 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,07:00 AM,81 °F,77 °F,89 °%,NE,16 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,07:30 AM,81 °F,77 °F,89 °%,NE,14 °mph,0 °mph,29.55 °in,0.0 °in,Cloudy
+13/06/2021,08:00 AM,81 °F,77 °F,89 °%,ENE,10 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+13/06/2021,08:30 AM,77 °F,75 °F,94 °%,ESE,14 °mph,0 °mph,29.61 °in,0.0 °in,Rain
+13/06/2021,09:00 AM,79 °F,77 °F,94 °%,ENE,10 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+13/06/2021,09:30 AM,79 °F,77 °F,94 °%,ENE,10 °mph,0 °mph,29.61 °in,0.0 °in,Heavy Rain
+13/06/2021,10:00 AM,79 °F,77 °F,94 °%,ENE,8 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+13/06/2021,10:30 AM,82 °F,79 °F,89 °%,E,12 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+13/06/2021,11:00 AM,84 °F,79 °F,84 °%,ENE,13 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+13/06/2021,11:30 AM,86 °F,79 °F,79 °%,E,15 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,12:00 PM,82 °F,79 °F,89 °%,E,12 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+13/06/2021,12:30 PM,86 °F,79 °F,79 °%,E,15 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,01:00 PM,86 °F,79 °F,79 °%,E,17 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,01:30 PM,84 °F,79 °F,84 °%,E,16 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+13/06/2021,02:00 PM,86 °F,79 °F,79 °%,E,14 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+13/06/2021,02:30 PM,86 °F,79 °F,79 °%,E,13 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+13/06/2021,03:00 PM,82 °F,79 °F,89 °%,E,15 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain
+13/06/2021,03:30 PM,88 °F,81 °F,79 °%,E,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+13/06/2021,04:00 PM,88 °F,81 °F,79 °%,E,13 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+13/06/2021,04:30 PM,84 °F,79 °F,84 °%,E,13 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+13/06/2021,05:00 PM,86 °F,79 °F,79 °%,E,12 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+13/06/2021,05:30 PM,84 °F,77 °F,79 °%,E,13 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+13/06/2021,06:00 PM,84 °F,79 °F,84 °%,E,10 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+13/06/2021,06:30 PM,84 °F,79 °F,84 °%,E,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+13/06/2021,07:00 PM,82 °F,79 °F,89 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/06/2021,07:30 PM,82 °F,77 °F,84 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/06/2021,08:00 PM,82 °F,77 °F,84 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/06/2021,08:30 PM,81 °F,77 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/06/2021,09:00 PM,81 °F,77 °F,89 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/06/2021,09:30 PM,81 °F,79 °F,94 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/06/2021,10:00 PM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/06/2021,10:30 PM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/06/2021,11:00 PM,81 °F,79 °F,94 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/06/2021,11:30 PM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,12:00 AM,81 °F,79 °F,94 °%,ENE,8 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,12:30 AM,81 °F,79 °F,94 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,01:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,01:30 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,02:00 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,02:30 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,03:00 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+14/06/2021,03:30 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,04:00 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,04:30 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,05:00 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,05:30 AM,79 °F,79 °F,100 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/06/2021,06:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/06/2021,06:30 AM,81 °F,79 °F,94 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/06/2021,07:00 AM,81 °F,79 °F,94 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,07:30 AM,82 °F,81 °F,94 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,08:00 AM,84 °F,81 °F,89 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,08:30 AM,84 °F,77 °F,79 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+14/06/2021,09:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+14/06/2021,09:30 AM,86 °F,73 °F,66 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+14/06/2021,10:00 AM,88 °F,72 °F,58 °%,SSE,10 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,10:30 AM,90 °F,73 °F,59 °%,SSE,10 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+14/06/2021,11:00 AM,90 °F,73 °F,59 °%,S,12 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+14/06/2021,11:30 AM,91 °F,72 °F,52 °%,S,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,12:00 PM,90 °F,72 °F,55 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+14/06/2021,12:30 PM,91 °F,72 °F,52 °%,SSE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,01:00 PM,91 °F,72 °F,52 °%,SSE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,01:30 PM,91 °F,70 °F,49 °%,SSE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,02:00 PM,93 °F,72 °F,49 °%,SSE,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+14/06/2021,02:30 PM,93 °F,72 °F,49 °%,SSE,10 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+14/06/2021,03:00 PM,93 °F,72 °F,49 °%,SSE,10 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+14/06/2021,03:30 PM,93 °F,72 °F,49 °%,SE,12 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+14/06/2021,04:00 PM,93 °F,73 °F,52 °%,SE,12 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+14/06/2021,04:30 PM,93 °F,72 °F,49 °%,SE,12 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+14/06/2021,05:00 PM,91 °F,73 °F,55 °%,SE,13 °mph,0 °mph,29.43 °in,0.0 °in,Mostly Cloudy
+14/06/2021,05:30 PM,91 °F,72 °F,52 °%,ESE,12 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+14/06/2021,06:00 PM,90 °F,73 °F,59 °%,ESE,12 °mph,0 °mph,29.43 °in,0.0 °in,Mostly Cloudy
+14/06/2021,06:30 PM,90 °F,73 °F,59 °%,SE,12 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+14/06/2021,07:00 PM,90 °F,73 °F,59 °%,SE,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+14/06/2021,07:30 PM,88 °F,73 °F,62 °%,SE,15 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+14/06/2021,08:00 PM,88 °F,73 °F,62 °%,SE,13 °mph,0 °mph,29.46 °in,0.0 °in,Mostly Cloudy
+14/06/2021,08:30 PM,84 °F,70 °F,62 °%,S,15 °mph,29 °mph,29.49 °in,0.0 °in,Light Rain
+14/06/2021,09:00 PM,81 °F,79 °F,94 °%,SSE,14 °mph,0 °mph,29.52 °in,0.0 °in,Rain Shower
+14/06/2021,09:30 PM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,10:00 PM,81 °F,79 °F,94 °%,NNE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,10:30 PM,81 °F,79 °F,94 °%,NNW,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+14/06/2021,11:00 PM,81 °F,79 °F,94 °%,NE,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+14/06/2021,11:30 PM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,12:00 AM,81 °F,79 °F,94 °%,NNE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,12:30 AM,82 °F,79 °F,89 °%,NE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,01:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,01:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,02:00 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,02:30 AM,81 °F,79 °F,94 °%,ENE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,03:00 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,03:30 AM,81 °F,79 °F,94 °%,E,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,04:00 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,04:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,05:00 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,05:30 AM,81 °F,79 °F,94 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,06:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,06:30 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,07:00 AM,84 °F,79 °F,84 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,07:30 AM,84 °F,77 °F,79 °%,SE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,08:00 AM,86 °F,75 °F,70 °%,SSE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,08:30 AM,88 °F,73 °F,62 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,09:00 AM,90 °F,72 °F,55 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,09:30 AM,90 °F,70 °F,52 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,10:00 AM,91 °F,70 °F,49 °%,SW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,10:30 AM,91 °F,70 °F,49 °%,W,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,11:00 AM,91 °F,68 °F,46 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/06/2021,11:30 AM,93 °F,70 °F,46 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,12:00 PM,93 °F,70 °F,46 °%,SSW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,12:30 PM,93 °F,72 °F,49 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+15/06/2021,01:00 PM,93 °F,70 °F,46 °%,SE,3 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+15/06/2021,01:30 PM,93 °F,68 °F,44 °%,VAR,1 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,02:00 PM,95 °F,70 °F,44 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,02:30 PM,95 °F,72 °F,47 °%,SSE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,03:00 PM,91 °F,72 °F,52 °%,ESE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,03:30 PM,93 °F,73 °F,52 °%,E,8 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,04:00 PM,95 °F,72 °F,47 °%,SE,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,04:30 PM,93 °F,70 °F,46 °%,S,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,05:00 PM,93 °F,72 °F,49 °%,SSE,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,05:30 PM,93 °F,72 °F,49 °%,SE,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,06:00 PM,91 °F,72 °F,52 °%,SE,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,06:30 PM,91 °F,72 °F,52 °%,ESE,9 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,07:00 PM,88 °F,73 °F,62 °%,E,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,07:30 PM,88 °F,73 °F,62 °%,E,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+15/06/2021,08:00 PM,88 °F,75 °F,66 °%,E,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,08:30 PM,88 °F,75 °F,66 °%,E,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,09:00 PM,88 °F,81 °F,79 °%,ESE,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+15/06/2021,09:30 PM,88 °F,81 °F,79 °%,ESE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,10:00 PM,88 °F,81 °F,79 °%,E,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,10:30 PM,86 °F,81 °F,84 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,11:00 PM,86 °F,81 °F,84 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+15/06/2021,11:30 PM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,12:00 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,12:30 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,01:00 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,01:30 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,02:00 AM,84 °F,81 °F,89 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,02:30 AM,82 °F,81 °F,94 °%,ENE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+16/06/2021,03:00 AM,82 °F,81 °F,94 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,03:30 AM,82 °F,81 °F,94 °%,E,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,04:00 AM,82 °F,81 °F,94 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,04:30 AM,82 °F,81 °F,94 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,05:00 AM,82 °F,81 °F,94 °%,ENE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,05:30 AM,82 °F,81 °F,94 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,06:00 AM,82 °F,81 °F,94 °%,ENE,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,06:30 AM,82 °F,81 °F,94 °%,ENE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,07:00 AM,84 °F,82 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,07:30 AM,86 °F,81 °F,84 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,08:00 AM,88 °F,81 °F,79 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,08:30 AM,90 °F,79 °F,70 °%,ESE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,09:00 AM,90 °F,75 °F,62 °%,SE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,09:30 AM,93 °F,72 °F,49 °%,S,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,10:00 AM,93 °F,72 °F,49 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,10:30 AM,93 °F,70 °F,46 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,11:00 AM,95 °F,70 °F,44 °%,VAR,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,11:30 AM,95 °F,70 °F,44 °%,VAR,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,12:00 PM,95 °F,70 °F,44 °%,VAR,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,12:30 PM,95 °F,72 °F,47 °%,VAR,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,01:00 PM,97 °F,72 °F,44 °%,SSW,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,01:30 PM,97 °F,70 °F,41 °%,W,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,02:00 PM,,,,,,,,,
+16/06/2021,02:30 PM,99 °F,72 °F,42 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,03:00 PM,99 °F,70 °F,39 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,03:30 PM,97 °F,70 °F,41 °%,S,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,04:00 PM,97 °F,72 °F,44 °%,SSE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,04:30 PM,97 °F,70 °F,41 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,05:00 PM,97 °F,70 °F,41 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,05:30 PM,97 °F,72 °F,44 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,06:00 PM,95 °F,72 °F,47 °%,ESE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,06:30 PM,93 °F,73 °F,52 °%,E,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,07:00 PM,91 °F,73 °F,55 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/06/2021,07:30 PM,90 °F,75 °F,62 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,08:00 PM,90 °F,73 °F,59 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/06/2021,08:30 PM,91 °F,73 °F,55 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,09:00 PM,91 °F,73 °F,55 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/06/2021,09:30 PM,90 °F,75 °F,62 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/06/2021,10:00 PM,90 °F,75 °F,62 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/06/2021,10:30 PM,88 °F,75 °F,66 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/06/2021,11:00 PM,88 °F,81 °F,79 °%,ESE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/06/2021,11:30 PM,86 °F,81 °F,84 °%,ESE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,12:00 AM,86 °F,81 °F,84 °%,E,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,12:30 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,01:00 AM,86 °F,81 °F,84 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,01:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,02:00 AM,86 °F,81 °F,84 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,02:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,03:00 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,03:30 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,04:00 AM,82 °F,81 °F,94 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,04:30 AM,82 °F,81 °F,94 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,05:00 AM,82 °F,81 °F,94 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,05:30 AM,82 °F,81 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,06:00 AM,84 °F,81 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,06:30 AM,86 °F,82 °F,89 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,07:00 AM,86 °F,82 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,07:30 AM,88 °F,82 °F,84 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,08:00 AM,90 °F,82 °F,79 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,08:30 AM,91 °F,81 °F,71 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,09:00 AM,93 °F,75 °F,56 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,09:30 AM,93 °F,75 °F,56 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,10:00 AM,95 °F,75 °F,53 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,10:30 AM,95 °F,73 °F,49 °%,N,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,11:00 AM,95 °F,72 °F,47 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,11:30 AM,97 °F,72 °F,44 °%,S,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,12:00 PM,97 °F,72 °F,44 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,12:30 PM,97 °F,72 °F,44 °%,NW,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,01:00 PM,99 °F,72 °F,42 °%,NNW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,01:30 PM,99 °F,70 °F,39 °%,WSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,02:00 PM,99 °F,70 °F,39 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,02:30 PM,99 °F,68 °F,37 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,03:00 PM,99 °F,70 °F,39 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,03:30 PM,99 °F,70 °F,39 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,04:00 PM,99 °F,70 °F,39 °%,SE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,04:30 PM,99 °F,70 °F,39 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,05:00 PM,97 °F,72 °F,44 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,05:30 PM,97 °F,70 °F,41 °%,SE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,06:00 PM,97 °F,70 °F,41 °%,SE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/06/2021,06:30 PM,95 °F,73 °F,49 °%,SE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,07:00 PM,93 °F,73 °F,52 °%,SE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/06/2021,07:30 PM,93 °F,73 °F,52 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,08:00 PM,91 °F,73 °F,55 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,08:30 PM,91 °F,75 °F,59 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/06/2021,09:00 PM,91 °F,75 °F,59 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,09:30 PM,90 °F,75 °F,62 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,10:00 PM,90 °F,75 °F,62 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,10:30 PM,88 °F,75 °F,66 °%,ESE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/06/2021,11:00 PM,88 °F,77 °F,70 °%,ESE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/06/2021,11:30 PM,88 °F,79 °F,75 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,12:00 AM,86 °F,81 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,12:30 AM,86 °F,81 °F,84 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,01:00 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,01:30 AM,86 °F,81 °F,84 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,02:00 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,02:30 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,03:00 AM,84 °F,81 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,03:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,04:00 AM,84 °F,82 °F,94 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,04:30 AM,84 °F,82 °F,94 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,05:00 AM,84 °F,81 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,05:30 AM,84 °F,81 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,06:00 AM,84 °F,81 °F,89 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,06:30 AM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,07:00 AM,88 °F,82 °F,84 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,07:30 AM,88 °F,82 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,08:00 AM,90 °F,82 °F,79 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,08:30 AM,91 °F,81 °F,71 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,09:00 AM,91 °F,81 °F,71 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,09:30 AM,93 °F,81 °F,67 °%,NNE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,10:00 AM,93 °F,75 °F,56 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/06/2021,10:30 AM,93 °F,73 °F,52 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,11:00 AM,95 °F,73 °F,49 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,11:30 AM,97 °F,73 °F,47 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/06/2021,12:00 PM,99 °F,73 °F,44 °%,NW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,12:30 PM,99 °F,73 °F,44 °%,NW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,01:00 PM,97 °F,72 °F,44 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,01:30 PM,99 °F,70 °F,39 °%,NNW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,02:00 PM,99 °F,70 °F,39 °%,WSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,02:30 PM,99 °F,68 °F,37 °%,VAR,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,03:00 PM,100 °F,68 °F,35 °%,SSW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,03:30 PM,100 °F,70 °F,37 °%,WSW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,04:00 PM,100 °F,70 °F,37 °%,SW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,04:30 PM,100 °F,68 °F,35 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,05:00 PM,100 °F,68 °F,35 °%,SW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+18/06/2021,05:30 PM,99 °F,68 °F,37 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,06:00 PM,99 °F,70 °F,39 °%,SSE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,06:30 PM,99 °F,70 °F,39 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,07:00 PM,97 °F,70 °F,41 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,07:30 PM,97 °F,72 °F,44 °%,SSE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/06/2021,08:00 PM,95 °F,73 °F,49 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,08:30 PM,93 °F,75 °F,56 °%,SE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,09:00 PM,93 °F,77 °F,59 °%,SE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,09:30 PM,91 °F,77 °F,63 °%,SE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/06/2021,10:00 PM,91 °F,75 °F,59 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,10:30 PM,91 °F,75 °F,59 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,11:00 PM,90 °F,75 °F,62 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/06/2021,11:30 PM,90 °F,75 °F,62 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,12:00 AM,90 °F,75 °F,62 °%,SSE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,12:30 AM,88 °F,77 °F,70 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,01:00 AM,88 °F,77 °F,70 °%,SSE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,01:30 AM,88 °F,81 °F,79 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,02:00 AM,88 °F,81 °F,79 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,02:30 AM,88 °F,81 °F,79 °%,SSE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,03:00 AM,86 °F,82 °F,89 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,03:30 AM,84 °F,81 °F,89 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,04:00 AM,84 °F,82 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,04:30 AM,84 °F,82 °F,94 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,05:00 AM,84 °F,81 °F,89 °%,NE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,05:30 AM,84 °F,81 °F,89 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,06:00 AM,84 °F,82 °F,94 °%,E,2 °mph,0 °mph,29.55 °in,0.0 °in,Fog
+19/06/2021,06:30 AM,86 °F,82 °F,89 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,07:00 AM,90 °F,81 °F,75 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,07:30 AM,91 °F,73 °F,55 °%,SSE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,08:00 AM,91 °F,70 °F,49 °%,S,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,08:30 AM,93 °F,70 °F,46 °%,SW,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,09:00 AM,95 °F,68 °F,41 °%,W,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,09:30 AM,95 °F,70 °F,44 °%,W,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/06/2021,10:00 AM,97 °F,70 °F,41 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,10:30 AM,97 °F,72 °F,44 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,11:00 AM,97 °F,68 °F,39 °%,WSW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/06/2021,11:30 AM,99 °F,70 °F,39 °%,WSW,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,12:00 PM,99 °F,68 °F,37 °%,W,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,12:30 PM,100 °F,70 °F,37 °%,WSW,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/06/2021,01:00 PM,100 °F,68 °F,35 °%,WSW,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+19/06/2021,01:30 PM,100 °F,68 °F,35 °%,VAR,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+19/06/2021,02:00 PM,100 °F,70 °F,37 °%,W,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,02:30 PM,102 °F,70 °F,35 °%,VAR,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,03:00 PM,102 °F,68 °F,33 °%,W,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,03:30 PM,102 °F,68 °F,33 °%,SW,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,04:00 PM,102 °F,68 °F,33 °%,VAR,8 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,04:30 PM,102 °F,66 °F,31 °%,SW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,05:00 PM,102 °F,66 °F,31 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,05:30 PM,102 °F,66 °F,31 °%,SW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,06:00 PM,100 °F,68 °F,35 °%,WSW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,06:30 PM,100 °F,68 °F,35 °%,WSW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,07:00 PM,99 °F,70 °F,39 °%,SW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+19/06/2021,07:30 PM,97 °F,70 °F,41 °%,SW,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,08:00 PM,97 °F,70 °F,41 °%,SW,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,08:30 PM,95 °F,72 °F,47 °%,SSW,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,09:00 PM,95 °F,70 °F,44 °%,SSW,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,09:30 PM,95 °F,70 °F,44 °%,SSW,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+19/06/2021,10:00 PM,95 °F,68 °F,41 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+19/06/2021,10:30 PM,93 °F,68 °F,44 °%,S,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+19/06/2021,11:00 PM,93 °F,68 °F,44 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+19/06/2021,11:30 PM,93 °F,68 °F,44 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,12:00 AM,93 °F,68 °F,44 °%,SSW,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,12:30 AM,90 °F,73 °F,59 °%,ESE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,01:00 AM,90 °F,75 °F,62 °%,SSE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,01:30 AM,90 °F,77 °F,66 °%,SSE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,02:00 AM,90 °F,75 °F,62 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,02:30 AM,90 °F,72 °F,55 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,03:00 AM,88 °F,81 °F,79 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,03:30 AM,90 °F,70 °F,52 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,04:00 AM,88 °F,72 °F,58 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,04:30 AM,88 °F,70 °F,55 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,05:00 AM,88 °F,72 °F,58 °%,WNW,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,05:30 AM,86 °F,79 °F,79 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,06:00 AM,86 °F,81 °F,84 °%,NNW,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,06:30 AM,91 °F,75 °F,59 °%,VAR,1 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,07:00 AM,91 °F,73 °F,55 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,07:30 AM,91 °F,72 °F,52 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,08:00 AM,93 °F,73 °F,52 °%,WNW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,08:30 AM,95 °F,68 °F,41 °%,W,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,09:00 AM,95 °F,68 °F,41 °%,W,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,09:30 AM,97 °F,70 °F,41 °%,W,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,10:00 AM,97 °F,70 °F,41 °%,WSW,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,10:30 AM,99 °F,70 °F,39 °%,W,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,11:00 AM,99 °F,70 °F,39 °%,WSW,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+20/06/2021,11:30 AM,100 °F,68 °F,35 °%,WSW,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,12:00 PM,100 °F,68 °F,35 °%,SW,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,12:30 PM,100 °F,66 °F,33 °%,WSW,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,01:00 PM,100 °F,68 °F,35 °%,W,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+20/06/2021,01:30 PM,102 °F,66 °F,31 °%,W,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+20/06/2021,02:00 PM,102 °F,68 °F,33 °%,WSW,6 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,02:30 PM,102 °F,68 °F,33 °%,WSW,6 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,03:00 PM,102 °F,66 °F,31 °%,VAR,5 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,03:30 PM,102 °F,66 °F,31 °%,W,5 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,04:00 PM,102 °F,66 °F,31 °%,VAR,2 °mph,0 °mph,29.37 °in,0.0 °in,Fair
+20/06/2021,04:30 PM,102 °F,66 °F,31 °%,WSW,3 °mph,0 °mph,29.37 °in,0.0 °in,Fair
+20/06/2021,05:00 PM,104 °F,64 °F,27 °%,VAR,2 °mph,0 °mph,29.37 °in,0.0 °in,Fair
+20/06/2021,05:30 PM,102 °F,66 °F,31 °%,WSW,3 °mph,0 °mph,29.37 °in,0.0 °in,Fair
+20/06/2021,06:00 PM,102 °F,66 °F,31 °%,VAR,2 °mph,0 °mph,29.37 °in,0.0 °in,Fair
+20/06/2021,06:30 PM,100 °F,66 °F,33 °%,VAR,2 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,07:00 PM,100 °F,66 °F,33 °%,SSW,3 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,07:30 PM,99 °F,70 °F,39 °%,S,5 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+20/06/2021,08:00 PM,99 °F,70 °F,39 °%,SSE,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+20/06/2021,08:30 PM,97 °F,70 °F,41 °%,SSE,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+20/06/2021,09:00 PM,97 °F,70 °F,41 °%,SSE,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+20/06/2021,09:30 PM,97 °F,70 °F,41 °%,SSE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,10:00 PM,95 °F,72 °F,47 °%,SSE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,10:30 PM,95 °F,72 °F,47 °%,SSE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,11:00 PM,93 °F,73 °F,52 °%,SSE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+20/06/2021,11:30 PM,93 °F,73 °F,52 °%,SE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,12:00 AM,91 °F,75 °F,59 °%,SE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,12:30 AM,90 °F,77 °F,66 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,01:00 AM,88 °F,81 °F,79 °%,E,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,01:30 AM,88 °F,81 °F,79 °%,ENE,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,02:00 AM,88 °F,81 °F,79 °%,E,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,02:30 AM,88 °F,81 °F,79 °%,E,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,03:00 AM,86 °F,81 °F,84 °%,E,3 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,03:30 AM,86 °F,81 °F,84 °%,E,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,04:00 AM,86 °F,81 °F,84 °%,ENE,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,04:30 AM,86 °F,81 °F,84 °%,E,3 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,05:00 AM,86 °F,81 °F,84 °%,E,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,05:30 AM,86 °F,81 °F,84 °%,ENE,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,06:00 AM,86 °F,82 °F,89 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,06:30 AM,88 °F,82 °F,84 °%,VAR,1 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,07:00 AM,90 °F,82 °F,79 °%,NNE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,07:30 AM,90 °F,81 °F,75 °%,NNE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,08:00 AM,91 °F,81 °F,71 °%,NNE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,08:30 AM,91 °F,81 °F,71 °%,NNE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,09:00 AM,93 °F,75 °F,56 °%,N,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,09:30 AM,95 °F,72 °F,47 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,10:00 AM,95 °F,72 °F,47 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,10:30 AM,97 °F,73 °F,47 °%,NNE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,11:00 AM,97 °F,73 °F,47 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,11:30 AM,99 °F,73 °F,44 °%,NNW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,12:00 PM,99 °F,72 °F,42 °%,VAR,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,12:30 PM,99 °F,72 °F,42 °%,N,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,01:00 PM,99 °F,70 °F,39 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,01:30 PM,100 °F,72 °F,39 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,02:00 PM,100 °F,72 °F,39 °%,VAR,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,02:30 PM,100 °F,70 °F,37 °%,N,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,03:00 PM,100 °F,72 °F,39 °%,WNW,3 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,03:30 PM,100 °F,70 °F,37 °%,VAR,3 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,04:00 PM,100 °F,70 °F,37 °%,SSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,04:30 PM,100 °F,70 °F,37 °%,SSW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,05:00 PM,100 °F,70 °F,37 °%,SW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,05:30 PM,99 °F,70 °F,39 °%,VAR,2 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,06:00 PM,99 °F,70 °F,39 °%,WSW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,06:30 PM,99 °F,70 °F,39 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+21/06/2021,07:00 PM,99 °F,70 °F,39 °%,W,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,07:30 PM,97 °F,70 °F,41 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+21/06/2021,08:00 PM,93 °F,75 °F,56 °%,N,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,08:30 PM,93 °F,75 °F,56 °%,E,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,09:00 PM,91 °F,75 °F,59 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+21/06/2021,09:30 PM,95 °F,73 °F,49 °%,SSE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+21/06/2021,10:00 PM,91 °F,75 °F,59 °%,ESE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+21/06/2021,10:30 PM,93 °F,75 °F,56 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+21/06/2021,11:00 PM,91 °F,75 °F,59 °%,ESE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+21/06/2021,11:30 PM,90 °F,75 °F,62 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,12:00 AM,90 °F,75 °F,62 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,12:30 AM,90 °F,77 °F,66 °%,ENE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,01:00 AM,88 °F,77 °F,70 °%,ENE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,01:30 AM,88 °F,81 °F,79 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,02:00 AM,88 °F,81 °F,79 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,02:30 AM,88 °F,79 °F,75 °%,ENE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,03:00 AM,88 °F,81 °F,79 °%,NE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,03:30 AM,88 °F,79 °F,75 °%,ENE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,04:00 AM,86 °F,77 °F,74 °%,ENE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,04:30 AM,86 °F,77 °F,74 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,05:00 AM,86 °F,77 °F,74 °%,ENE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,05:30 AM,86 °F,79 °F,79 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,06:00 AM,86 °F,79 °F,79 °%,NE,7 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+22/06/2021,06:30 AM,86 °F,79 °F,79 °%,NE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+22/06/2021,07:00 AM,86 °F,79 °F,79 °%,NE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+22/06/2021,07:30 AM,88 °F,79 °F,75 °%,NE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/06/2021,08:00 AM,,,,,,,,,
+22/06/2021,08:30 AM,90 °F,75 °F,62 °%,NE,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+22/06/2021,09:00 AM,90 °F,75 °F,62 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+22/06/2021,09:30 AM,91 °F,75 °F,59 °%,NNE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+22/06/2021,10:00 AM,91 °F,75 °F,59 °%,NE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+22/06/2021,10:30 AM,93 °F,77 °F,59 °%,NNE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/06/2021,11:00 AM,93 °F,75 °F,56 °%,NE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/06/2021,11:30 AM,93 °F,75 °F,56 °%,NE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/06/2021,12:00 PM,93 °F,75 °F,56 °%,NNE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+22/06/2021,12:30 PM,93 °F,75 °F,56 °%,NE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+22/06/2021,01:00 PM,95 °F,75 °F,53 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,01:30 PM,95 °F,75 °F,53 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+22/06/2021,02:00 PM,97 °F,73 °F,47 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,02:30 PM,97 °F,75 °F,50 °%,N,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,03:00 PM,99 °F,75 °F,47 °%,NE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,03:30 PM,97 °F,75 °F,50 °%,N,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,04:00 PM,97 °F,75 °F,50 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,04:30 PM,97 °F,75 °F,50 °%,NNE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+22/06/2021,05:00 PM,97 °F,75 °F,50 °%,E,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+22/06/2021,05:30 PM,95 °F,75 °F,53 °%,E,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,06:00 PM,95 °F,75 °F,53 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,06:30 PM,95 °F,73 °F,49 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,07:00 PM,93 °F,75 °F,56 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+22/06/2021,07:30 PM,91 °F,75 °F,59 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+22/06/2021,08:00 PM,91 °F,75 °F,59 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+22/06/2021,08:30 PM,90 °F,70 °F,52 °%,WSW,15 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+22/06/2021,09:00 PM,81 °F,75 °F,84 °%,SSW,12 °mph,0 °mph,29.61 °in,0.0 °in,Heavy T-Storm
+22/06/2021,09:30 PM,81 °F,77 °F,89 °%,S,10 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain with Thunder
+22/06/2021,10:00 PM,81 °F,75 °F,84 °%,S,10 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+22/06/2021,10:30 PM,79 °F,75 °F,89 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+22/06/2021,11:00 PM,81 °F,75 °F,84 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/06/2021,11:30 PM,82 °F,73 °F,74 °%,WSW,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/06/2021,12:00 AM,82 °F,75 °F,79 °%,SW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,12:30 AM,82 °F,77 °F,84 °%,WSW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,01:00 AM,82 °F,75 °F,79 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,01:30 AM,82 °F,75 °F,79 °%,S,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+23/06/2021,02:00 AM,81 °F,75 °F,84 °%,SSW,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+23/06/2021,02:30 AM,79 °F,73 °F,83 °%,SSE,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+23/06/2021,03:00 AM,79 °F,73 °F,83 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,03:30 AM,81 °F,73 °F,79 °%,S,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,04:00 AM,81 °F,75 °F,84 °%,ESE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,04:30 AM,81 °F,77 °F,89 °%,SSE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,05:00 AM,79 °F,77 °F,94 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,05:30 AM,79 °F,77 °F,94 °%,ENE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,06:00 AM,79 °F,77 °F,94 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+23/06/2021,06:30 AM,81 °F,77 °F,89 °%,NNE,5 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+23/06/2021,07:00 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/06/2021,07:30 AM,81 °F,77 °F,89 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+23/06/2021,08:00 AM,81 °F,79 °F,94 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Light Rain
+23/06/2021,08:30 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+23/06/2021,09:00 AM,82 °F,77 °F,84 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/06/2021,09:30 AM,82 °F,77 °F,84 °%,VAR,3 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+23/06/2021,10:00 AM,84 °F,77 °F,79 °%,WNW,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/06/2021,10:30 AM,86 °F,79 °F,79 °%,W,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/06/2021,11:00 AM,88 °F,77 °F,70 °%,W,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/06/2021,11:30 AM,90 °F,75 °F,62 °%,W,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,12:00 PM,90 °F,75 °F,62 °%,W,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,12:30 PM,91 °F,75 °F,59 °%,W,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+23/06/2021,01:00 PM,91 °F,75 °F,59 °%,VAR,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+23/06/2021,01:30 PM,91 °F,73 °F,55 °%,NW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,02:00 PM,91 °F,73 °F,55 °%,NW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,02:30 PM,93 °F,73 °F,52 °%,W,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,03:00 PM,93 °F,73 °F,52 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,03:30 PM,91 °F,72 °F,52 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,04:00 PM,91 °F,73 °F,55 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,04:30 PM,91 °F,73 °F,55 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+23/06/2021,05:00 PM,91 °F,73 °F,55 °%,SE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+23/06/2021,05:30 PM,91 °F,73 °F,55 °%,SSE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+23/06/2021,06:00 PM,91 °F,73 °F,55 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+23/06/2021,06:30 PM,91 °F,73 °F,55 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,07:00 PM,90 °F,73 °F,59 °%,SE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,07:30 PM,90 °F,73 °F,59 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,08:00 PM,90 °F,75 °F,62 °%,SSE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+23/06/2021,08:30 PM,88 °F,75 °F,66 °%,SSE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+23/06/2021,09:00 PM,88 °F,81 °F,79 °%,SSE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+23/06/2021,09:30 PM,88 °F,81 °F,79 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,10:00 PM,86 °F,81 °F,84 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,10:30 PM,86 °F,81 °F,84 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,11:00 PM,86 °F,81 °F,84 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/06/2021,11:30 PM,86 °F,81 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/06/2021,12:00 AM,84 °F,81 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,12:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,01:00 AM,84 °F,81 °F,89 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,01:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,02:00 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,02:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,03:00 AM,82 °F,81 °F,94 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,03:30 AM,84 °F,81 °F,89 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,04:00 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,04:30 AM,84 °F,81 °F,89 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+24/06/2021,05:00 AM,84 °F,81 °F,89 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+24/06/2021,05:30 AM,84 °F,81 °F,89 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+24/06/2021,06:00 AM,84 °F,81 °F,89 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+24/06/2021,06:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+24/06/2021,07:00 AM,84 °F,81 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+24/06/2021,07:30 AM,86 °F,81 °F,84 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,08:00 AM,88 °F,82 °F,84 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+24/06/2021,08:30 AM,90 °F,82 °F,79 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+24/06/2021,09:00 AM,90 °F,82 °F,79 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+24/06/2021,09:30 AM,90 °F,81 °F,75 °%,NNE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+24/06/2021,10:00 AM,86 °F,79 °F,79 °%,N,12 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+24/06/2021,10:30 AM,82 °F,77 °F,84 °%,N,12 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+24/06/2021,11:00 AM,82 °F,75 °F,79 °%,N,9 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,11:30 AM,77 °F,75 °F,94 °%,N,10 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain with Thunder
+24/06/2021,12:00 PM,79 °F,77 °F,94 °%,NNE,7 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,12:30 PM,79 °F,75 °F,89 °%,NE,6 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,01:00 PM,79 °F,77 °F,94 °%,NE,6 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,01:30 PM,79 °F,77 °F,94 °%,NE,7 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,02:00 PM,79 °F,77 °F,94 °%,ENE,9 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+24/06/2021,02:30 PM,79 °F,77 °F,94 °%,ENE,9 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+24/06/2021,03:00 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+24/06/2021,03:30 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+24/06/2021,04:00 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+24/06/2021,04:30 PM,79 °F,77 °F,94 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+24/06/2021,05:00 PM,79 °F,77 °F,94 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+24/06/2021,05:30 PM,79 °F,77 °F,94 °%,NE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+24/06/2021,06:00 PM,79 °F,77 °F,94 °%,ESE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,06:30 PM,79 °F,77 °F,94 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,07:00 PM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,07:30 PM,79 °F,77 °F,94 °%,ENE,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+24/06/2021,08:00 PM,79 °F,77 °F,94 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,08:30 PM,79 °F,77 °F,94 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,09:00 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+24/06/2021,09:30 PM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/06/2021,10:00 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/06/2021,10:30 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/06/2021,11:00 PM,79 °F,77 °F,94 °%,ENE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/06/2021,11:30 PM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+25/06/2021,12:00 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+25/06/2021,12:30 AM,79 °F,77 °F,94 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/06/2021,01:00 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,01:30 AM,79 °F,77 °F,94 °%,NE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/06/2021,02:00 AM,79 °F,77 °F,94 °%,NE,8 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,02:30 AM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,03:00 AM,79 °F,77 °F,94 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+25/06/2021,03:30 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,04:00 AM,79 °F,77 °F,94 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+25/06/2021,04:30 AM,79 °F,77 °F,94 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,05:00 AM,79 °F,77 °F,94 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,05:30 AM,79 °F,77 °F,94 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+25/06/2021,06:00 AM,79 °F,77 °F,94 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,06:30 AM,79 °F,77 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/06/2021,07:00 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/06/2021,07:30 AM,81 °F,79 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,08:00 AM,82 °F,79 °F,89 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,08:30 AM,,,,,,,,,
+25/06/2021,09:00 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+25/06/2021,09:30 AM,82 °F,79 °F,89 °%,ENE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/06/2021,10:00 AM,82 °F,79 °F,89 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/06/2021,10:30 AM,82 °F,79 °F,89 °%,NNE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/06/2021,11:00 AM,84 °F,79 °F,84 °%,NE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,11:30 AM,84 °F,81 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,12:00 PM,86 °F,79 °F,79 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+25/06/2021,12:30 PM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+25/06/2021,01:00 PM,88 °F,81 °F,79 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+25/06/2021,01:30 PM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,02:00 PM,88 °F,79 °F,75 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,02:30 PM,88 °F,77 °F,70 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+25/06/2021,03:00 PM,88 °F,77 °F,70 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+25/06/2021,03:30 PM,88 °F,77 °F,70 °%,ESE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+25/06/2021,04:00 PM,90 °F,73 °F,59 °%,E,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+25/06/2021,04:30 PM,90 °F,75 °F,62 °%,ESE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+25/06/2021,05:00 PM,90 °F,75 °F,62 °%,E,9 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+25/06/2021,05:30 PM,90 °F,75 °F,62 °%,E,9 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+25/06/2021,06:00 PM,88 °F,75 °F,66 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+25/06/2021,06:30 PM,88 °F,81 °F,79 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+25/06/2021,07:00 PM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+25/06/2021,07:30 PM,86 °F,82 °F,89 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Thunder in the Vicinity
+25/06/2021,08:00 PM,82 °F,75 °F,79 °%,WSW,16 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain Shower
+25/06/2021,08:30 PM,77 °F,75 °F,94 °%,W,18 °mph,0 °mph,29.58 °in,0.0 °in,T-Storm
+25/06/2021,09:00 PM,77 °F,75 °F,94 °%,SSW,7 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+25/06/2021,09:30 PM,77 °F,77 °F,100 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+25/06/2021,10:00 PM,77 °F,75 °F,94 °%,S,5 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+25/06/2021,10:30 PM,77 °F,75 °F,94 °%,S,6 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+25/06/2021,11:00 PM,77 °F,75 °F,94 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+25/06/2021,11:30 PM,79 °F,75 °F,89 °%,SSE,5 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+26/06/2021,12:00 AM,77 °F,75 °F,94 °%,CALM,0 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,12:30 AM,77 °F,75 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+26/06/2021,01:00 AM,77 °F,75 °F,94 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+26/06/2021,01:30 AM,77 °F,75 °F,94 °%,NE,3 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+26/06/2021,02:00 AM,77 °F,75 °F,94 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+26/06/2021,02:30 AM,77 °F,75 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,03:00 AM,77 °F,75 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+26/06/2021,03:30 AM,77 °F,75 °F,94 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+26/06/2021,04:00 AM,77 °F,75 °F,94 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,04:30 AM,77 °F,75 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,05:00 AM,77 °F,75 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,05:30 AM,77 °F,75 °F,94 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,06:00 AM,77 °F,75 °F,94 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/06/2021,06:30 AM,77 °F,77 °F,100 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+26/06/2021,07:00 AM,79 °F,77 °F,94 °%,ENE,5 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+26/06/2021,07:30 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+26/06/2021,08:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,08:30 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,09:00 AM,84 °F,79 °F,84 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+26/06/2021,09:30 AM,84 °F,79 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,10:00 AM,86 °F,81 °F,84 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+26/06/2021,10:30 AM,86 °F,81 °F,84 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+26/06/2021,11:00 AM,88 °F,79 °F,75 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+26/06/2021,11:30 AM,88 °F,79 °F,75 °%,VAR,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,12:00 PM,90 °F,81 °F,75 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,12:30 PM,90 °F,81 °F,75 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,01:00 PM,91 °F,75 °F,59 °%,SE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,01:30 PM,93 °F,75 °F,56 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+26/06/2021,02:00 PM,93 °F,75 °F,56 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+26/06/2021,02:30 PM,95 °F,75 °F,53 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+26/06/2021,03:00 PM,95 °F,75 °F,53 °%,ESE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+26/06/2021,03:30 PM,93 °F,73 °F,52 °%,SSE,7 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+26/06/2021,04:00 PM,,,,,,,,,
+26/06/2021,04:30 PM,93 °F,73 °F,52 °%,SSE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+26/06/2021,05:00 PM,93 °F,73 °F,52 °%,SSE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+26/06/2021,05:30 PM,93 °F,73 °F,52 °%,SE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+26/06/2021,06:00 PM,93 °F,73 °F,52 °%,SSE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+26/06/2021,06:30 PM,91 °F,73 °F,55 °%,SSE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+26/06/2021,07:00 PM,86 °F,68 °F,55 °%,SSW,16 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+26/06/2021,07:30 PM,82 °F,70 °F,66 °%,S,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+26/06/2021,08:00 PM,82 °F,70 °F,66 °%,S,6 °mph,0 °mph,29.58 °in,0.0 °in,Thunder in the Vicinity
+26/06/2021,08:30 PM,82 °F,72 °F,70 °%,S,9 °mph,0 °mph,29.58 °in,0.0 °in,Thunder
+26/06/2021,09:00 PM,82 °F,73 °F,74 °%,SE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,09:30 PM,82 °F,75 °F,79 °%,SSE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/06/2021,10:00 PM,82 °F,73 °F,74 °%,S,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,10:30 PM,82 °F,75 °F,79 °%,NW,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/06/2021,11:00 PM,82 °F,75 °F,79 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/06/2021,11:30 PM,82 °F,75 °F,79 °%,E,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/06/2021,12:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,12:30 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,01:00 AM,81 °F,77 °F,89 °%,ESE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,01:30 AM,81 °F,77 °F,89 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,02:00 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,02:30 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,03:00 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,03:30 AM,79 °F,77 °F,94 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,04:00 AM,79 °F,77 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,04:30 AM,79 °F,77 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,05:00 AM,79 °F,77 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,05:30 AM,79 °F,77 °F,94 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,06:00 AM,81 °F,79 °F,94 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,06:30 AM,82 °F,79 °F,89 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,07:00 AM,84 °F,79 °F,84 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,07:30 AM,86 °F,81 °F,84 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,08:00 AM,86 °F,79 °F,79 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,08:30 AM,88 °F,77 °F,70 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,09:00 AM,90 °F,73 °F,59 °%,SE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,09:30 AM,90 °F,73 °F,59 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/06/2021,10:00 AM,91 °F,72 °F,52 °%,SSE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,10:30 AM,93 °F,72 °F,49 °%,SSW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,11:00 AM,93 °F,72 °F,49 °%,SW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,11:30 AM,95 °F,72 °F,47 °%,WSW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,12:00 PM,95 °F,72 °F,47 °%,SW,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/06/2021,12:30 PM,97 °F,72 °F,44 °%,SW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+27/06/2021,01:00 PM,97 °F,73 °F,47 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+27/06/2021,01:30 PM,97 °F,70 °F,41 °%,W,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,02:00 PM,97 °F,70 °F,41 °%,W,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,02:30 PM,99 °F,70 °F,39 °%,W,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,03:00 PM,99 °F,70 °F,39 °%,W,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,03:30 PM,99 °F,70 °F,39 °%,WSW,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,04:00 PM,99 °F,70 °F,39 °%,W,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,04:30 PM,99 °F,68 °F,37 °%,WSW,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,05:00 PM,99 °F,68 °F,37 °%,WSW,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,05:30 PM,99 °F,72 °F,42 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,06:00 PM,97 °F,72 °F,44 °%,SSE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,06:30 PM,95 °F,73 °F,49 °%,SSE,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,07:00 PM,95 °F,73 °F,49 °%,SSE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+27/06/2021,07:30 PM,93 °F,73 °F,52 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,08:00 PM,93 °F,73 °F,52 °%,SSE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,08:30 PM,93 °F,73 °F,52 °%,SSE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,09:00 PM,91 °F,73 °F,55 °%,SSE,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+27/06/2021,09:30 PM,91 °F,73 °F,55 °%,S,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,10:00 PM,91 °F,73 °F,55 °%,S,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,10:30 PM,91 °F,73 °F,55 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,11:00 PM,90 °F,73 °F,59 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+27/06/2021,11:30 PM,90 °F,73 °F,59 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+28/06/2021,12:00 AM,90 °F,73 °F,59 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+28/06/2021,12:30 AM,90 °F,73 °F,59 °%,S,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,01:00 AM,90 °F,73 °F,59 °%,S,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,01:30 AM,88 °F,73 °F,62 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,02:00 AM,88 °F,73 °F,62 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,02:30 AM,88 °F,73 °F,62 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,03:00 AM,88 °F,73 °F,62 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,03:30 AM,88 °F,73 °F,62 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,04:00 AM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,04:30 AM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,05:00 AM,86 °F,77 °F,74 °%,ESE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,05:30 AM,86 °F,75 °F,70 °%,SSE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,06:00 AM,84 °F,77 °F,79 °%,E,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,06:30 AM,86 °F,79 °F,79 °%,ESE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,07:00 AM,88 °F,77 °F,70 °%,SE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,07:30 AM,90 °F,73 °F,59 °%,SSE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,08:00 AM,90 °F,73 °F,59 °%,S,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,08:30 AM,91 °F,73 °F,55 °%,SSE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,09:00 AM,93 °F,73 °F,52 °%,VAR,1 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,09:30 AM,95 °F,72 °F,47 °%,WNW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,10:00 AM,95 °F,70 °F,44 °%,SW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,10:30 AM,97 °F,72 °F,44 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,11:00 AM,97 °F,72 °F,44 °%,W,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,11:30 AM,97 °F,70 °F,41 °%,W,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,12:00 PM,97 °F,70 °F,41 °%,W,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,12:30 PM,99 °F,73 °F,44 °%,WNW,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,01:00 PM,99 °F,72 °F,42 °%,VAR,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,01:30 PM,99 °F,72 °F,42 °%,WNW,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,02:00 PM,99 °F,72 °F,42 °%,W,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,02:30 PM,99 °F,72 °F,42 °%,WSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,03:00 PM,99 °F,70 °F,39 °%,SW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,03:30 PM,99 °F,70 °F,39 °%,SW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,04:00 PM,99 °F,70 °F,39 °%,W,7 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+28/06/2021,04:30 PM,99 °F,72 °F,42 °%,SSW,6 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+28/06/2021,05:00 PM,97 °F,72 °F,44 °%,S,7 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+28/06/2021,05:30 PM,97 °F,72 °F,44 °%,S,5 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+28/06/2021,06:00 PM,97 °F,72 °F,44 °%,SW,5 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+28/06/2021,06:30 PM,97 °F,70 °F,41 °%,WSW,8 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,07:00 PM,95 °F,72 °F,47 °%,WSW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,07:30 PM,95 °F,72 °F,47 °%,SW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,08:00 PM,95 °F,72 °F,47 °%,SW,5 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+28/06/2021,08:30 PM,93 °F,72 °F,49 °%,SW,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,09:00 PM,93 °F,72 °F,49 °%,SW,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+28/06/2021,09:30 PM,93 °F,72 °F,49 °%,SW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,10:00 PM,91 °F,72 °F,52 °%,SW,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,10:30 PM,90 °F,73 °F,59 °%,WNW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,11:00 PM,90 °F,73 °F,59 °%,WNW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+28/06/2021,11:30 PM,90 °F,72 °F,55 °%,SW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,12:00 AM,90 °F,72 °F,55 °%,SSW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,12:30 AM,90 °F,72 °F,55 °%,SSW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,01:00 AM,90 °F,72 °F,55 °%,SSW,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,01:30 AM,88 °F,72 °F,58 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,02:00 AM,88 °F,70 °F,55 °%,SSW,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,02:30 AM,88 °F,70 °F,55 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,03:00 AM,88 °F,70 °F,55 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,03:30 AM,88 °F,70 °F,55 °%,S,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,04:00 AM,88 °F,70 °F,55 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,04:30 AM,88 °F,70 °F,55 °%,S,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,05:00 AM,88 °F,72 °F,58 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,05:30 AM,88 °F,73 °F,62 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,06:00 AM,86 °F,75 °F,70 °%,ESE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,06:30 AM,86 °F,79 °F,79 °%,ENE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,07:00 AM,86 °F,79 °F,79 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,07:30 AM,88 °F,79 °F,75 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,08:00 AM,90 °F,75 °F,62 °%,NE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,08:30 AM,90 °F,75 °F,62 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,09:00 AM,91 °F,75 °F,59 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,09:30 AM,91 °F,75 °F,59 °%,NE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,10:00 AM,91 °F,75 °F,59 °%,NNE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,10:30 AM,93 °F,75 °F,56 °%,N,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,11:00 AM,93 °F,73 °F,52 °%,NE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,11:30 AM,95 °F,75 °F,53 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,12:00 PM,95 °F,73 °F,49 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,12:30 PM,95 °F,73 °F,49 °%,NE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,01:00 PM,95 °F,75 °F,53 °%,VAR,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,01:30 PM,95 °F,73 °F,49 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Partly Cloudy
+29/06/2021,02:00 PM,95 °F,73 °F,49 °%,VAR,2 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,02:30 PM,95 °F,73 °F,49 °%,VAR,3 °mph,0 °mph,29.46 °in,0.0 °in,Partly Cloudy
+29/06/2021,03:00 PM,95 °F,73 °F,49 °%,E,3 °mph,0 °mph,29.43 °in,0.0 °in,Mostly Cloudy
+29/06/2021,03:30 PM,95 °F,75 °F,53 °%,ENE,3 °mph,0 °mph,29.43 °in,0.0 °in,Partly Cloudy
+29/06/2021,04:00 PM,93 °F,73 °F,52 °%,E,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,04:30 PM,93 °F,73 °F,52 °%,E,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,05:00 PM,93 °F,73 °F,52 °%,ENE,8 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,05:30 PM,93 °F,75 °F,56 °%,E,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,06:00 PM,91 °F,73 °F,55 °%,E,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,06:30 PM,91 °F,73 °F,55 °%,E,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+29/06/2021,07:00 PM,91 °F,77 °F,63 °%,E,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,07:30 PM,91 °F,75 °F,59 °%,SE,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,08:00 PM,90 °F,75 °F,62 °%,ESE,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,08:30 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+29/06/2021,09:00 PM,88 °F,73 °F,62 °%,SE,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,09:30 PM,88 °F,73 °F,62 °%,SE,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+29/06/2021,10:00 PM,88 °F,73 °F,62 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,10:30 PM,88 °F,72 °F,58 °%,SE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,11:00 PM,88 °F,72 °F,58 °%,SE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+29/06/2021,11:30 PM,86 °F,73 °F,66 °%,ESE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,12:00 AM,86 °F,73 °F,66 °%,ESE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,12:30 AM,84 °F,75 °F,74 °%,ESE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,01:00 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,01:30 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,02:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,02:30 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+30/06/2021,03:00 AM,82 °F,77 °F,84 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+30/06/2021,03:30 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,04:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+30/06/2021,04:30 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,05:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,05:30 AM,82 °F,79 °F,89 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,06:00 AM,82 °F,79 °F,89 °%,ENE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,06:30 AM,82 °F,79 °F,89 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,07:00 AM,84 °F,79 °F,84 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,07:30 AM,84 °F,79 °F,84 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,08:00 AM,86 °F,79 °F,79 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,08:30 AM,88 °F,81 °F,79 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,09:00 AM,88 °F,81 °F,79 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,09:30 AM,91 °F,77 °F,63 °%,VAR,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,10:00 AM,93 °F,72 °F,49 °%,VAR,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,10:30 AM,95 °F,72 °F,47 °%,SSW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,11:00 AM,95 °F,70 °F,44 °%,SW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,11:30 AM,95 °F,72 °F,47 °%,W,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,12:00 PM,95 °F,70 °F,44 °%,W,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,12:30 PM,97 °F,72 °F,44 °%,W,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,01:00 PM,97 °F,72 °F,44 °%,W,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,01:30 PM,97 °F,70 °F,41 °%,W,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,02:00 PM,95 °F,72 °F,47 °%,SSW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,02:30 PM,97 °F,70 °F,41 °%,WSW,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,03:00 PM,97 °F,72 °F,44 °%,SSW,5 °mph,0 °mph,29.46 °in,0.0 °in,Partly Cloudy
+30/06/2021,03:30 PM,97 °F,72 °F,44 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Partly Cloudy
+30/06/2021,04:00 PM,93 °F,72 °F,49 °%,SE,10 °mph,0 °mph,29.43 °in,0.0 °in,Partly Cloudy
+30/06/2021,04:30 PM,95 °F,73 °F,49 °%,SE,7 °mph,0 °mph,29.43 °in,0.0 °in,Partly Cloudy
+30/06/2021,05:00 PM,95 °F,73 °F,49 °%,S,8 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+30/06/2021,05:30 PM,95 °F,72 °F,47 °%,SSE,12 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+30/06/2021,06:00 PM,95 °F,73 °F,49 °%,S,10 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+30/06/2021,06:30 PM,93 °F,72 °F,49 °%,SSE,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+30/06/2021,07:00 PM,93 °F,72 °F,49 °%,SSE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+30/06/2021,07:30 PM,91 °F,72 °F,52 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,08:00 PM,91 °F,73 °F,55 °%,SE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,08:30 PM,91 °F,72 °F,52 °%,SSE,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,09:00 PM,90 °F,72 °F,55 °%,SE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,09:30 PM,90 °F,73 °F,59 °%,SE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,10:00 PM,90 °F,73 °F,59 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,10:30 PM,90 °F,73 °F,59 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+30/06/2021,11:00 PM,90 °F,73 °F,59 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+30/06/2021,11:30 PM,88 °F,73 °F,62 °%,S,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair

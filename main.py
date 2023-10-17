@@ -9,6 +9,7 @@ import pandas as pd
 
 class WebCrawler:
     def __init__(self, show_browser=True):
+        self.station_name = 'NOI BAI INTERNATIONAL AIRPORT STATION'
         self.months = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
         options = Options()
         self.url = 'https://www.wunderground.com/history/daily/vn/hanoi/VVNB/date/'
@@ -38,15 +39,51 @@ class WebCrawler:
         table = soup.select_one('table[aria-labelledby="History observation"]')
 
         # Iterate through the rows and cells to extract data
-        data = []
+        data = [[None for x in range(11)] for y in range(48)]
         rows = table.find_all('tr')
         for row in rows:
-            data.append([date_str])
             cells = row.find_all('td')
-            for cell in cells:
-                data[-1].append(cell.text)
+            try:
+                timestamp = cells[0].text
+            except:
+                continue
+            index = self.get_index(timestamp)
+            if index == -1:
+                continue
+            for j in range(2, 11):
+                data[index][j] = cells[j-1].text
+
+        for i in range(48):
+            data[i][0] = date_str
+            data[i][1] = self.get_timestamp(i)
+
         print(f'Finished day {date_str}!')
-        return pd.DataFrame(data[1:49], columns=self.labels)
+        return pd.DataFrame(data, columns=self.labels)
+
+    @staticmethod
+    def get_index(timestamp: str):
+        try:
+            if len(timestamp) < 8:
+                timestamp = '0' + timestamp
+            hour, minute = int(timestamp[:2]), int(timestamp[3:5])
+            hour = hour % 12
+            minute = minute // 30
+            index = hour * 2 + minute
+            if timestamp.endswith('PM'):
+                index += 24
+            return index
+        except:
+            return -1
+
+    @staticmethod
+    def get_timestamp(index: int):
+        hour = index % 24
+        minute = 0 if (hour % 2 == 0) else 30
+        hour //= 2
+        if hour == 0:
+            hour += 12
+        time = 'AM' if (index <= 23) else 'PM'
+        return f'{hour:02d}:{minute:02d} {time}'
 
     def write_daily_data_to_csv(self, year: int, month: int, day: int):
         data = self.get_daily_data(year, month, day)
@@ -76,9 +113,11 @@ class WebCrawler:
         self.driver.quit()
 
 
+# thay năm và tháng vào để cào dữ liệu tháng đó
+# ví dụ tháng 3 năm 2020 thì thay year=2020, month=3
+# cào xong sẽ có file csv hiện lên bên cạnh, làm lần lượt hết các tháng trong năm
 if __name__ == "__main__":
     crawler = WebCrawler(show_browser=False)
-    # crawler.write_daily_data_to_csv(year=2020, month=1, day=1)
-    crawler.write_month_data_to_csv(year=2020, month=12)
-    # crawler.write_year_data_to_csv(2020)
+    crawler.write_month_data_to_csv(year=2021, month=6)
     crawler.stop()
+    # print(pd.read_csv('weather_data_06_2021.csv'))

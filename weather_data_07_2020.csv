@@ -1,0 +1,1489 @@
+date,time,temperature,dewpoint,humidity,wind,wind speed,wind gust,pressure,precip,condition
+01/07/2020,12:00 AM,86 °F,75 °F,70 °%,SSE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+01/07/2020,12:30 AM,86 °F,75 °F,70 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,1:00 AM,86 °F,73 °F,66 °%,SE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,1:30 AM,86 °F,73 °F,66 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,2:00 AM,84 °F,73 °F,70 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,2:30 AM,82 °F,75 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,3:00 AM,84 °F,73 °F,70 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+01/07/2020,3:30 AM,84 °F,75 °F,74 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,4:00 AM,82 °F,75 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,4:30 AM,82 °F,79 °F,89 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+01/07/2020,5:00 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+01/07/2020,5:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,6:00 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,6:30 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,7:00 AM,86 °F,79 °F,79 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,7:30 AM,86 °F,79 °F,79 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,8:00 AM,88 °F,79 °F,75 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,8:30 AM,88 °F,79 °F,75 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+01/07/2020,9:00 AM,90 °F,79 °F,70 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,9:30 AM,91 °F,79 °F,66 °%,ESE,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,10:00 AM,90 °F,79 °F,70 °%,ESE,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,10:30 AM,91 °F,79 °F,66 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+01/07/2020,11:00 AM,82 °F,77 °F,84 °%,N,5 °mph,0 °mph,29.55 °in,0.0 °in,Heavy Rain
+01/07/2020,11:30 AM,84 °F,77 °F,79 °%,NE,8 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain with Thunder
+01/07/2020,12:00 PM,82 °F,77 °F,84 °%,NE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,12:30 PM,82 °F,75 °F,79 °%,NE,10 °mph,0 °mph,29.52 °in,0.0 °in,Thunder in the Vicinity
+01/07/2020,1:00 PM,82 °F,75 °F,79 °%,NE,8 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+01/07/2020,1:30 PM,82 °F,75 °F,79 °%,NNE,7 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+01/07/2020,2:00 PM,82 °F,77 °F,84 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/07/2020,2:30 PM,82 °F,77 °F,84 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/07/2020,3:00 PM,84 °F,77 °F,79 °%,ENE,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,3:30 PM,84 °F,77 °F,79 °%,ENE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,4:00 PM,84 °F,77 °F,79 °%,NE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,4:30 PM,86 °F,75 °F,70 °%,ENE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,5:00 PM,84 °F,75 °F,74 °%,NE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,5:30 PM,84 °F,73 °F,70 °%,ENE,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+01/07/2020,6:00 PM,82 °F,75 °F,79 °%,E,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/07/2020,6:30 PM,84 °F,75 °F,74 °%,ESE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+01/07/2020,7:30 PM,86 °F,72 °F,62 °%,SSE,7 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+01/07/2020,8:00 PM,84 °F,72 °F,66 °%,SSE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,8:30 PM,84 °F,73 °F,70 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+01/07/2020,9:00 PM,82 °F,73 °F,74 °%,SE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,9:30 PM,81 °F,75 °F,84 °%,E,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,10:00 PM,82 °F,73 °F,74 °%,SE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+01/07/2020,10:30 PM,81 °F,73 °F,79 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,11:00 PM,81 °F,73 °F,79 °%,ESE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,11:30 PM,81 °F,75 °F,84 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+01/07/2020,,,,,,,,,,
+02/07/2020,12:00 AM,81 °F,75 °F,84 °%,E,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,12:30 AM,81 °F,75 °F,84 °%,ENE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,1:00 AM,81 °F,75 °F,84 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,1:30 AM,79 °F,75 °F,89 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,2:00 AM,79 °F,75 °F,89 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,2:30 AM,81 °F,75 °F,84 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fog
+02/07/2020,3:00 AM,81 °F,75 °F,84 °%,ENE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,3:30 AM,81 °F,75 °F,84 °%,ENE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,4:00 AM,81 °F,75 °F,84 °%,NE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,4:30 AM,81 °F,75 °F,84 °%,ENE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,5:00 AM,79 °F,75 °F,89 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,5:30 AM,81 °F,75 °F,84 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fog
+02/07/2020,6:00 AM,81 °F,75 °F,84 °%,ENE,6 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+02/07/2020,6:30 AM,81 °F,75 °F,84 °%,ENE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,7:00 AM,82 °F,77 °F,84 °%,ENE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,7:30 AM,84 °F,77 °F,79 °%,ENE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,8:00 AM,86 °F,77 °F,74 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,8:30 AM,86 °F,77 °F,74 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,9:00 AM,88 °F,77 °F,70 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,9:30 AM,90 °F,77 °F,66 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,10:00 AM,88 °F,77 °F,70 °%,SSE,6 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,10:30 AM,90 °F,77 °F,66 °%,SSE,5 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,11:00 AM,90 °F,77 °F,66 °%,SSE,3 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,11:30 AM,90 °F,77 °F,66 °%,SSE,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+02/07/2020,12:00 PM,91 °F,77 °F,63 °%,ESE,5 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+02/07/2020,12:30 PM,91 °F,77 °F,63 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+02/07/2020,1:00 PM,93 °F,77 °F,59 °%,NE,6 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+02/07/2020,1:30 PM,91 °F,75 °F,59 °%,ENE,3 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+02/07/2020,2:00 PM,88 °F,79 °F,75 °%,ENE,10 °mph,0 °mph,29.49 °in,0.0 °in,Partly Cloudy
+02/07/2020,2:30 PM,88 °F,79 °F,75 °%,ENE,8 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+02/07/2020,3:00 PM,88 °F,79 °F,75 °%,ENE,8 °mph,0 °mph,29.49 °in,0.0 °in,Mostly Cloudy
+02/07/2020,3:30 PM,88 °F,77 °F,70 °%,E,8 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/07/2020,4:00 PM,88 °F,77 °F,70 °%,ENE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/07/2020,4:30 PM,88 °F,79 °F,75 °%,ENE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+02/07/2020,5:00 PM,90 °F,77 °F,66 °%,NE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,5:30 PM,90 °F,75 °F,62 °%,SE,12 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,6:00 PM,90 °F,77 °F,66 °%,SE,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+02/07/2020,6:30 PM,90 °F,77 °F,66 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+02/07/2020,7:30 PM,88 °F,77 °F,70 °%,ESE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,8:00 PM,88 °F,77 °F,70 °%,ESE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,8:30 PM,86 °F,79 °F,79 °%,E,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+02/07/2020,9:00 PM,86 °F,79 °F,79 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+02/07/2020,9:30 PM,86 °F,79 °F,79 °%,E,10 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+02/07/2020,10:00 PM,81 °F,77 °F,89 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Rain
+02/07/2020,10:30 PM,82 °F,77 °F,84 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+02/07/2020,11:00 PM,82 °F,79 °F,89 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+02/07/2020,11:30 PM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+02/07/2020,,,,,,,,,,
+03/07/2020,12:00 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+03/07/2020,12:30 AM,84 °F,79 °F,84 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,1:00 AM,82 °F,79 °F,89 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,1:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,2:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fog
+03/07/2020,2:30 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fog
+03/07/2020,3:00 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,3:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,4:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/07/2020,4:30 AM,82 °F,79 °F,89 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,5:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/07/2020,5:30 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+03/07/2020,6:00 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+03/07/2020,6:30 AM,82 °F,79 °F,89 °%,NE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+03/07/2020,7:00 AM,82 °F,77 °F,84 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+03/07/2020,7:30 AM,84 °F,77 °F,79 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+03/07/2020,8:00 AM,86 °F,77 °F,74 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+03/07/2020,8:30 AM,86 °F,77 °F,74 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+03/07/2020,9:00 AM,88 °F,77 °F,70 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+03/07/2020,9:30 AM,88 °F,77 °F,70 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+03/07/2020,10:00 AM,88 °F,79 °F,75 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+03/07/2020,10:30 AM,88 °F,79 °F,75 °%,E,8 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+03/07/2020,11:00 AM,90 °F,77 °F,66 °%,ESE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+03/07/2020,11:30 AM,90 °F,77 °F,66 °%,E,12 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+03/07/2020,12:00 PM,90 °F,75 °F,62 °%,E,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+03/07/2020,12:30 PM,91 °F,77 °F,63 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+03/07/2020,1:00 PM,91 °F,77 °F,63 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+03/07/2020,1:30 PM,93 °F,77 °F,59 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+03/07/2020,2:00 PM,91 °F,77 °F,63 °%,E,13 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+03/07/2020,2:30 PM,90 °F,75 °F,62 °%,ESE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,3:00 PM,86 °F,73 °F,66 °%,SSW,12 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/07/2020,3:30 PM,88 °F,75 °F,66 °%,SW,5 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/07/2020,4:00 PM,88 °F,75 °F,66 °%,N,6 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+03/07/2020,4:30 PM,82 °F,77 °F,84 °%,VAR,6 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+03/07/2020,5:00 PM,86 °F,79 °F,79 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+03/07/2020,5:30 PM,88 °F,77 °F,70 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,6:00 PM,88 °F,75 °F,66 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+03/07/2020,6:30 PM,88 °F,77 °F,70 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+03/07/2020,7:00 PM,88 °F,75 °F,66 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+03/07/2020,7:30 PM,86 °F,75 °F,70 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+03/07/2020,8:00 PM,86 °F,77 °F,74 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+03/07/2020,8:30 PM,86 °F,77 °F,74 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+03/07/2020,9:00 PM,86 °F,77 °F,74 °%,ESE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+03/07/2020,9:30 PM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+03/07/2020,10:00 PM,86 °F,75 °F,70 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+03/07/2020,10:30 PM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+03/07/2020,11:00 PM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+03/07/2020,11:30 PM,82 °F,77 °F,84 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/07/2020,12:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/07/2020,12:30 AM,84 °F,77 °F,79 °%,ESE,6 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/07/2020,1:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/07/2020,1:30 AM,82 °F,77 °F,84 °%,ENE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/07/2020,2:00 AM,82 °F,77 °F,84 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/07/2020,2:30 AM,82 °F,77 °F,84 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+04/07/2020,3:00 AM,79 °F,75 °F,89 °%,S,9 °mph,0 °mph,29.64 °in,0.0 °in,Heavy Rain
+04/07/2020,3:30 AM,79 °F,75 °F,89 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain with Thunder
+04/07/2020,4:00 AM,79 °F,77 °F,94 °%,CALM,0 °mph,0 °mph,29.64 °in,0.0 °in,Thunder
+04/07/2020,4:30 AM,81 °F,77 °F,89 °%,N,5 °mph,0 °mph,29.64 °in,0.0 °in,T-Storm
+04/07/2020,5:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Heavy T-Storm
+04/07/2020,5:30 AM,79 °F,77 °F,94 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,T-Storm
+04/07/2020,6:00 AM,79 °F,75 °F,89 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Thunder in the Vicinity
+04/07/2020,6:30 AM,79 °F,75 °F,89 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain
+04/07/2020,7:00 AM,79 °F,75 °F,89 °%,ENE,6 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+04/07/2020,7:30 AM,81 °F,77 °F,89 °%,NE,3 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain
+04/07/2020,8:00 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+04/07/2020,8:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/07/2020,9:00 AM,86 °F,77 °F,74 °%,E,7 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/07/2020,9:30 AM,84 °F,77 °F,79 °%,NE,7 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/07/2020,10:00 AM,84 °F,77 °F,79 °%,NE,7 °mph,0 °mph,29.69 °in,0.0 °in,Thunder in the Vicinity
+04/07/2020,10:30 AM,88 °F,77 °F,70 °%,ENE,9 °mph,0 °mph,29.69 °in,0.0 °in,Thunder in the Vicinity
+04/07/2020,11:00 AM,88 °F,77 °F,70 °%,E,8 °mph,0 °mph,29.69 °in,0.0 °in,T-Storm
+04/07/2020,11:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.69 °in,0.0 °in,T-Storm
+04/07/2020,12:00 PM,86 °F,79 °F,79 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+04/07/2020,12:30 PM,86 °F,77 °F,74 °%,ESE,5 °mph,0 °mph,29.66 °in,0.0 °in,Thunder in the Vicinity
+04/07/2020,1:00 PM,86 °F,77 °F,74 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+04/07/2020,1:30 PM,86 °F,77 °F,74 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+04/07/2020,2:00 PM,88 °F,77 °F,70 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+04/07/2020,2:30 PM,88 °F,75 °F,66 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+04/07/2020,3:00 PM,88 °F,77 °F,70 °%,NNE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,3:30 PM,88 °F,77 °F,70 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+04/07/2020,4:00 PM,86 °F,79 °F,79 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+04/07/2020,4:30 PM,86 °F,79 °F,79 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,5:00 PM,88 °F,79 °F,75 °%,ENE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,5:30 PM,88 °F,79 °F,75 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,6:00 PM,86 °F,77 °F,74 °%,ENE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,6:30 PM,86 °F,77 °F,74 °%,ENE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+04/07/2020,7:00 PM,82 °F,75 °F,79 °%,SE,17 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+04/07/2020,7:30 PM,82 °F,75 °F,79 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/07/2020,8:00 PM,82 °F,77 °F,84 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/07/2020,8:30 PM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/07/2020,9:00 PM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+04/07/2020,9:30 PM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/07/2020,10:00 PM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+04/07/2020,10:30 PM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+04/07/2020,11:00 PM,84 °F,77 °F,79 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+04/07/2020,11:30 PM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+05/07/2020,12:00 AM,82 °F,77 °F,84 °%,ESE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+05/07/2020,12:30 AM,82 °F,77 °F,84 °%,ESE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/07/2020,1:00 AM,84 °F,77 °F,79 °%,SE,6 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+05/07/2020,1:30 AM,82 °F,77 °F,84 °%,ESE,5 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,2:00 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+05/07/2020,2:30 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/07/2020,3:00 AM,82 °F,77 °F,84 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/07/2020,3:30 AM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,4:00 AM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+05/07/2020,4:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+05/07/2020,5:00 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/07/2020,5:30 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+05/07/2020,6:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,6:30 AM,84 °F,79 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,7:00 AM,84 °F,79 °F,84 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,7:30 AM,86 °F,79 °F,79 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,8:00 AM,86 °F,79 °F,79 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+05/07/2020,8:30 AM,86 °F,79 °F,79 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+05/07/2020,9:00 AM,90 °F,77 °F,66 °%,ESE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+05/07/2020,9:30 AM,90 °F,77 °F,66 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+05/07/2020,10:00 AM,90 °F,77 °F,66 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+05/07/2020,10:30 AM,91 °F,75 °F,59 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+05/07/2020,11:00 AM,90 °F,77 °F,66 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+05/07/2020,11:30 AM,93 °F,77 °F,59 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+05/07/2020,12:00 PM,91 °F,77 °F,63 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+05/07/2020,12:30 PM,93 °F,77 °F,59 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,1:00 PM,93 °F,77 °F,59 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,1:30 PM,93 °F,77 °F,59 °%,SE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,2:00 PM,93 °F,77 °F,59 °%,SSE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+05/07/2020,2:30 PM,93 °F,77 °F,59 °%,SE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+05/07/2020,3:00 PM,91 °F,77 °F,63 °%,SSE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,3:30 PM,91 °F,75 °F,59 °%,SE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,4:00 PM,93 °F,75 °F,56 °%,ESE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,4:30 PM,93 °F,77 °F,59 °%,ESE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,5:00 PM,90 °F,77 °F,66 °%,SE,16 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,5:30 PM,90 °F,77 °F,66 °%,SE,16 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,6:00 PM,88 °F,75 °F,66 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,6:30 PM,88 °F,77 °F,70 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+05/07/2020,7:00 PM,88 °F,77 °F,70 °%,SE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+05/07/2020,7:30 PM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+05/07/2020,8:00 PM,86 °F,77 °F,74 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+05/07/2020,8:30 PM,86 °F,77 °F,74 °%,E,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,9:00 PM,86 °F,77 °F,74 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,9:30 PM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,10:00 PM,86 °F,77 °F,74 °%,ESE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+05/07/2020,10:30 PM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/07/2020,11:00 PM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+05/07/2020,11:30 PM,84 °F,77 °F,79 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,12:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,12:30 AM,84 °F,77 °F,79 °%,SE,8 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+06/07/2020,1:00 AM,84 °F,77 °F,79 °%,SE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,1:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+06/07/2020,2:00 AM,84 °F,77 °F,79 °%,SE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+06/07/2020,2:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+06/07/2020,3:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+06/07/2020,3:30 AM,84 °F,77 °F,79 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+06/07/2020,4:00 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,4:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+06/07/2020,5:00 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,5:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,6:00 AM,82 °F,77 °F,84 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,6:30 AM,84 °F,77 °F,79 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,7:00 AM,84 °F,77 °F,79 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,7:30 AM,84 °F,77 °F,79 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/07/2020,8:00 AM,86 °F,77 °F,74 °%,SSE,10 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/07/2020,8:30 AM,88 °F,77 °F,70 °%,SSE,10 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/07/2020,9:00 AM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/07/2020,9:30 AM,90 °F,77 °F,66 °%,SSE,10 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+06/07/2020,10:00 AM,90 °F,77 °F,66 °%,SSE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/07/2020,10:30 AM,91 °F,77 °F,63 °%,SSE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/07/2020,11:00 AM,91 °F,77 °F,63 °%,SSE,9 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/07/2020,11:30 AM,91 °F,79 °F,66 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+06/07/2020,12:00 PM,93 °F,79 °F,63 °%,SSE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/07/2020,12:30 PM,93 °F,79 °F,63 °%,SE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,1:00 PM,93 °F,77 °F,59 °%,SE,8 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+06/07/2020,1:30 PM,95 °F,79 °F,59 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,2:00 PM,93 °F,75 °F,56 °%,SE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,2:30 PM,95 °F,75 °F,53 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,3:00 PM,95 °F,77 °F,56 °%,ESE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,3:30 PM,95 °F,77 °F,56 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+06/07/2020,4:00 PM,93 °F,77 °F,59 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Mostly Cloudy
+06/07/2020,4:30 PM,93 °F,77 °F,59 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+06/07/2020,5:00 PM,93 °F,77 °F,59 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/07/2020,5:30 PM,91 °F,77 °F,63 °%,ESE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/07/2020,6:00 PM,91 °F,77 °F,63 °%,ESE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/07/2020,6:30 PM,91 °F,77 °F,63 °%,ESE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+06/07/2020,7:00 PM,90 °F,77 °F,66 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+06/07/2020,7:30 PM,90 °F,77 °F,66 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,8:00 PM,90 °F,77 °F,66 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+06/07/2020,8:30 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+06/07/2020,9:00 PM,82 °F,70 °F,66 °%,W,17 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+06/07/2020,9:30 PM,81 °F,72 °F,74 °%,N,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+06/07/2020,10:00 PM,79 °F,72 °F,78 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+06/07/2020,10:30 PM,79 °F,72 °F,78 °%,N,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+06/07/2020,11:00 PM,81 °F,73 °F,79 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+06/07/2020,11:30 PM,82 °F,75 °F,79 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+07/07/2020,12:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,12:30 AM,86 °F,77 °F,74 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,1:00 AM,86 °F,77 °F,74 °%,SSE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,1:30 AM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,2:00 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,2:30 AM,84 °F,77 °F,79 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,3:00 AM,84 °F,79 °F,84 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,3:30 AM,84 °F,79 °F,84 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,4:00 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,4:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,5:00 AM,84 °F,79 °F,84 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,5:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,6:00 AM,84 °F,79 °F,84 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,6:30 AM,84 °F,79 °F,84 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,7:00 AM,86 °F,79 °F,79 °%,SE,13 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,7:30 AM,86 °F,79 °F,79 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,8:00 AM,88 °F,77 °F,70 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,8:30 AM,88 °F,79 °F,75 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,9:00 AM,88 °F,79 °F,75 °%,SSE,12 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,9:30 AM,90 °F,79 °F,70 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,10:00 AM,91 °F,79 °F,66 °%,SSE,9 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,10:30 AM,93 °F,79 °F,63 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+07/07/2020,11:00 AM,93 °F,79 °F,63 °%,SSE,8 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+07/07/2020,11:30 AM,93 °F,79 °F,63 °%,SSE,7 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+07/07/2020,12:00 PM,95 °F,79 °F,59 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+07/07/2020,12:30 PM,95 °F,77 °F,56 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,1:00 PM,97 °F,79 °F,56 °%,VAR,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+07/07/2020,1:30 PM,97 °F,77 °F,53 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+07/07/2020,2:00 PM,95 °F,77 °F,56 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+07/07/2020,2:30 PM,97 °F,79 °F,56 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+07/07/2020,3:00 PM,97 °F,79 °F,56 °%,ESE,12 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+07/07/2020,3:30 PM,97 °F,77 °F,53 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+07/07/2020,4:00 PM,97 °F,79 °F,56 °%,ESE,10 °mph,22 °mph,29.58 °in,0.0 °in,Fair
+07/07/2020,4:30 PM,97 °F,79 °F,56 °%,W,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+07/07/2020,5:00 PM,95 °F,77 °F,56 °%,W,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+07/07/2020,5:30 PM,93 °F,79 °F,63 °%,SE,16 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+07/07/2020,6:00 PM,93 °F,79 °F,63 °%,SE,16 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+07/07/2020,6:30 PM,91 °F,79 °F,66 °%,SE,16 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+07/07/2020,7:00 PM,90 °F,79 °F,70 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+07/07/2020,7:30 PM,90 °F,79 °F,70 °%,SE,16 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,8:00 PM,88 °F,72 °F,58 °%,SSE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+07/07/2020,8:30 PM,88 °F,75 °F,66 °%,SE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/07/2020,9:00 PM,88 °F,77 °F,70 °%,SE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/07/2020,9:30 PM,88 °F,79 °F,75 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+07/07/2020,10:00 PM,88 °F,79 °F,75 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+07/07/2020,10:30 PM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+07/07/2020,11:00 PM,88 °F,77 °F,70 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+07/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/07/2020,12:00 AM,86 °F,77 °F,74 °%,SSE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/07/2020,12:30 AM,86 °F,79 °F,79 °%,SSE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+08/07/2020,1:00 AM,86 °F,79 °F,79 °%,SSE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/07/2020,1:30 AM,86 °F,77 °F,74 °%,SE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+08/07/2020,2:00 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,2:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,3:00 AM,84 °F,79 °F,84 °%,SE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,3:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+08/07/2020,4:00 AM,84 °F,79 °F,84 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,4:30 AM,84 °F,79 °F,84 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,5:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,5:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,6:00 AM,84 °F,79 °F,84 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,6:30 AM,86 °F,79 °F,79 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,7:00 AM,86 °F,79 °F,79 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,7:30 AM,88 °F,79 °F,75 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,8:00 AM,88 °F,77 °F,70 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+08/07/2020,8:30 AM,88 °F,77 °F,70 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,9:00 AM,90 °F,79 °F,70 °%,SSE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+08/07/2020,9:30 AM,91 °F,77 °F,63 °%,SE,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+08/07/2020,10:00 AM,93 °F,77 °F,59 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,10:30 AM,93 °F,77 °F,59 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+08/07/2020,11:00 AM,95 °F,77 °F,56 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+08/07/2020,11:30 AM,95 °F,73 °F,49 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+08/07/2020,12:00 PM,97 °F,73 °F,47 °%,S,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+08/07/2020,12:30 PM,99 °F,73 °F,44 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,1:00 PM,99 °F,73 °F,44 °%,SW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,1:30 PM,97 °F,73 °F,47 °%,SW,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,2:00 PM,97 °F,73 °F,47 °%,S,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,2:30 PM,97 °F,73 °F,47 °%,S,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,3:00 PM,99 °F,73 °F,44 °%,SSW,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,3:30 PM,99 °F,75 °F,47 °%,SSW,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,4:00 PM,99 °F,72 °F,42 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,4:30 PM,99 °F,73 °F,44 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,5:00 PM,99 °F,75 °F,47 °%,SE,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,5:30 PM,99 °F,73 °F,44 °%,SSE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,6:00 PM,97 °F,73 °F,47 °%,SSE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,6:30 PM,95 °F,73 °F,49 °%,SSE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,7:00 PM,95 °F,75 °F,53 °%,SSE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+08/07/2020,7:30 PM,93 °F,75 °F,56 °%,SSE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,8:00 PM,91 °F,75 °F,59 °%,SSE,15 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,8:30 PM,91 °F,75 °F,59 °%,SSE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,9:00 PM,90 °F,75 °F,62 °%,SSE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,9:30 PM,90 °F,75 °F,62 °%,SSE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+08/07/2020,10:00 PM,88 °F,75 °F,66 °%,SSE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,10:30 PM,88 °F,75 °F,66 °%,SSE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,11:00 PM,88 °F,75 °F,66 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+08/07/2020,11:30 PM,88 °F,75 °F,66 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+09/07/2020,12:00 AM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,12:30 AM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,1:00 AM,86 °F,77 °F,74 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,1:30 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,2:00 AM,86 °F,77 °F,74 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,2:30 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,3:00 AM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,3:30 AM,86 °F,77 °F,74 °%,SSE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,4:00 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,4:30 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,5:00 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,5:30 AM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,6:00 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,6:30 AM,84 °F,79 °F,84 °%,ENE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,7:00 AM,86 °F,79 °F,79 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,7:30 AM,86 °F,79 °F,79 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,8:00 AM,88 °F,79 °F,75 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,8:30 AM,91 °F,75 °F,59 °%,SSW,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,9:00 AM,91 °F,73 °F,55 °%,SSW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,9:30 AM,93 °F,73 °F,52 °%,SSW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+09/07/2020,10:00 AM,95 °F,72 °F,47 °%,SW,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,10:30 AM,95 °F,72 °F,47 °%,WSW,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,11:00 AM,97 °F,72 °F,44 °%,W,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+09/07/2020,11:30 AM,99 °F,70 °F,39 °%,W,15 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,12:00 PM,99 °F,72 °F,42 °%,W,13 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,12:30 PM,99 °F,70 °F,39 °%,W,15 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,1:00 PM,100 °F,72 °F,39 °%,W,13 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,1:30 PM,100 °F,70 °F,37 °%,W,15 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,2:00 PM,100 °F,68 °F,35 °%,W,14 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,2:30 PM,99 °F,68 °F,37 °%,W,14 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,3:00 PM,99 °F,70 °F,39 °%,W,13 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,3:30 PM,100 °F,70 °F,37 °%,W,9 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,4:00 PM,99 °F,68 °F,37 °%,WSW,12 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,4:30 PM,99 °F,68 °F,37 °%,SW,9 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,5:00 PM,99 °F,70 °F,39 °%,SW,10 °mph,0 °mph,29.40 °in,0.0 °in,Fair
+09/07/2020,5:30 PM,99 °F,70 °F,39 °%,SW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,6:00 PM,99 °F,70 °F,39 °%,SSW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,6:30 PM,97 °F,72 °F,44 °%,SSW,7 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,7:00 PM,97 °F,72 °F,44 °%,SW,6 °mph,0 °mph,29.43 °in,0.0 °in,Fair
+09/07/2020,7:30 PM,95 °F,72 °F,47 °%,SSW,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,8:00 PM,95 °F,72 °F,47 °%,SSW,7 °mph,18 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,8:30 PM,93 °F,73 °F,52 °%,S,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,9:00 PM,91 °F,77 °F,63 °%,SSE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+09/07/2020,9:30 PM,91 °F,77 °F,63 °%,SSE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,10:00 PM,91 °F,77 °F,63 °%,SSE,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,10:30 PM,91 °F,75 °F,59 °%,SSE,8 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,11:00 PM,90 °F,75 °F,62 °%,SSE,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+09/07/2020,11:30 PM,90 °F,75 °F,62 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,12:00 AM,90 °F,77 °F,66 °%,VAR,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,12:30 AM,88 °F,77 °F,70 °%,VAR,2 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,1:00 AM,86 °F,77 °F,74 °%,SE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,1:30 AM,86 °F,77 °F,74 °%,ENE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,2:00 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,2:30 AM,86 °F,77 °F,74 °%,E,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,3:00 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,3:30 AM,84 °F,77 °F,79 °%,ESE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,4:00 AM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,4:30 AM,86 °F,77 °F,74 °%,SSE,5 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,5:00 AM,86 °F,77 °F,74 °%,SE,3 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,5:30 AM,84 °F,79 °F,84 °%,VAR,1 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,6:00 AM,84 °F,77 °F,79 °%,SE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,6:30 AM,88 °F,75 °F,66 °%,SSE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,7:00 AM,88 °F,75 °F,66 °%,SSE,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,7:30 AM,90 °F,73 °F,59 °%,SSE,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,8:00 AM,91 °F,72 °F,52 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,8:30 AM,93 °F,72 °F,49 °%,SSW,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,9:00 AM,93 °F,72 °F,49 °%,SSW,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,9:30 AM,95 °F,72 °F,47 °%,S,9 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,10:00 AM,95 °F,72 °F,47 °%,SSW,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,10:30 AM,97 °F,70 °F,41 °%,SW,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,11:00 AM,97 °F,72 °F,44 °%,WSW,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,11:30 AM,97 °F,72 °F,44 °%,WSW,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,12:00 PM,97 °F,72 °F,44 °%,WSW,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,12:30 PM,97 °F,70 °F,41 °%,WSW,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,1:00 PM,97 °F,72 °F,44 °%,WSW,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,1:30 PM,97 °F,70 °F,41 °%,SW,13 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,2:00 PM,97 °F,72 °F,44 °%,SW,12 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,2:30 PM,95 °F,72 °F,47 °%,SW,10 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,3:00 PM,99 °F,72 °F,42 °%,SW,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,3:30 PM,99 °F,70 °F,39 °%,SW,12 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,4:00 PM,97 °F,70 °F,41 °%,SW,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,4:30 PM,97 °F,72 °F,44 °%,SW,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,5:00 PM,97 °F,70 °F,41 °%,SW,10 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,5:30 PM,95 °F,72 °F,47 °%,WSW,9 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,6:00 PM,95 °F,72 °F,47 °%,WSW,7 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,6:30 PM,93 °F,72 °F,49 °%,SW,6 °mph,0 °mph,29.46 °in,0.0 °in,Fair
+10/07/2020,7:00 PM,93 °F,72 °F,49 °%,SW,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,7:30 PM,93 °F,70 °F,46 °%,WSW,9 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,8:00 PM,91 °F,72 °F,52 °%,SW,6 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+10/07/2020,8:30 PM,91 °F,72 °F,52 °%,SW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,9:00 PM,90 °F,73 °F,59 °%,WSW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,9:30 PM,90 °F,73 °F,59 °%,WSW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,10:00 PM,90 °F,72 °F,55 °%,WSW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,10:30 PM,90 °F,72 °F,55 °%,W,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,11:00 PM,90 °F,72 °F,55 °%,SW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+10/07/2020,11:30 PM,90 °F,73 °F,59 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,12:00 AM,90 °F,75 °F,62 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,12:30 AM,88 °F,73 °F,62 °%,S,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,1:00 AM,88 °F,72 °F,58 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,1:30 AM,88 °F,72 °F,58 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,2:00 AM,88 °F,72 °F,58 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+11/07/2020,2:30 AM,88 °F,70 °F,55 °%,S,5 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+11/07/2020,3:00 AM,86 °F,72 °F,62 °%,S,7 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+11/07/2020,3:30 AM,88 °F,72 °F,58 °%,SSW,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+11/07/2020,4:00 AM,86 °F,72 °F,62 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,4:30 AM,86 °F,72 °F,62 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,5:00 AM,86 °F,72 °F,62 °%,VAR,1 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,5:30 AM,84 °F,73 °F,70 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,6:00 AM,84 °F,72 °F,66 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,6:30 AM,84 °F,75 °F,74 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,7:00 AM,86 °F,75 °F,70 °%,NNE,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,7:30 AM,86 °F,75 °F,70 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,8:00 AM,88 °F,75 °F,66 °%,NNE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,8:30 AM,90 °F,73 °F,59 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,9:00 AM,91 °F,73 °F,55 °%,W,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,9:30 AM,91 °F,73 °F,55 °%,W,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,10:00 AM,93 °F,72 °F,49 °%,W,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,10:30 AM,93 °F,72 °F,49 °%,W,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,11:00 AM,91 °F,72 °F,52 °%,W,9 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+11/07/2020,11:30 AM,90 °F,73 °F,59 °%,WNW,8 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+11/07/2020,12:00 PM,88 °F,75 °F,66 °%,NNW,7 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+11/07/2020,12:30 PM,88 °F,75 °F,66 °%,NW,5 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+11/07/2020,1:00 PM,90 °F,72 °F,55 °%,WNW,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,1:30 PM,90 °F,73 °F,59 °%,WNW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,2:00 PM,90 °F,72 °F,55 °%,W,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,2:30 PM,90 °F,72 °F,55 °%,W,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,3:00 PM,90 °F,72 °F,55 °%,WSW,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,3:30 PM,90 °F,72 °F,55 °%,W,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,4:00 PM,90 °F,72 °F,55 °%,W,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,4:30 PM,90 °F,72 °F,55 °%,SSW,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,5:00 PM,90 °F,72 °F,55 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,5:30 PM,90 °F,70 °F,52 °%,SSW,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,6:00 PM,90 °F,70 °F,52 °%,S,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,6:30 PM,90 °F,70 °F,52 °%,S,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,7:00 PM,88 °F,70 °F,55 °%,S,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,7:30 PM,88 °F,70 °F,55 °%,S,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,8:00 PM,88 °F,70 °F,55 °%,VAR,2 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+11/07/2020,8:30 PM,86 °F,72 °F,62 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,9:00 PM,86 °F,72 °F,62 °%,NE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+11/07/2020,9:30 PM,84 °F,73 °F,70 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,10:00 PM,86 °F,73 °F,66 °%,ESE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,10:30 PM,88 °F,73 °F,62 °%,SE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,11:00 PM,88 °F,75 °F,66 °%,SE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+11/07/2020,11:30 PM,84 °F,75 °F,74 °%,NNE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,12:00 AM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,12:30 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,1:00 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,1:30 AM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,2:00 AM,86 °F,77 °F,74 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,2:30 AM,86 °F,77 °F,74 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,3:00 AM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,3:30 AM,86 °F,77 °F,74 °%,SE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,4:00 AM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,4:30 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,5:00 AM,84 °F,77 °F,79 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,5:30 AM,82 °F,77 °F,84 °%,ENE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,6:00 AM,84 °F,79 °F,84 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,6:30 AM,84 °F,79 °F,84 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,7:00 AM,84 °F,79 °F,84 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,7:30 AM,86 °F,79 °F,79 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,8:00 AM,86 °F,79 °F,79 °%,ESE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,8:30 AM,88 °F,79 °F,75 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+12/07/2020,9:00 AM,88 °F,79 °F,75 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,9:30 AM,88 °F,79 °F,75 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,10:00 AM,90 °F,79 °F,70 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,10:30 AM,90 °F,77 °F,66 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,11:00 AM,90 °F,77 °F,66 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,11:30 AM,91 °F,75 °F,59 °%,W,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,12:00 PM,91 °F,75 °F,59 °%,WSW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,12:30 PM,91 °F,73 °F,55 °%,WSW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,1:00 PM,91 °F,72 °F,52 °%,W,12 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+12/07/2020,1:30 PM,90 °F,75 °F,62 °%,W,8 °mph,0 °mph,29.58 °in,0.0 °in,Light Rain
+12/07/2020,2:00 PM,90 °F,72 °F,55 °%,W,9 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+12/07/2020,2:30 PM,90 °F,72 °F,55 °%,W,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,3:00 PM,90 °F,72 °F,55 °%,W,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,3:30 PM,90 °F,72 °F,55 °%,WSW,7 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain
+12/07/2020,4:00 PM,90 °F,72 °F,55 °%,WSW,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,4:30 PM,90 °F,72 °F,55 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,5:00 PM,90 °F,72 °F,55 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,5:30 PM,88 °F,73 °F,62 °%,WSW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,6:00 PM,88 °F,73 °F,62 °%,SW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,6:30 PM,88 °F,68 °F,52 °%,SW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,7:00 PM,88 °F,68 °F,52 °%,SW,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,7:30 PM,88 °F,68 °F,52 °%,SW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+12/07/2020,8:00 PM,88 °F,68 °F,52 °%,SSW,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+12/07/2020,8:30 PM,86 °F,68 °F,55 °%,SSW,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,9:00 PM,86 °F,70 °F,58 °%,S,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,9:30 PM,86 °F,70 °F,58 °%,S,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,10:00 PM,86 °F,70 °F,58 °%,SSW,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+12/07/2020,10:30 PM,86 °F,70 °F,58 °%,SSW,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/07/2020,11:00 PM,86 °F,70 °F,58 °%,SSW,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+12/07/2020,11:30 PM,86 °F,70 °F,58 °%,SSW,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,12:00 AM,86 °F,72 °F,62 °%,SSW,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,12:30 AM,86 °F,72 °F,62 °%,S,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,1:00 AM,86 °F,72 °F,62 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,1:30 AM,84 °F,73 °F,70 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,2:00 AM,84 °F,73 °F,70 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,2:30 AM,82 °F,75 °F,79 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,3:00 AM,82 °F,75 °F,79 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,3:30 AM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,4:00 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,4:30 AM,81 °F,77 °F,89 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,5:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+13/07/2020,5:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fog
+13/07/2020,6:00 AM,82 °F,79 °F,89 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+13/07/2020,6:30 AM,84 °F,79 °F,84 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+13/07/2020,7:00 AM,84 °F,79 °F,84 °%,ESE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+13/07/2020,7:30 AM,84 °F,75 °F,74 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+13/07/2020,8:00 AM,88 °F,75 °F,66 °%,SSE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,8:30 AM,90 °F,73 °F,59 °%,S,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,9:00 AM,90 °F,73 °F,59 °%,S,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+13/07/2020,9:30 AM,91 °F,73 °F,55 °%,S,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,10:00 AM,91 °F,73 °F,55 °%,S,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,10:30 AM,93 °F,73 °F,52 °%,VAR,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,11:00 AM,95 °F,73 °F,49 °%,S,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,11:30 AM,95 °F,72 °F,47 °%,S,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,12:00 PM,95 °F,72 °F,47 °%,VAR,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,12:30 PM,99 °F,70 °F,39 °%,VAR,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+13/07/2020,1:00 PM,95 °F,72 °F,47 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,1:30 PM,97 °F,72 °F,44 °%,ESE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,2:00 PM,99 °F,72 °F,42 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,2:30 PM,97 °F,70 °F,41 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,3:00 PM,99 °F,73 °F,44 °%,E,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/07/2020,3:30 PM,99 °F,72 °F,42 °%,ESE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/07/2020,4:00 PM,97 °F,72 °F,44 °%,E,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/07/2020,4:30 PM,97 °F,72 °F,44 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/07/2020,5:00 PM,97 °F,72 °F,44 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/07/2020,5:30 PM,95 °F,73 °F,49 °%,ESE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+13/07/2020,6:00 PM,93 °F,75 °F,56 °%,ESE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/07/2020,6:30 PM,91 °F,77 °F,63 °%,SE,14 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+13/07/2020,7:00 PM,91 °F,77 °F,63 °%,SE,15 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,7:30 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+13/07/2020,8:00 PM,90 °F,77 °F,66 °%,SE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,8:30 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+13/07/2020,9:00 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,9:30 PM,88 °F,77 °F,70 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+13/07/2020,10:00 PM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+13/07/2020,10:30 PM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+13/07/2020,11:00 PM,86 °F,79 °F,79 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+13/07/2020,11:30 PM,86 °F,79 °F,79 °%,SW,5 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+14/07/2020,12:00 AM,82 °F,73 °F,74 °%,WNW,16 °mph,0 °mph,29.72 °in,0.0 °in,Thunder
+14/07/2020,12:30 AM,81 °F,73 °F,79 °%,WNW,9 °mph,0 °mph,29.72 °in,0.0 °in,Light Rain with Thunder
+14/07/2020,1:00 AM,81 °F,73 °F,79 °%,NNE,3 °mph,0 °mph,29.69 °in,0.0 °in,Light Rain with Thunder
+14/07/2020,1:30 AM,81 °F,75 °F,84 °%,E,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,2:00 AM,81 °F,75 °F,84 °%,VAR,1 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+14/07/2020,2:30 AM,81 °F,75 °F,84 °%,CALM,0 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+14/07/2020,3:00 AM,81 °F,75 °F,84 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,3:30 AM,79 °F,73 °F,83 °%,WNW,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,4:00 AM,79 °F,73 °F,83 °%,WNW,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,4:30 AM,79 °F,73 °F,83 °%,W,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,5:00 AM,77 °F,73 °F,89 °%,W,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,5:30 AM,77 °F,73 °F,89 °%,WNW,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,6:00 AM,79 °F,73 °F,83 °%,WNW,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+14/07/2020,6:30 AM,79 °F,73 °F,83 °%,NW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,7:00 AM,81 °F,73 °F,79 °%,NW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,7:30 AM,81 °F,73 °F,79 °%,NW,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,8:00 AM,82 °F,73 °F,74 °%,NW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,8:30 AM,84 °F,72 °F,66 °%,WNW,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,9:00 AM,86 °F,75 °F,70 °%,NNW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,9:30 AM,88 °F,75 °F,66 °%,WNW,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,10:00 AM,90 °F,75 °F,62 °%,WSW,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,10:30 AM,88 °F,75 °F,66 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+14/07/2020,11:00 AM,88 °F,75 °F,66 °%,VAR,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+14/07/2020,11:30 AM,91 °F,75 °F,59 °%,NNE,3 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+14/07/2020,12:00 PM,93 °F,73 °F,52 °%,SSE,5 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+14/07/2020,12:30 PM,93 °F,75 °F,56 °%,WNW,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+14/07/2020,1:00 PM,95 °F,73 °F,49 °%,VAR,3 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+14/07/2020,1:30 PM,93 °F,75 °F,56 °%,SW,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+14/07/2020,2:00 PM,95 °F,73 °F,49 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+14/07/2020,2:30 PM,97 °F,73 °F,47 °%,VAR,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+14/07/2020,3:00 PM,97 °F,75 °F,50 °%,NW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+14/07/2020,3:30 PM,95 °F,73 °F,49 °%,NNE,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,4:00 PM,95 °F,73 °F,49 °%,NNE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,4:30 PM,97 °F,73 °F,47 °%,VAR,1 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,5:00 PM,97 °F,72 °F,44 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,5:30 PM,95 °F,72 °F,47 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,6:00 PM,95 °F,73 °F,49 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,6:30 PM,93 °F,73 °F,52 °%,ESE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,7:00 PM,93 °F,73 °F,52 °%,SE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+14/07/2020,7:30 PM,93 °F,73 °F,52 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+14/07/2020,8:00 PM,91 °F,77 °F,63 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+14/07/2020,8:30 PM,91 °F,79 °F,66 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+14/07/2020,9:00 PM,90 °F,77 °F,66 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+14/07/2020,9:30 PM,90 °F,77 °F,66 °%,SSE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+14/07/2020,10:00 PM,88 °F,77 °F,70 °%,SSE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+14/07/2020,10:30 PM,88 °F,77 °F,70 °%,SSE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+14/07/2020,11:00 PM,86 °F,77 °F,74 °%,SSE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+14/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,12:00 AM,86 °F,77 °F,74 °%,SSE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,12:30 AM,86 °F,77 °F,74 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,1:00 AM,84 °F,79 °F,84 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,1:30 AM,84 °F,79 °F,84 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,2:00 AM,84 °F,79 °F,84 °%,SE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,2:30 AM,84 °F,79 °F,84 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,3:00 AM,82 °F,79 °F,89 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,3:30 AM,84 °F,79 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,4:00 AM,84 °F,79 °F,84 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,4:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,5:00 AM,84 °F,79 °F,84 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,5:30 AM,82 °F,79 °F,89 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+15/07/2020,6:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+15/07/2020,6:30 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,7:00 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,7:30 AM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,8:00 AM,88 °F,75 °F,66 °%,SSE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,8:30 AM,90 °F,75 °F,62 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,9:00 AM,90 °F,75 °F,62 °%,S,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,9:30 AM,91 °F,75 °F,59 °%,VAR,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,10:00 AM,93 °F,75 °F,56 °%,SE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,10:30 AM,95 °F,73 °F,49 °%,VAR,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+15/07/2020,11:00 AM,97 °F,73 °F,47 °%,S,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,11:30 AM,97 °F,75 °F,50 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,12:00 PM,97 °F,73 °F,47 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+15/07/2020,12:30 PM,97 °F,73 °F,47 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,1:00 PM,97 °F,73 °F,47 °%,SE,6 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+15/07/2020,1:30 PM,99 °F,75 °F,47 °%,VAR,8 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+15/07/2020,2:00 PM,97 °F,75 °F,50 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+15/07/2020,2:30 PM,99 °F,75 °F,47 °%,SE,9 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+15/07/2020,3:00 PM,99 °F,73 °F,44 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+15/07/2020,3:30 PM,99 °F,73 °F,44 °%,SE,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,4:00 PM,99 °F,73 °F,44 °%,ESE,8 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,4:30 PM,99 °F,73 °F,44 °%,E,10 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,5:00 PM,97 °F,75 °F,50 °%,ESE,12 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,5:30 PM,95 °F,75 °F,53 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,6:00 PM,93 °F,75 °F,56 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,6:30 PM,91 °F,77 °F,63 °%,ESE,16 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+15/07/2020,7:00 PM,90 °F,77 °F,66 °%,SE,16 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+15/07/2020,7:30 PM,90 °F,79 °F,70 °%,SE,15 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+15/07/2020,8:00 PM,90 °F,77 °F,66 °%,SE,14 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+15/07/2020,8:30 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+15/07/2020,9:00 PM,88 °F,77 °F,70 °%,SSE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+15/07/2020,9:30 PM,88 °F,77 °F,70 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,10:00 PM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+15/07/2020,10:30 PM,86 °F,77 °F,74 °%,SSE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+15/07/2020,11:00 PM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+15/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+16/07/2020,12:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+16/07/2020,12:30 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,1:00 AM,84 °F,77 °F,79 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,1:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,2:00 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,2:30 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,3:00 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,3:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,4:00 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,4:30 AM,82 °F,77 °F,84 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,5:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,5:30 AM,84 °F,79 °F,84 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,6:00 AM,84 °F,79 °F,84 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+16/07/2020,6:30 AM,84 °F,79 °F,84 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,7:00 AM,84 °F,79 °F,84 °%,E,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,7:30 AM,86 °F,79 °F,79 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,8:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,8:30 AM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,9:00 AM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,9:30 AM,90 °F,77 °F,66 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,10:00 AM,90 °F,77 °F,66 °%,SSE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+16/07/2020,10:30 AM,93 °F,77 °F,59 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+16/07/2020,11:00 AM,93 °F,75 °F,56 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+16/07/2020,11:30 AM,93 °F,77 °F,59 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+16/07/2020,12:00 PM,93 °F,77 °F,59 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+16/07/2020,12:30 PM,97 °F,75 °F,50 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/07/2020,1:00 PM,97 °F,77 °F,53 °%,SE,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/07/2020,1:30 PM,97 °F,75 °F,50 °%,SSE,8 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+16/07/2020,2:00 PM,97 °F,75 °F,50 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+16/07/2020,2:30 PM,97 °F,77 °F,53 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Partly Cloudy
+16/07/2020,3:00 PM,97 °F,75 °F,50 °%,ESE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/07/2020,3:30 PM,97 °F,75 °F,50 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/07/2020,4:00 PM,97 °F,75 °F,50 °%,ESE,15 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/07/2020,4:30 PM,95 °F,75 °F,53 °%,ESE,16 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/07/2020,5:00 PM,95 °F,75 °F,53 °%,SE,14 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+16/07/2020,5:30 PM,93 °F,73 °F,52 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/07/2020,6:00 PM,93 °F,75 °F,56 °%,SE,13 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/07/2020,6:30 PM,91 °F,75 °F,59 °%,ESE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+16/07/2020,7:00 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/07/2020,7:30 PM,90 °F,75 °F,62 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+16/07/2020,8:00 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/07/2020,8:30 PM,88 °F,75 °F,66 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+16/07/2020,9:00 PM,88 °F,77 °F,70 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,9:30 PM,88 °F,77 °F,70 °%,SE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+16/07/2020,10:00 PM,88 °F,77 °F,70 °%,SSE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+16/07/2020,10:30 PM,88 °F,77 °F,70 °%,S,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+16/07/2020,11:00 PM,86 °F,77 °F,74 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+16/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,12:00 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,12:30 AM,86 °F,77 °F,74 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,1:00 AM,84 °F,77 °F,79 °%,ESE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,1:30 AM,84 °F,79 °F,84 °%,SE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,2:00 AM,84 °F,79 °F,84 °%,ESE,7 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+17/07/2020,2:30 AM,84 °F,79 °F,84 °%,SE,5 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+17/07/2020,3:00 AM,84 °F,79 °F,84 °%,ESE,9 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+17/07/2020,3:30 AM,86 °F,79 °F,79 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+17/07/2020,4:00 AM,86 °F,79 °F,79 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+17/07/2020,4:30 AM,84 °F,79 °F,84 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+17/07/2020,5:00 AM,84 °F,79 °F,84 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+17/07/2020,5:30 AM,84 °F,77 °F,79 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+17/07/2020,6:00 AM,84 °F,79 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,6:30 AM,84 °F,79 °F,84 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,7:00 AM,86 °F,79 °F,79 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+17/07/2020,7:30 AM,86 °F,79 °F,79 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+17/07/2020,8:00 AM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+17/07/2020,8:30 AM,90 °F,77 °F,66 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+17/07/2020,9:00 AM,90 °F,77 °F,66 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,9:30 AM,91 °F,77 °F,63 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,10:00 AM,93 °F,77 °F,59 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,10:30 AM,93 °F,75 °F,56 °%,SSE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,11:00 AM,95 °F,75 °F,53 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,11:30 AM,97 °F,73 °F,47 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,12:30 PM,99 °F,72 °F,42 °%,VAR,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,1:00 PM,100 °F,72 °F,39 °%,VAR,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/07/2020,1:30 PM,100 °F,70 °F,37 °%,SSE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/07/2020,2:00 PM,100 °F,72 °F,39 °%,VAR,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,2:30 PM,97 °F,73 °F,47 °%,SE,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,3:00 PM,99 °F,73 °F,44 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,3:30 PM,100 °F,72 °F,39 °%,SE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,4:00 PM,99 °F,73 °F,44 °%,SE,14 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/07/2020,4:30 PM,97 °F,75 °F,50 °%,SE,17 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/07/2020,5:00 PM,97 °F,75 °F,50 °%,SE,15 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+17/07/2020,5:30 PM,95 °F,75 °F,53 °%,SE,15 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,6:00 PM,93 °F,73 °F,52 °%,SSE,15 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,6:30 PM,93 °F,75 °F,56 °%,SE,13 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+17/07/2020,7:00 PM,91 °F,73 °F,55 °%,SSE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/07/2020,7:30 PM,91 °F,73 °F,55 °%,SSE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/07/2020,8:00 PM,90 °F,75 °F,62 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+17/07/2020,8:30 PM,90 °F,73 °F,59 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,9:00 PM,90 °F,72 °F,55 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+17/07/2020,9:30 PM,88 °F,73 °F,62 °%,ESE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+17/07/2020,10:00 PM,88 °F,73 °F,62 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+17/07/2020,10:30 PM,88 °F,73 °F,62 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+17/07/2020,11:00 PM,88 °F,75 °F,66 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+17/07/2020,11:30 PM,88 °F,75 °F,66 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+17/07/2020,,,,,,,,,,
+18/07/2020,12:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,12:30 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,1:00 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,1:30 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+18/07/2020,2:00 AM,86 °F,79 °F,79 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+18/07/2020,2:30 AM,86 °F,79 °F,79 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+18/07/2020,3:00 AM,86 °F,79 °F,79 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+18/07/2020,3:30 AM,86 °F,79 °F,79 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,4:00 AM,86 °F,79 °F,79 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+18/07/2020,4:30 AM,86 °F,79 °F,79 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+18/07/2020,5:00 AM,84 °F,79 °F,84 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,5:30 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,6:00 AM,84 °F,79 °F,84 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,6:30 AM,86 °F,79 °F,79 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,7:00 AM,86 °F,79 °F,79 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,7:30 AM,88 °F,79 °F,75 °%,SSE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,8:00 AM,88 °F,77 °F,70 °%,SSE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,8:30 AM,90 °F,77 °F,66 °%,SSE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+18/07/2020,9:00 AM,91 °F,77 °F,63 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,9:30 AM,93 °F,77 °F,59 °%,SSE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,10:00 AM,95 °F,73 °F,49 °%,S,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,10:30 AM,95 °F,73 °F,49 °%,S,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,11:00 AM,97 °F,70 °F,41 °%,S,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,11:30 AM,99 °F,70 °F,39 °%,SW,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,12:00 PM,99 °F,70 °F,39 °%,SW,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,12:30 PM,99 °F,70 °F,39 °%,SSW,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,1:00 PM,100 °F,70 °F,37 °%,SSW,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,1:30 PM,99 °F,70 °F,39 °%,SSW,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/07/2020,2:00 PM,99 °F,72 °F,42 °%,SSW,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/07/2020,2:30 PM,99 °F,72 °F,42 °%,S,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/07/2020,3:00 PM,99 °F,70 °F,39 °%,SSW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,3:30 PM,99 °F,70 °F,39 °%,SW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,4:00 PM,100 °F,70 °F,37 °%,SSW,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,4:30 PM,99 °F,70 °F,39 °%,S,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,5:00 PM,100 °F,70 °F,37 °%,SSW,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/07/2020,5:30 PM,99 °F,68 °F,37 °%,WSW,7 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+18/07/2020,6:30 PM,95 °F,77 °F,56 °%,SSE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,7:00 PM,93 °F,77 °F,59 °%,SE,12 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,7:30 PM,91 °F,75 °F,59 °%,SE,14 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+18/07/2020,8:00 PM,91 °F,75 °F,59 °%,SE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/07/2020,8:30 PM,91 °F,77 °F,63 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+18/07/2020,9:00 PM,90 °F,75 °F,62 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,9:30 PM,90 °F,75 °F,62 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+18/07/2020,10:00 PM,90 °F,77 °F,66 °%,SE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,10:30 PM,88 °F,77 °F,70 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,11:00 PM,88 °F,77 °F,70 °%,SSE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,11:30 PM,88 °F,77 °F,70 °%,SE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+18/07/2020,,,,,,,,,,
+19/07/2020,12:00 AM,88 °F,77 °F,70 °%,SSE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,12:30 AM,88 °F,77 °F,70 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,1:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,1:30 AM,86 °F,79 °F,79 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,2:00 AM,86 °F,79 °F,79 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,2:30 AM,86 °F,79 °F,79 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,3:00 AM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,3:30 AM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,4:00 AM,86 °F,77 °F,74 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+19/07/2020,4:30 AM,86 °F,77 °F,74 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,5:00 AM,86 °F,77 °F,74 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,5:30 AM,84 °F,77 °F,79 °%,SE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,6:00 AM,84 °F,77 °F,79 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,6:30 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,7:00 AM,86 °F,77 °F,74 °%,SSE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,7:30 AM,86 °F,77 °F,74 °%,SSE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,8:00 AM,88 °F,79 °F,75 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,8:30 AM,90 °F,79 °F,70 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,9:00 AM,91 °F,79 °F,66 °%,SSE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,9:30 AM,91 °F,77 °F,63 °%,S,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,10:00 AM,93 °F,77 °F,59 °%,SSE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,10:30 AM,95 °F,73 °F,49 °%,S,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,11:00 AM,95 °F,75 °F,53 °%,SSW,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,11:30 AM,95 °F,72 °F,47 °%,VAR,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,12:00 PM,97 °F,72 °F,44 °%,SW,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,12:30 PM,99 °F,72 °F,42 °%,SW,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,1:00 PM,99 °F,72 °F,42 °%,W,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,1:30 PM,99 °F,70 °F,39 °%,WSW,10 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,2:00 PM,97 °F,70 °F,41 °%,WSW,9 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,2:30 PM,97 °F,70 °F,41 °%,W,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,3:00 PM,97 °F,70 °F,41 °%,WSW,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,3:30 PM,97 °F,70 °F,41 °%,W,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,4:00 PM,97 °F,72 °F,44 °%,W,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,4:30 PM,97 °F,70 °F,41 °%,WSW,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,5:00 PM,97 °F,70 °F,41 °%,SW,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,5:30 PM,97 °F,70 °F,41 °%,VAR,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,6:00 PM,95 °F,72 °F,47 °%,SSE,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+19/07/2020,6:30 PM,95 °F,70 °F,44 °%,SSE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,7:00 PM,95 °F,70 °F,44 °%,S,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,7:30 PM,93 °F,72 °F,49 °%,SE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+19/07/2020,8:00 PM,91 °F,79 °F,66 °%,SE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,8:30 PM,91 °F,77 °F,63 °%,SE,13 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,9:00 PM,90 °F,77 °F,66 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+19/07/2020,9:30 PM,90 °F,77 °F,66 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,10:00 PM,90 °F,79 °F,70 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+19/07/2020,10:30 PM,90 °F,79 °F,70 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,11:00 PM,88 °F,77 °F,70 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+19/07/2020,11:30 PM,88 °F,77 °F,70 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,12:00 AM,88 °F,77 °F,70 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,12:30 AM,88 °F,75 °F,66 °%,S,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,1:00 AM,84 °F,72 °F,66 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,1:30 AM,84 °F,73 °F,70 °%,SE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,2:00 AM,82 °F,73 °F,74 °%,ESE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,2:30 AM,82 °F,75 °F,79 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Thunder in the Vicinity
+20/07/2020,3:00 AM,82 °F,79 °F,89 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+20/07/2020,3:30 AM,81 °F,77 °F,89 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+20/07/2020,4:00 AM,81 °F,77 °F,89 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+20/07/2020,4:30 AM,81 °F,77 °F,89 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+20/07/2020,5:00 AM,81 °F,77 °F,89 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,5:30 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,6:00 AM,82 °F,77 °F,84 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,6:30 AM,82 °F,77 °F,84 °%,ENE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,7:00 AM,82 °F,77 °F,84 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+20/07/2020,7:30 AM,82 °F,77 °F,84 °%,ENE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+20/07/2020,8:00 AM,84 °F,79 °F,84 °%,ENE,8 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,8:30 AM,86 °F,79 °F,79 °%,ENE,8 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,9:00 AM,90 °F,79 °F,70 °%,ESE,13 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,9:30 AM,90 °F,77 °F,66 °%,ESE,10 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,10:00 AM,91 °F,77 °F,63 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,10:30 AM,91 °F,77 °F,63 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+20/07/2020,11:30 AM,93 °F,77 °F,59 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+20/07/2020,12:00 PM,91 °F,77 °F,63 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+20/07/2020,12:30 PM,91 °F,77 °F,63 °%,ESE,14 °mph,0 °mph,29.64 °in,0.0 °in,Thunder in the Vicinity
+20/07/2020,1:00 PM,91 °F,77 °F,63 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain with Thunder
+20/07/2020,1:30 PM,84 °F,75 °F,74 °%,W,10 °mph,0 °mph,29.64 °in,0.0 °in,Thunder in the Vicinity
+20/07/2020,2:00 PM,79 °F,73 °F,83 °%,W,6 °mph,0 °mph,29.64 °in,0.0 °in,T-Storm
+20/07/2020,2:30 PM,81 °F,73 °F,79 °%,NNW,3 °mph,0 °mph,29.61 °in,0.0 °in,Light Rain
+20/07/2020,3:00 PM,81 °F,75 °F,84 °%,NNE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,3:30 PM,81 °F,75 °F,84 °%,ENE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,4:00 PM,81 °F,75 °F,84 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+20/07/2020,4:30 PM,81 °F,75 °F,84 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Thunder in the Vicinity
+20/07/2020,5:00 PM,81 °F,75 °F,84 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,5:30 PM,81 °F,75 °F,84 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,6:00 PM,81 °F,75 °F,84 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,6:30 PM,79 °F,75 °F,89 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,7:00 PM,79 °F,75 °F,89 °%,NE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+20/07/2020,7:30 PM,79 °F,73 °F,83 °%,NE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+20/07/2020,8:00 PM,79 °F,73 °F,83 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+20/07/2020,8:30 PM,79 °F,73 °F,83 °%,NE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+20/07/2020,9:00 PM,79 °F,73 °F,83 °%,ENE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+20/07/2020,9:30 PM,79 °F,73 °F,83 °%,ENE,7 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+20/07/2020,10:00 PM,79 °F,72 °F,78 °%,NE,6 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+20/07/2020,10:30 PM,79 °F,72 °F,78 °%,E,3 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+20/07/2020,11:00 PM,79 °F,72 °F,78 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+20/07/2020,11:30 PM,79 °F,72 °F,78 °%,E,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+20/07/2020,,,,,,,,,,
+21/07/2020,12:00 AM,79 °F,72 °F,78 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+21/07/2020,12:30 AM,79 °F,73 °F,83 °%,E,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+21/07/2020,1:00 AM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+21/07/2020,1:30 AM,79 °F,73 °F,83 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+21/07/2020,2:00 AM,79 °F,73 °F,83 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+21/07/2020,2:30 AM,79 °F,73 °F,83 °%,ENE,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,3:00 AM,79 °F,73 °F,83 °%,ENE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+21/07/2020,3:30 AM,79 °F,73 °F,83 °%,ENE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+21/07/2020,4:00 AM,79 °F,75 °F,89 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+21/07/2020,4:30 AM,81 °F,75 °F,84 °%,NE,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,5:00 AM,81 °F,77 °F,89 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,5:30 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,6:00 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+21/07/2020,6:30 AM,81 °F,79 °F,94 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+21/07/2020,7:00 AM,82 °F,79 °F,89 °%,E,5 °mph,0 °mph,29.72 °in,0.0 °in,Heavy Rain
+21/07/2020,7:30 AM,81 °F,77 °F,89 °%,ESE,15 °mph,0 °mph,29.72 °in,0.0 °in,Light Rain
+21/07/2020,8:00 AM,84 °F,79 °F,84 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+21/07/2020,8:30 AM,82 °F,75 °F,79 °%,SE,13 °mph,0 °mph,29.75 °in,0.0 °in,Thunder in the Vicinity
+21/07/2020,9:00 AM,82 °F,75 °F,79 °%,ESE,7 °mph,0 °mph,29.75 °in,0.0 °in,Light Rain
+21/07/2020,9:30 AM,82 °F,75 °F,79 °%,SE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+21/07/2020,10:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+21/07/2020,10:30 AM,88 °F,79 °F,75 °%,SSE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+21/07/2020,11:00 AM,90 °F,77 °F,66 °%,SSE,13 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+21/07/2020,11:30 AM,90 °F,77 °F,66 °%,SSE,9 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+21/07/2020,12:00 PM,93 °F,79 °F,63 °%,SSE,12 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+21/07/2020,12:30 PM,93 °F,77 °F,59 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+21/07/2020,1:00 PM,93 °F,77 °F,59 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+21/07/2020,1:30 PM,95 °F,75 °F,53 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+21/07/2020,2:00 PM,93 °F,77 °F,59 °%,SE,13 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,2:30 PM,91 °F,77 °F,63 °%,SE,17 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+21/07/2020,3:00 PM,91 °F,79 °F,66 °%,ESE,15 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+21/07/2020,3:30 PM,93 °F,77 °F,59 °%,ESE,16 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+21/07/2020,4:00 PM,93 °F,77 °F,59 °%,ESE,15 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+21/07/2020,4:30 PM,91 °F,77 °F,63 °%,SE,16 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+21/07/2020,5:00 PM,90 °F,77 °F,66 °%,SE,15 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+21/07/2020,5:30 PM,90 °F,75 °F,62 °%,SE,17 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+21/07/2020,6:00 PM,90 °F,77 °F,66 °%,SE,17 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+21/07/2020,6:30 PM,88 °F,75 °F,66 °%,SE,17 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+21/07/2020,7:00 PM,88 °F,75 °F,66 °%,SE,15 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,7:30 PM,88 °F,75 °F,66 °%,SE,14 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+21/07/2020,8:00 PM,86 °F,75 °F,70 °%,SSE,10 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,8:30 PM,86 °F,75 °F,70 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+21/07/2020,9:00 PM,86 °F,75 °F,70 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+21/07/2020,9:30 PM,86 °F,75 °F,70 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+21/07/2020,10:00 PM,86 °F,75 °F,70 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+21/07/2020,10:30 PM,84 °F,77 °F,79 °%,SSE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+21/07/2020,11:00 PM,84 °F,77 °F,79 °%,SSE,5 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+21/07/2020,11:30 PM,84 °F,77 °F,79 °%,SE,6 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+22/07/2020,12:00 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+22/07/2020,12:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+22/07/2020,1:00 AM,82 °F,77 °F,84 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,1:30 AM,82 °F,77 °F,84 °%,ESE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,2:00 AM,82 °F,77 °F,84 °%,ESE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,2:30 AM,82 °F,75 °F,79 °%,ESE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,3:00 AM,82 °F,77 °F,84 °%,SE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,3:30 AM,82 °F,77 °F,84 °%,SE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,4:00 AM,82 °F,77 °F,84 °%,ESE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,4:30 AM,82 °F,77 °F,84 °%,ESE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,5:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+22/07/2020,5:30 AM,82 °F,77 °F,84 °%,SE,7 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+22/07/2020,6:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,6:30 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,7:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,7:30 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,8:00 AM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,8:30 AM,86 °F,75 °F,70 °%,SSE,9 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+22/07/2020,9:00 AM,88 °F,75 °F,66 °%,SSE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+22/07/2020,9:30 AM,90 °F,73 °F,59 °%,SE,12 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+22/07/2020,10:00 AM,90 °F,73 °F,59 °%,SSE,9 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+22/07/2020,10:30 AM,90 °F,75 °F,62 °%,S,10 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+22/07/2020,11:00 AM,91 °F,75 °F,59 °%,SSE,13 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+22/07/2020,11:30 AM,91 °F,75 °F,59 °%,SSE,10 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+22/07/2020,12:00 PM,93 °F,73 °F,52 °%,SSE,10 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+22/07/2020,12:30 PM,93 °F,73 °F,52 °%,SSE,10 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+22/07/2020,1:00 PM,93 °F,73 °F,52 °%,SSE,12 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+22/07/2020,1:30 PM,91 °F,73 °F,55 °%,S,10 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+22/07/2020,2:00 PM,95 °F,73 °F,49 °%,SSE,10 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+22/07/2020,2:30 PM,95 °F,73 °F,49 °%,SSE,10 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+22/07/2020,3:00 PM,95 °F,75 °F,53 °%,ESE,12 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+22/07/2020,3:30 PM,93 °F,73 °F,52 °%,ESE,13 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+22/07/2020,4:00 PM,93 °F,75 °F,56 °%,SE,12 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+22/07/2020,4:30 PM,93 °F,73 °F,52 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/07/2020,5:00 PM,93 °F,75 °F,56 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/07/2020,5:30 PM,91 °F,75 °F,59 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+22/07/2020,6:30 PM,90 °F,75 °F,62 °%,SE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+22/07/2020,7:00 PM,90 °F,73 °F,59 °%,SSE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+22/07/2020,7:30 PM,88 °F,73 °F,62 °%,SSE,13 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+22/07/2020,8:00 PM,88 °F,72 °F,58 °%,SE,14 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+22/07/2020,8:30 PM,88 °F,73 °F,62 °%,SE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+22/07/2020,9:00 PM,86 °F,73 °F,66 °%,SSE,12 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,9:30 PM,86 °F,73 °F,66 °%,SE,12 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,10:00 PM,84 °F,73 °F,70 °%,SSE,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,10:30 PM,84 °F,75 °F,74 °%,SSE,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+22/07/2020,11:00 PM,84 °F,75 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,11:30 PM,84 °F,75 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+22/07/2020,,,,,,,,,,
+23/07/2020,12:00 AM,84 °F,75 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,12:30 AM,82 °F,75 °F,79 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,1:00 AM,82 °F,75 °F,79 °%,SSE,6 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+23/07/2020,1:30 AM,82 °F,75 °F,79 °%,SSE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,2:00 AM,82 °F,75 °F,79 °%,SE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,2:30 AM,82 °F,75 °F,79 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,3:00 AM,82 °F,75 °F,79 °%,ESE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,3:30 AM,82 °F,75 °F,79 °%,ESE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,4:30 AM,81 °F,77 °F,89 °%,E,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,5:00 AM,81 °F,75 °F,84 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,5:30 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,6:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,6:30 AM,82 °F,77 °F,84 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,7:00 AM,84 °F,77 °F,79 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,7:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+23/07/2020,8:00 AM,86 °F,75 °F,70 °%,SE,7 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+23/07/2020,8:30 AM,88 °F,75 °F,66 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,9:00 AM,90 °F,75 °F,62 °%,SE,9 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+23/07/2020,9:30 AM,88 °F,75 °F,66 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+23/07/2020,10:00 AM,90 °F,73 °F,59 °%,SE,9 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,10:30 AM,91 °F,73 °F,55 °%,SSE,6 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+23/07/2020,2:00 PM,95 °F,72 °F,47 °%,ESE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/07/2020,2:30 PM,95 °F,72 °F,47 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/07/2020,3:00 PM,95 °F,72 °F,47 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+23/07/2020,3:30 PM,97 °F,72 °F,44 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,4:00 PM,95 °F,72 °F,47 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,4:30 PM,95 °F,72 °F,47 °%,ESE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,5:00 PM,93 °F,72 °F,49 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,5:30 PM,93 °F,75 °F,56 °%,ESE,12 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+23/07/2020,6:00 PM,91 °F,75 °F,59 °%,ESE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,6:30 PM,91 °F,73 °F,55 °%,ESE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+23/07/2020,7:00 PM,90 °F,73 °F,59 °%,SE,14 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/07/2020,7:30 PM,90 °F,73 °F,59 °%,SE,13 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+23/07/2020,8:00 PM,88 °F,73 °F,62 °%,SE,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,8:30 PM,88 °F,73 °F,62 °%,SSE,10 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,9:00 PM,88 °F,73 °F,62 °%,SE,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+23/07/2020,9:30 PM,86 °F,73 °F,66 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,10:00 PM,86 °F,75 °F,70 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,10:30 PM,86 °F,75 °F,70 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,11:00 PM,86 °F,75 °F,70 °%,SSE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+23/07/2020,11:30 PM,84 °F,75 °F,74 °%,SSE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+23/07/2020,,,,,,,,,,
+24/07/2020,12:00 AM,84 °F,75 °F,74 °%,SSE,6 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+24/07/2020,12:30 AM,84 °F,75 °F,74 °%,SSE,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+24/07/2020,1:00 AM,84 °F,75 °F,74 °%,SSE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,1:30 AM,82 °F,75 °F,79 °%,ESE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,2:00 AM,82 °F,75 °F,79 °%,ESE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,2:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,3:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,3:30 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,4:00 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,4:30 AM,81 °F,77 °F,89 °%,ENE,3 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,5:00 AM,81 °F,77 °F,89 °%,ENE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,5:30 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,6:00 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+24/07/2020,6:30 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+24/07/2020,7:00 AM,84 °F,77 °F,79 °%,E,7 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+24/07/2020,7:30 AM,86 °F,77 °F,74 °%,E,7 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+24/07/2020,8:00 AM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,8:30 AM,86 °F,75 °F,70 °%,SE,8 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,9:00 AM,88 °F,77 °F,70 °%,SSE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+24/07/2020,9:30 AM,88 °F,75 °F,66 °%,SSE,7 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,10:00 AM,90 °F,75 °F,62 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,10:30 AM,90 °F,75 °F,62 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,11:00 AM,91 °F,75 °F,59 °%,ESE,7 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,11:30 AM,93 °F,75 °F,56 °%,SE,6 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+24/07/2020,12:00 PM,93 °F,75 °F,56 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+24/07/2020,12:30 PM,95 °F,75 °F,53 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+24/07/2020,1:00 PM,95 °F,73 °F,49 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+24/07/2020,1:30 PM,95 °F,77 °F,56 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+24/07/2020,2:00 PM,95 °F,75 °F,53 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+24/07/2020,2:30 PM,97 °F,73 °F,47 °%,ESE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+24/07/2020,3:00 PM,95 °F,75 °F,53 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+24/07/2020,3:30 PM,95 °F,73 °F,49 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+24/07/2020,4:00 PM,97 °F,75 °F,50 °%,ESE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+24/07/2020,4:30 PM,95 °F,75 °F,53 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/07/2020,5:00 PM,95 °F,73 °F,49 °%,ESE,9 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/07/2020,5:30 PM,95 °F,73 °F,49 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/07/2020,6:00 PM,93 °F,73 °F,52 °%,SE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+24/07/2020,6:30 PM,0 °F,0 °F,0 °%,,0 °mph,0 °mph,0.00 °in,0.0 °in,Partly Cloudy
+24/07/2020,7:00 PM,91 °F,75 °F,59 °%,SE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+24/07/2020,7:30 PM,90 °F,75 °F,62 °%,SSE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+24/07/2020,8:00 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+24/07/2020,8:30 PM,88 °F,75 °F,66 °%,SSE,12 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+24/07/2020,9:00 PM,88 °F,75 °F,66 °%,SSE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+24/07/2020,9:30 PM,88 °F,75 °F,66 °%,SSE,12 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,10:00 PM,86 °F,75 °F,70 °%,SSE,10 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,10:30 PM,86 °F,75 °F,70 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,11:00 PM,86 °F,75 °F,70 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+24/07/2020,11:30 PM,84 °F,75 °F,74 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+25/07/2020,12:00 AM,84 °F,75 °F,74 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,12:30 AM,84 °F,75 °F,74 °%,SSE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,1:00 AM,84 °F,75 °F,74 °%,SE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,2:30 AM,82 °F,77 °F,84 °%,E,9 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,3:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,3:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,4:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,4:30 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,5:00 AM,81 °F,77 °F,89 °%,ENE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,5:30 AM,81 °F,77 °F,89 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+25/07/2020,6:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+25/07/2020,6:30 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+25/07/2020,7:00 AM,84 °F,79 °F,84 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+25/07/2020,7:30 AM,86 °F,77 °F,74 °%,E,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+25/07/2020,8:00 AM,86 °F,77 °F,74 °%,ESE,9 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+25/07/2020,8:30 AM,88 °F,75 °F,66 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+25/07/2020,9:00 AM,90 °F,77 °F,66 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+25/07/2020,9:30 AM,90 °F,77 °F,66 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+25/07/2020,10:00 AM,90 °F,77 °F,66 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+25/07/2020,10:30 AM,90 °F,75 °F,62 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+25/07/2020,11:00 AM,93 °F,75 °F,56 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+25/07/2020,11:30 AM,93 °F,75 °F,56 °%,SE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+25/07/2020,12:00 PM,95 °F,75 °F,53 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+25/07/2020,12:30 PM,95 °F,75 °F,53 °%,SSE,9 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+25/07/2020,1:00 PM,95 °F,75 °F,53 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+25/07/2020,1:30 PM,93 °F,75 °F,56 °%,ESE,10 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+25/07/2020,2:00 PM,95 °F,75 °F,53 °%,SE,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+25/07/2020,2:30 PM,97 °F,75 °F,50 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/07/2020,3:30 PM,97 °F,75 °F,50 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+25/07/2020,4:00 PM,95 °F,75 °F,53 °%,ESE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,4:30 PM,95 °F,75 °F,53 °%,ESE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,5:00 PM,95 °F,75 °F,53 °%,SE,9 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,5:30 PM,93 °F,75 °F,56 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,6:00 PM,93 °F,75 °F,56 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,6:30 PM,91 °F,73 °F,55 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+25/07/2020,7:00 PM,91 °F,77 °F,63 °%,SE,15 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+25/07/2020,7:30 PM,90 °F,77 °F,66 °%,SE,14 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+25/07/2020,8:00 PM,90 °F,77 °F,66 °%,SSE,13 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+25/07/2020,8:30 PM,88 °F,77 °F,70 °%,SE,14 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+25/07/2020,9:00 PM,88 °F,75 °F,66 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,9:30 PM,88 °F,77 °F,70 °%,SSE,13 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,10:00 PM,86 °F,77 °F,74 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,10:30 PM,86 °F,77 °F,74 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,11:00 PM,86 °F,77 °F,74 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+25/07/2020,,,,,,,,,,
+25/07/2020,,,,,,,,,,
+25/07/2020,,,,,,,,,,
+26/07/2020,12:00 AM,86 °F,77 °F,74 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,12:30 AM,84 °F,77 °F,79 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,1:00 AM,84 °F,77 °F,79 °%,ESE,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,1:30 AM,84 °F,77 °F,79 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,2:00 AM,84 °F,77 °F,79 °%,E,8 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,2:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+26/07/2020,3:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,3:30 AM,82 °F,77 °F,84 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,4:00 AM,82 °F,77 °F,84 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,4:30 AM,82 °F,77 °F,84 °%,ESE,9 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,5:00 AM,82 °F,77 °F,84 °%,E,8 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,5:30 AM,82 °F,77 °F,84 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,6:00 AM,82 °F,77 °F,84 °%,ESE,8 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,6:30 AM,84 °F,77 °F,79 °%,SE,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,7:00 AM,84 °F,77 °F,79 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,7:30 AM,86 °F,79 °F,79 °%,SE,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,8:00 AM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,8:30 AM,88 °F,77 °F,70 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,9:00 AM,90 °F,77 °F,66 °%,SE,8 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,9:30 AM,90 °F,77 °F,66 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,10:00 AM,90 °F,77 °F,66 °%,SE,10 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+26/07/2020,10:30 AM,91 °F,77 °F,63 °%,SSE,9 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+26/07/2020,11:00 AM,93 °F,77 °F,59 °%,SSE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,11:30 AM,93 °F,77 °F,59 °%,ESE,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,12:00 PM,95 °F,77 °F,56 °%,E,9 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+26/07/2020,12:30 PM,95 °F,77 °F,56 °%,E,9 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+26/07/2020,1:00 PM,95 °F,77 °F,56 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+26/07/2020,1:30 PM,95 °F,77 °F,56 °%,ESE,10 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+26/07/2020,2:00 PM,95 °F,77 °F,56 °%,ESE,7 °mph,0 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/07/2020,2:30 PM,97 °F,77 °F,53 °%,ENE,9 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+26/07/2020,3:00 PM,95 °F,77 °F,56 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Partly Cloudy
+26/07/2020,3:30 PM,97 °F,77 °F,53 °%,E,8 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+26/07/2020,4:00 PM,97 °F,75 °F,50 °%,E,9 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+26/07/2020,4:30 PM,93 °F,77 °F,59 °%,ESE,12 °mph,0 °mph,29.55 °in,0.0 °in,Mostly Cloudy
+26/07/2020,5:00 PM,88 °F,68 °F,52 °%,SW,20 °mph,31 °mph,29.58 °in,0.0 °in,Mostly Cloudy
+26/07/2020,5:30 PM,79 °F,73 °F,83 °%,SSW,14 °mph,0 °mph,29.61 °in,0.0 °in,Heavy T-Storm
+26/07/2020,6:00 PM,79 °F,73 °F,83 °%,S,14 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+26/07/2020,6:30 PM,79 °F,73 °F,83 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+26/07/2020,7:00 PM,81 °F,73 °F,79 °%,WSW,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/07/2020,7:30 PM,79 °F,73 °F,83 °%,SSW,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/07/2020,8:00 PM,81 °F,73 °F,79 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/07/2020,8:30 PM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/07/2020,9:00 PM,79 °F,73 °F,83 °%,WNW,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+26/07/2020,9:30 PM,79 °F,72 °F,78 °%,VAR,1 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,10:00 PM,79 °F,73 °F,83 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,10:30 PM,79 °F,73 °F,83 °%,VAR,2 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,11:00 PM,81 °F,73 °F,79 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+26/07/2020,11:30 PM,79 °F,75 °F,89 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/07/2020,12:00 AM,79 °F,75 °F,89 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/07/2020,12:30 AM,79 °F,73 °F,83 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/07/2020,1:00 AM,79 °F,75 °F,89 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,1:30 AM,79 °F,73 °F,83 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,2:00 AM,79 °F,73 °F,83 °%,E,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,2:30 AM,79 °F,75 °F,89 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,3:00 AM,79 °F,75 °F,89 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,3:30 AM,81 °F,75 °F,84 °%,NE,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,4:00 AM,81 °F,75 °F,84 °%,ENE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,4:30 AM,79 °F,75 °F,89 °%,NE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,5:00 AM,81 °F,75 °F,84 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+27/07/2020,5:30 AM,81 °F,73 °F,79 °%,NE,9 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+27/07/2020,6:00 AM,81 °F,73 °F,79 °%,NE,8 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+27/07/2020,6:30 AM,81 °F,73 °F,79 °%,NE,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+27/07/2020,7:00 AM,82 °F,73 °F,74 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+27/07/2020,7:30 AM,82 °F,75 °F,79 °%,VAR,1 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+27/07/2020,8:00 AM,84 °F,75 °F,74 °%,CALM,0 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+27/07/2020,8:30 AM,84 °F,75 °F,74 °%,WNW,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+27/07/2020,9:00 AM,84 °F,75 °F,74 °%,W,6 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+27/07/2020,9:30 AM,84 °F,75 °F,74 °%,W,7 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+27/07/2020,10:00 AM,86 °F,75 °F,70 °%,WNW,7 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+27/07/2020,10:30 AM,84 °F,75 °F,74 °%,WNW,9 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+27/07/2020,11:00 AM,88 °F,75 °F,66 °%,NW,8 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+27/07/2020,11:30 AM,90 °F,75 °F,62 °%,NNW,8 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+27/07/2020,12:00 PM,88 °F,73 °F,62 °%,NNE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+27/07/2020,12:30 PM,88 °F,73 °F,62 °%,VAR,1 °mph,0 °mph,29.61 °in,0.0 °in,Mostly Cloudy
+27/07/2020,1:00 PM,88 °F,73 °F,62 °%,W,3 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+27/07/2020,1:30 PM,88 °F,73 °F,62 °%,E,5 °mph,0 °mph,29.61 °in,0.0 °in,Partly Cloudy
+27/07/2020,2:30 PM,86 °F,75 °F,70 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,3:00 PM,86 °F,75 °F,70 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,3:30 PM,86 °F,75 °F,70 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,4:00 PM,86 °F,75 °F,70 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,4:30 PM,84 °F,75 °F,74 °%,N,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,5:00 PM,86 °F,75 °F,70 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,5:30 PM,84 °F,75 °F,74 °%,E,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+27/07/2020,6:00 PM,84 °F,73 °F,70 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,6:30 PM,84 °F,73 °F,70 °%,E,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,7:00 PM,82 °F,75 °F,79 °%,ENE,3 °mph,0 °mph,29.58 °in,0.0 °in,Smoke
+27/07/2020,7:30 PM,82 °F,75 °F,79 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+27/07/2020,8:00 PM,82 °F,75 °F,79 °%,ENE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,8:30 PM,81 °F,75 °F,84 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+27/07/2020,9:00 PM,81 °F,73 °F,79 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/07/2020,9:30 PM,81 °F,73 °F,79 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+27/07/2020,10:00 PM,81 °F,73 °F,79 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+27/07/2020,10:30 PM,81 °F,75 °F,84 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+27/07/2020,,,,,,,,,,
+27/07/2020,,,,,,,,,,
+27/07/2020,,,,,,,,,,
+28/07/2020,1:00 AM,81 °F,73 °F,79 °%,ENE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,1:30 AM,79 °F,73 °F,83 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+28/07/2020,2:00 AM,79 °F,73 °F,83 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+28/07/2020,2:30 AM,79 °F,73 °F,83 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+28/07/2020,3:00 AM,79 °F,73 °F,83 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+28/07/2020,3:30 AM,81 °F,73 °F,79 °%,NNE,5 °mph,0 °mph,29.64 °in,0.0 °in,Mostly Cloudy
+28/07/2020,4:00 AM,79 °F,75 °F,89 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,T-Storm
+28/07/2020,4:30 AM,79 °F,75 °F,89 °%,ENE,7 °mph,0 °mph,29.64 °in,0.0 °in,Light Rain
+28/07/2020,5:00 AM,79 °F,75 °F,89 °%,NNE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+28/07/2020,5:30 AM,79 °F,75 °F,89 °%,NE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+28/07/2020,6:00 AM,79 °F,75 °F,89 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+28/07/2020,6:30 AM,79 °F,75 °F,89 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+28/07/2020,7:30 AM,81 °F,75 °F,84 °%,NE,7 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+28/07/2020,8:00 AM,82 °F,75 °F,79 °%,NNE,8 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+28/07/2020,8:30 AM,82 °F,75 °F,79 °%,NNW,7 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+28/07/2020,9:00 AM,84 °F,75 °F,74 °%,N,3 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+28/07/2020,9:30 AM,86 °F,75 °F,70 °%,NE,3 °mph,0 °mph,29.69 °in,0.0 °in,Haze
+28/07/2020,10:00 AM,86 °F,75 °F,70 °%,ESE,3 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+28/07/2020,10:30 AM,88 °F,75 °F,66 °%,VAR,2 °mph,0 °mph,29.69 °in,0.0 °in,Haze
+28/07/2020,11:00 AM,88 °F,75 °F,66 °%,ESE,3 °mph,0 °mph,29.69 °in,0.0 °in,Haze
+28/07/2020,11:30 AM,90 °F,75 °F,62 °%,NE,3 °mph,0 °mph,29.69 °in,0.0 °in,Haze
+28/07/2020,12:00 PM,91 °F,77 °F,63 °%,VAR,3 °mph,0 °mph,29.66 °in,0.0 °in,Haze
+28/07/2020,12:30 PM,91 °F,75 °F,59 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Haze
+28/07/2020,1:30 PM,95 °F,75 °F,53 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+28/07/2020,2:00 PM,95 °F,73 °F,49 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+28/07/2020,2:30 PM,93 °F,73 °F,52 °%,NNW,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+28/07/2020,3:00 PM,95 °F,73 °F,49 °%,N,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+28/07/2020,3:30 PM,95 °F,73 °F,49 °%,NW,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+28/07/2020,4:00 PM,93 °F,75 °F,56 °%,VAR,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+28/07/2020,4:30 PM,93 °F,75 °F,56 °%,NE,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+28/07/2020,5:00 PM,86 °F,75 °F,70 °%,ESE,10 °mph,0 °mph,29.58 °in,0.0 °in,Rain Shower
+28/07/2020,5:30 PM,81 °F,73 °F,79 °%,ESE,12 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+28/07/2020,6:00 PM,79 °F,73 °F,83 °%,S,10 °mph,0 °mph,29.61 °in,0.0 °in,Heavy T-Storm
+28/07/2020,6:30 PM,79 °F,73 °F,83 °%,S,8 °mph,0 °mph,29.61 °in,0.0 °in,T-Storm
+28/07/2020,7:00 PM,81 °F,75 °F,84 °%,S,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+28/07/2020,7:30 PM,81 °F,75 °F,84 °%,ESE,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+28/07/2020,8:00 PM,82 °F,75 °F,79 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+28/07/2020,8:30 PM,82 °F,75 °F,79 °%,SE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,9:00 PM,82 °F,75 °F,79 °%,ESE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,9:30 PM,82 °F,75 °F,79 °%,E,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,10:00 PM,82 °F,75 °F,79 °%,ESE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,10:30 PM,82 °F,75 °F,79 °%,SE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+28/07/2020,11:00 PM,82 °F,75 °F,79 °%,SE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+28/07/2020,11:30 PM,82 °F,75 °F,79 °%,VAR,1 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+28/07/2020,,,,,,,,,,
+28/07/2020,,,,,,,,,,
+28/07/2020,,,,,,,,,,
+28/07/2020,,,,,,,,,,
+29/07/2020,12:00 AM,81 °F,75 °F,84 °%,NNE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,12:30 AM,82 °F,75 °F,79 °%,E,3 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+29/07/2020,1:00 AM,82 °F,75 °F,79 °%,ENE,3 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+29/07/2020,1:30 AM,81 °F,75 °F,84 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+29/07/2020,2:00 AM,81 °F,75 °F,84 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,2:30 AM,81 °F,75 °F,84 °%,E,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+29/07/2020,3:00 AM,81 °F,75 °F,84 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+29/07/2020,3:30 AM,81 °F,77 °F,89 °%,NE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+29/07/2020,4:00 AM,81 °F,77 °F,89 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,4:30 AM,81 °F,77 °F,89 °%,E,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,5:00 AM,81 °F,77 °F,89 °%,NE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+29/07/2020,5:30 AM,81 °F,77 °F,89 °%,E,3 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+29/07/2020,6:00 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+29/07/2020,6:30 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+29/07/2020,7:00 AM,82 °F,79 °F,89 °%,NE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+29/07/2020,7:30 AM,84 °F,79 °F,84 °%,ENE,7 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+29/07/2020,8:00 AM,86 °F,79 °F,79 °%,NE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+29/07/2020,8:30 AM,86 °F,79 °F,79 °%,ENE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+29/07/2020,9:00 AM,88 °F,79 °F,75 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+29/07/2020,9:30 AM,90 °F,77 °F,66 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+29/07/2020,10:00 AM,90 °F,77 °F,66 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+29/07/2020,10:30 AM,91 °F,79 °F,66 °%,VAR,5 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+29/07/2020,11:00 AM,91 °F,77 °F,63 °%,S,5 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+29/07/2020,11:30 AM,91 °F,77 °F,63 °%,VAR,3 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+29/07/2020,12:00 PM,91 °F,77 °F,63 °%,WNW,3 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+29/07/2020,12:30 PM,88 °F,75 °F,66 °%,NW,13 °mph,0 °mph,29.66 °in,0.0 °in,Thunder in the Vicinity
+29/07/2020,1:00 PM,86 °F,73 °F,66 °%,N,7 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+29/07/2020,1:30 PM,86 °F,75 °F,70 °%,N,6 °mph,0 °mph,29.64 °in,0.0 °in,Thunder in the Vicinity
+29/07/2020,2:00 PM,86 °F,73 °F,66 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,2:30 PM,88 °F,75 °F,66 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,3:00 PM,90 °F,75 °F,62 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,3:30 PM,91 °F,75 °F,59 °%,E,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,4:00 PM,93 °F,75 °F,56 °%,VAR,2 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,4:30 PM,93 °F,75 °F,56 °%,E,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,5:00 PM,90 °F,77 °F,66 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,5:30 PM,88 °F,73 °F,62 °%,SSE,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,6:00 PM,86 °F,73 °F,66 °%,S,8 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,6:30 PM,86 °F,73 °F,66 °%,SSE,7 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+29/07/2020,7:00 PM,84 °F,75 °F,74 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,7:30 PM,84 °F,73 °F,70 °%,SSE,6 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+29/07/2020,8:00 PM,84 °F,73 °F,70 °%,ESE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+29/07/2020,8:30 PM,84 °F,73 °F,70 °%,SE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+29/07/2020,9:00 PM,84 °F,73 °F,70 °%,ESE,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,9:30 PM,84 °F,73 °F,70 °%,SSE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,10:00 PM,84 °F,75 °F,74 °%,SSE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+29/07/2020,10:30 PM,84 °F,75 °F,74 °%,SSE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+29/07/2020,11:00 PM,84 °F,75 °F,74 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+29/07/2020,11:30 PM,84 °F,75 °F,74 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,12:00 AM,82 °F,75 °F,79 °%,ESE,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,12:30 AM,82 °F,75 °F,79 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,1:00 AM,82 °F,77 °F,84 °%,E,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+30/07/2020,1:30 AM,82 °F,77 °F,84 °%,NE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+30/07/2020,2:00 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+30/07/2020,2:30 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+30/07/2020,3:00 AM,82 °F,77 °F,84 °%,ENE,3 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+30/07/2020,3:30 AM,82 °F,77 °F,84 °%,VAR,5 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+30/07/2020,4:00 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+30/07/2020,4:30 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fog
+30/07/2020,5:00 AM,81 °F,77 °F,89 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+30/07/2020,5:30 AM,81 °F,77 °F,89 °%,ENE,3 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+30/07/2020,6:00 AM,82 °F,77 °F,84 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+30/07/2020,6:30 AM,82 °F,79 °F,89 °%,ENE,5 °mph,0 °mph,29.66 °in,0.0 °in,Fog
+30/07/2020,7:00 AM,84 °F,79 °F,84 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+30/07/2020,7:30 AM,86 °F,79 °F,79 °%,ENE,5 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+30/07/2020,8:00 AM,86 °F,79 °F,79 °%,VAR,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,8:30 AM,88 °F,77 °F,70 °%,E,6 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,9:00 AM,90 °F,77 °F,66 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,9:30 AM,90 °F,77 °F,66 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,10:00 AM,91 °F,75 °F,59 °%,VAR,3 °mph,0 °mph,29.69 °in,0.0 °in,Fair
+30/07/2020,10:30 AM,93 °F,75 °F,56 °%,VAR,2 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+30/07/2020,11:00 AM,93 °F,75 °F,56 °%,E,7 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+30/07/2020,11:30 AM,93 °F,75 °F,56 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,12:00 PM,95 °F,75 °F,53 °%,E,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,12:30 PM,95 °F,73 °F,49 °%,E,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,1:00 PM,95 °F,73 °F,49 °%,E,7 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+30/07/2020,1:30 PM,95 °F,72 °F,47 °%,E,8 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+30/07/2020,2:00 PM,95 °F,72 °F,47 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+30/07/2020,2:30 PM,97 °F,72 °F,44 °%,E,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+30/07/2020,3:00 PM,97 °F,72 °F,44 °%,ENE,5 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+30/07/2020,3:30 PM,97 °F,72 °F,44 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,4:00 PM,97 °F,70 °F,41 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,4:30 PM,97 °F,73 °F,47 °%,ENE,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,5:00 PM,97 °F,72 °F,44 °%,ENE,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,5:30 PM,95 °F,73 °F,49 °%,ESE,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,6:00 PM,95 °F,72 °F,47 °%,S,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,6:30 PM,93 °F,72 °F,49 °%,SSE,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+30/07/2020,7:00 PM,93 °F,73 °F,52 °%,SE,10 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+30/07/2020,7:30 PM,91 °F,77 °F,63 °%,SE,12 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+30/07/2020,8:00 PM,90 °F,77 °F,66 °%,SE,10 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+30/07/2020,8:30 PM,90 °F,75 °F,62 °%,SE,13 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+30/07/2020,9:00 PM,88 °F,75 °F,66 °%,SE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,9:30 PM,88 °F,75 °F,66 °%,SSE,12 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,10:00 PM,88 °F,75 °F,66 °%,SSE,10 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,10:30 PM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.66 °in,0.0 °in,Fair
+30/07/2020,11:00 PM,86 °F,77 °F,74 °%,SE,7 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+30/07/2020,11:30 PM,86 °F,77 °F,74 °%,SE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,12:00 AM,86 °F,77 °F,74 °%,SSE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,12:30 AM,86 °F,77 °F,74 °%,SSE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,1:00 AM,86 °F,77 °F,74 °%,S,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,1:30 AM,86 °F,77 °F,74 °%,S,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,2:00 AM,86 °F,77 °F,74 °%,SSE,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,2:30 AM,86 °F,77 °F,74 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,3:00 AM,84 °F,77 °F,79 °%,VAR,1 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,3:30 AM,84 °F,77 °F,79 °%,VAR,2 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,4:00 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,4:30 AM,84 °F,79 °F,84 °%,NE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,5:00 AM,84 °F,79 °F,84 °%,NNE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,5:30 AM,84 °F,79 °F,84 °%,NE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,6:00 AM,82 °F,79 °F,89 °%,NNE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,6:30 AM,84 °F,79 °F,84 °%,ENE,5 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,7:00 AM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,7:30 AM,84 °F,77 °F,79 °%,NE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,8:00 AM,86 °F,77 °F,74 °%,NE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,8:30 AM,88 °F,77 °F,70 °%,ENE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,9:00 AM,88 °F,77 °F,70 °%,NE,6 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+31/07/2020,9:30 AM,88 °F,77 °F,70 °%,NNE,5 °mph,0 °mph,29.64 °in,0.0 °in,Partly Cloudy
+31/07/2020,10:00 AM,90 °F,77 °F,66 °%,NNE,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,10:30 AM,90 °F,75 °F,62 °%,ENE,6 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,11:00 AM,91 °F,75 °F,59 °%,VAR,3 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,11:30 AM,91 °F,73 °F,55 °%,VAR,5 °mph,0 °mph,29.64 °in,0.0 °in,Fair
+31/07/2020,12:00 PM,93 °F,75 °F,56 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,12:30 PM,93 °F,73 °F,52 °%,VAR,3 °mph,0 °mph,29.61 °in,0.0 °in,Fair
+31/07/2020,1:00 PM,95 °F,73 °F,49 °%,VAR,5 °mph,0 °mph,29.58 °in,0.0 °in,Partly Cloudy
+31/07/2020,1:30 PM,95 °F,72 °F,47 °%,N,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,2:00 PM,95 °F,72 °F,47 °%,VAR,1 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,2:30 PM,93 °F,73 °F,52 °%,E,6 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,3:00 PM,88 °F,75 °F,66 °%,ESE,15 °mph,0 °mph,29.52 °in,0.0 °in,Thunder
+31/07/2020,3:30 PM,82 °F,77 °F,84 °%,NNE,6 °mph,0 °mph,29.55 °in,0.0 °in,Light Rain with Thunder
+31/07/2020,4:00 PM,82 °F,79 °F,89 °%,E,8 °mph,0 °mph,29.52 °in,0.0 °in,Light Rain
+31/07/2020,4:30 PM,84 °F,79 °F,84 °%,SE,6 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+31/07/2020,5:00 PM,84 °F,77 °F,79 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+31/07/2020,5:30 PM,84 °F,77 °F,79 °%,NNE,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+31/07/2020,6:00 PM,84 °F,77 °F,79 °%,ENE,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+31/07/2020,6:30 PM,84 °F,77 °F,79 °%,E,3 °mph,0 °mph,29.49 °in,0.0 °in,Fair
+31/07/2020,7:00 PM,84 °F,75 °F,74 °%,E,3 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+31/07/2020,7:30 PM,84 °F,77 °F,79 °%,E,5 °mph,0 °mph,29.52 °in,0.0 °in,Fair
+31/07/2020,8:00 PM,82 °F,77 °F,84 °%,E,3 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,8:30 PM,84 °F,77 °F,79 °%,VAR,1 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,9:00 PM,82 °F,77 °F,84 °%,N,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+31/07/2020,9:30 PM,82 °F,77 °F,84 °%,NNW,3 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+31/07/2020,10:00 PM,82 °F,77 °F,84 °%,NW,6 °mph,0 °mph,29.58 °in,0.0 °in,Fair
+31/07/2020,10:30 PM,82 °F,79 °F,89 °%,NNW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,11:00 PM,82 °F,77 °F,84 °%,NNW,7 °mph,0 °mph,29.55 °in,0.0 °in,Fair
+31/07/2020,11:30 PM,82 °F,77 °F,84 °%,NNW,5 °mph,0 °mph,29.55 °in,0.0 °in,Fair

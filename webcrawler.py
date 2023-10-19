@@ -6,6 +6,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 import pandas as pd
 import utility
+from sklearn.preprocessing import StandardScaler
 
 
 class WebCrawler:
@@ -148,6 +149,7 @@ def combine_data():
 
 def preprocess_data():
     df = pd.read_csv('raw_weather_data_2020-2023.csv')
+    df.at[df['wind speed(mps)'].argmax(), 'wind speed(mps)'] /= 10
     missing_value_columns = ['temperature(F)', 'humidity(%)', 'pressure(hPa)', 'wind_direction', 'wind speed(mps)']
 
     # fill missing using interpolation
@@ -159,6 +161,11 @@ def preprocess_data():
 
     # convert less frequent weather condition to more frequent one
     df['condition'] = df['condition'].apply(convert_weather)
+
+    # concert date and time to datetime
+    df['date'] = pd.to_datetime(df['date'] + ' ' + df['time'])
+    df = df.drop(columns='time')
+    df = df.rename(columns={'date': 'datetime'})
 
     df.to_csv('processed_weather_data_2020-2023.csv', index=False)
 
@@ -192,5 +199,12 @@ def print_weather_condition_count():
 
 if __name__ == "__main__":
     df = pd.read_csv('processed_weather_data_2020-2023.csv')
-    print(df)
 
+    df['temperature(F)'] /= 122
+    df['pressure(hPa)'] /= 1100
+    df['humidity(%)'] /= 100
+    df['wind_direction'] /= 360
+
+    wind_scaler = StandardScaler()
+    wind_scaler.fit(df[['wind speed(mps)']])
+    df['wind speed(mps)'] = wind_scaler.transform(df[['wind speed(mps)']])

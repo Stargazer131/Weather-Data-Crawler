@@ -19,7 +19,6 @@ def combine_data():
             df['pressure'] = df['pressure'].str.replace('°in', '').astype(float)
             df['wind speed'] = df['wind speed'].str.replace('°mph', '').astype(float)
             df['pressure'] = df['pressure'] * 33.86389  # convert to hPa
-            df['condition'] = df['condition'].replace('Fair', 'Sunny')
             df = df[selected]
             data.append(df)
 

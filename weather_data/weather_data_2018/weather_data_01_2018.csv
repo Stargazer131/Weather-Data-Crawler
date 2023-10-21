@@ -1,0 +1,1489 @@
+date,time,temperature,dewpoint,humidity,wind,wind speed,wind gust,pressure,precip,condition
+01/01/2018,12:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.10 °in,0.0 °in,Partly Cloudy
+01/01/2018,12:30 AM,61 °F,54 °F,77 °%,N,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,01:00 AM,61 °F,54 °F,77 °%,NNW,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,01:30 AM,61 °F,52 °F,72 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,02:00 AM,61 °F,52 °F,72 °%,VAR,2 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,02:30 AM,61 °F,54 °F,77 °%,NE,2 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,03:00 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+01/01/2018,03:30 AM,61 °F,54 °F,77 °%,NE,2 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+01/01/2018,04:00 AM,59 °F,52 °F,77 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+01/01/2018,04:30 AM,59 °F,54 °F,82 °%,E,2 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+01/01/2018,05:00 AM,59 °F,52 °F,77 °%,ENE,2 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+01/01/2018,05:30 AM,59 °F,54 °F,82 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,06:00 AM,59 °F,54 °F,82 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,06:30 AM,61 °F,54 °F,77 °%,NE,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,07:00 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,07:30 AM,61 °F,54 °F,77 °%,ENE,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,08:00 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,08:30 AM,63 °F,54 °F,72 °%,ENE,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,09:00 AM,63 °F,54 °F,72 °%,E,7 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,09:30 AM,63 °F,54 °F,72 °%,E,6 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,10:00 AM,63 °F,54 °F,72 °%,NE,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,10:30 AM,63 °F,54 °F,72 °%,NNE,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,11:00 AM,64 °F,55 °F,73 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+01/01/2018,11:30 AM,66 °F,55 °F,68 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,12:00 PM,66 °F,55 °F,68 °%,ESE,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+01/01/2018,12:30 PM,66 °F,55 °F,68 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,01:00 PM,66 °F,55 °F,68 °%,ESE,6 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+01/01/2018,01:30 PM,66 °F,55 °F,68 °%,VAR,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,02:00 PM,66 °F,55 °F,68 °%,NE,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,02:30 PM,66 °F,55 °F,68 °%,NNE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+01/01/2018,03:00 PM,66 °F,55 °F,68 °%,NNE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+01/01/2018,03:30 PM,66 °F,55 °F,68 °%,ENE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+01/01/2018,04:00 PM,66 °F,57 °F,73 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+01/01/2018,04:30 PM,66 °F,57 °F,73 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,05:00 PM,66 °F,57 °F,73 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,05:30 PM,64 °F,57 °F,77 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,06:00 PM,64 °F,57 °F,77 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,06:30 PM,64 °F,57 °F,77 °%,NNW,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+01/01/2018,07:00 PM,64 °F,57 °F,77 °%,NNW,1 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,07:30 PM,64 °F,57 °F,77 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+01/01/2018,08:00 PM,64 °F,57 °F,77 °%,NW,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+01/01/2018,08:30 PM,64 °F,57 °F,77 °%,NW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+01/01/2018,09:00 PM,64 °F,57 °F,77 °%,NW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+01/01/2018,09:30 PM,64 °F,57 °F,77 °%,NW,3 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+01/01/2018,10:00 PM,64 °F,59 °F,83 °%,NNW,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+01/01/2018,10:30 PM,64 °F,59 °F,83 °%,N,1 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+01/01/2018,11:00 PM,64 °F,57 °F,77 °%,ENE,1 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+01/01/2018,11:30 PM,64 °F,57 °F,77 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,12:00 AM,64 °F,59 °F,83 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,12:30 AM,63 °F,59 °F,88 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,01:00 AM,63 °F,59 °F,88 °%,E,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,01:30 AM,63 °F,59 °F,88 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,02:00 AM,63 °F,59 °F,88 °%,E,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,02:30 AM,63 °F,59 °F,88 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,03:00 AM,63 °F,61 °F,94 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,03:30 AM,63 °F,61 °F,94 °%,NE,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,04:00 AM,63 °F,59 °F,88 °%,NE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,04:30 AM,63 °F,59 °F,88 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,05:00 AM,63 °F,59 °F,88 °%,E,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,05:30 AM,63 °F,59 °F,88 °%,VAR,1 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,06:00 AM,63 °F,59 °F,88 °%,NNW,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,06:30 AM,63 °F,59 °F,88 °%,N,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,07:00 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,07:30 AM,64 °F,59 °F,83 °%,VAR,1 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+02/01/2018,08:00 AM,64 °F,59 °F,83 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+02/01/2018,08:30 AM,64 °F,59 °F,83 °%,N,1 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,09:00 AM,64 °F,61 °F,88 °%,NNW,3 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,09:30 AM,64 °F,59 °F,83 °%,NNW,3 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,10:00 AM,64 °F,59 °F,83 °%,NW,3 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,10:30 AM,64 °F,61 °F,88 °%,NW,5 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+02/01/2018,11:00 AM,63 °F,61 °F,94 °%,WNW,7 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+02/01/2018,11:30 AM,63 °F,61 °F,94 °%,NW,5 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+02/01/2018,12:00 PM,63 °F,61 °F,94 °%,NW,5 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+02/01/2018,12:30 PM,64 °F,61 °F,88 °%,NW,5 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+02/01/2018,01:00 PM,64 °F,61 °F,88 °%,NNW,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,01:30 PM,64 °F,61 °F,88 °%,NW,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,02:00 PM,64 °F,61 °F,88 °%,NW,6 °mph,0 °mph,29.98 °in,0.0 °in,Light Drizzle
+02/01/2018,02:30 PM,64 °F,61 °F,88 °%,NW,5 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+02/01/2018,03:00 PM,64 °F,61 °F,88 °%,NNW,3 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+02/01/2018,03:30 PM,64 °F,61 °F,88 °%,NNW,5 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+02/01/2018,04:00 PM,64 °F,63 °F,94 °%,N,3 °mph,0 °mph,29.95 °in,0.0 °in,Drizzle
+02/01/2018,04:30 PM,64 °F,63 °F,94 °%,N,3 °mph,0 °mph,29.95 °in,0.0 °in,Drizzle
+02/01/2018,05:00 PM,64 °F,63 °F,94 °%,N,2 °mph,0 °mph,29.98 °in,0.0 °in,Rain
+02/01/2018,05:30 PM,64 °F,63 °F,94 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+02/01/2018,06:00 PM,63 °F,63 °F,100 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Light Drizzle
+02/01/2018,06:30 PM,63 °F,63 °F,100 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+02/01/2018,07:00 PM,63 °F,63 °F,100 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+02/01/2018,07:30 PM,63 °F,63 °F,100 °%,VAR,1 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+02/01/2018,08:00 PM,63 °F,63 °F,100 °%,VAR,1 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+02/01/2018,08:30 PM,63 °F,63 °F,100 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Rain
+02/01/2018,09:00 PM,63 °F,63 °F,100 °%,NW,2 °mph,0 °mph,30.04 °in,0.0 °in,Drizzle
+02/01/2018,09:30 PM,63 °F,63 °F,100 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Drizzle
+02/01/2018,10:00 PM,63 °F,63 °F,100 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+02/01/2018,10:30 PM,63 °F,63 °F,100 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+02/01/2018,11:00 PM,63 °F,63 °F,100 °%,NW,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+02/01/2018,11:30 PM,63 °F,63 °F,100 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+03/01/2018,12:00 AM,64 °F,63 °F,94 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+03/01/2018,12:30 AM,63 °F,63 °F,100 °%,NNW,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+03/01/2018,01:00 AM,64 °F,63 °F,94 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Drizzle
+03/01/2018,01:30 AM,64 °F,63 °F,94 °%,NW,3 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+03/01/2018,02:00 AM,64 °F,63 °F,94 °%,NW,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,02:30 AM,64 °F,63 °F,94 °%,CALM,0 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,03:00 AM,63 °F,63 °F,100 °%,NNW,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,03:30 AM,63 °F,63 °F,100 °%,NW,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,04:00 AM,63 °F,63 °F,100 °%,NW,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,04:30 AM,63 °F,63 °F,100 °%,W,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,05:00 AM,63 °F,63 °F,100 °%,NW,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,05:30 AM,63 °F,63 °F,100 °%,CALM,0 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,06:00 AM,63 °F,63 °F,100 °%,CALM,0 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,06:30 AM,64 °F,63 °F,94 °%,ESE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,07:00 AM,64 °F,63 °F,94 °%,ESE,5 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,07:30 AM,64 °F,63 °F,94 °%,ESE,5 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,08:00 AM,64 °F,63 °F,94 °%,E,6 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+03/01/2018,08:30 AM,64 °F,64 °F,100 °%,E,5 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+03/01/2018,09:00 AM,64 °F,63 °F,94 °%,ESE,7 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+03/01/2018,09:30 AM,66 °F,64 °F,94 °%,E,6 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+03/01/2018,10:00 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+03/01/2018,10:30 AM,70 °F,64 °F,83 °%,ESE,7 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+03/01/2018,11:00 AM,70 °F,64 °F,83 °%,E,5 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+03/01/2018,11:30 AM,70 °F,64 °F,83 °%,E,8 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,12:00 PM,72 °F,64 °F,78 °%,E,7 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,12:30 PM,72 °F,64 °F,78 °%,ESE,8 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,01:00 PM,72 °F,64 °F,78 °%,E,6 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+03/01/2018,01:30 PM,72 °F,64 °F,78 °%,ENE,3 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+03/01/2018,02:00 PM,72 °F,63 °F,73 °%,E,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+03/01/2018,02:30 PM,72 °F,64 °F,78 °%,E,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+03/01/2018,03:00 PM,70 °F,64 °F,83 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+03/01/2018,03:30 PM,70 °F,64 °F,83 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+03/01/2018,04:00 PM,70 °F,64 °F,83 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+03/01/2018,04:30 PM,70 °F,64 °F,83 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+03/01/2018,05:00 PM,68 °F,66 °F,94 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+03/01/2018,05:30 PM,68 °F,64 °F,88 °%,ESE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+03/01/2018,06:00 PM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+03/01/2018,06:30 PM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+03/01/2018,07:00 PM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+03/01/2018,07:30 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+03/01/2018,08:00 PM,68 °F,66 °F,94 °%,VAR,1 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+03/01/2018,08:30 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,09:00 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+03/01/2018,09:30 PM,68 °F,66 °F,94 °%,VAR,1 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,10:00 PM,68 °F,66 °F,94 °%,S,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,10:30 PM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+03/01/2018,11:00 PM,68 °F,66 °F,94 °%,E,5 °mph,0 °mph,30.01 °in,0.0 °in,Heavy Drizzle
+03/01/2018,11:30 PM,66 °F,66 °F,100 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+04/01/2018,12:00 AM,66 °F,64 °F,94 °%,ENE,5 °mph,0 °mph,29.98 °in,0.0 °in,Light Drizzle
+04/01/2018,12:30 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+04/01/2018,01:00 AM,66 °F,64 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+04/01/2018,01:30 AM,66 °F,64 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+04/01/2018,02:00 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+04/01/2018,02:30 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Light Rain
+04/01/2018,03:00 AM,66 °F,64 °F,94 °%,NE,5 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+04/01/2018,03:30 AM,66 °F,64 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Drizzle
+04/01/2018,04:00 AM,64 °F,64 °F,100 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+04/01/2018,04:30 AM,64 °F,64 °F,100 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,05:00 AM,64 °F,64 °F,100 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,05:30 AM,64 °F,64 °F,100 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,06:00 AM,64 °F,64 °F,100 °%,NE,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,06:30 AM,66 °F,64 °F,94 °%,ENE,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,07:00 AM,66 °F,64 °F,94 °%,CALM,0 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+04/01/2018,07:30 AM,66 °F,64 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+04/01/2018,08:00 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+04/01/2018,08:30 AM,66 °F,64 °F,94 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,09:00 AM,66 °F,64 °F,94 °%,ENE,2 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,09:30 AM,66 °F,64 °F,94 °%,NNW,3 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,10:00 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,10:30 AM,66 °F,64 °F,94 °%,VAR,1 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,11:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+04/01/2018,11:30 AM,68 °F,66 °F,94 °%,ESE,5 °mph,0 °mph,29.95 °in,0.0 °in,Drizzle
+04/01/2018,12:00 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+04/01/2018,12:30 PM,68 °F,66 °F,94 °%,SE,3 °mph,0 °mph,29.92 °in,0.0 °in,Drizzle
+04/01/2018,01:00 PM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.92 °in,0.0 °in,Drizzle
+04/01/2018,01:30 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+04/01/2018,02:00 PM,68 °F,66 °F,94 °%,VAR,1 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,02:30 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,03:00 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,03:30 PM,68 °F,66 °F,94 °%,ENE,5 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+04/01/2018,04:00 PM,68 °F,66 °F,94 °%,E,5 °mph,0 °mph,29.86 °in,0.0 °in,Drizzle
+04/01/2018,04:30 PM,70 °F,66 °F,88 °%,ESE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+04/01/2018,05:00 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+04/01/2018,05:30 PM,68 °F,66 °F,94 °%,ENE,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,06:00 PM,68 °F,66 °F,94 °%,N,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,06:30 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,07:00 PM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,07:30 PM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+04/01/2018,08:00 PM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,08:30 PM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,09:00 PM,68 °F,66 °F,94 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+04/01/2018,09:30 PM,68 °F,68 °F,100 °%,S,3 °mph,0 °mph,29.95 °in,0.0 °in,Light Rain
+04/01/2018,10:00 PM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.92 °in,0.0 °in,Drizzle
+04/01/2018,10:30 PM,68 °F,66 °F,94 °%,SSE,5 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+04/01/2018,11:00 PM,68 °F,66 °F,94 °%,SSE,3 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+04/01/2018,11:30 PM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+05/01/2018,12:00 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+05/01/2018,12:30 AM,68 °F,66 °F,94 °%,SSE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,01:00 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,01:30 AM,68 °F,66 °F,94 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,02:00 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,02:30 AM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,03:00 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,03:30 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,04:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,04:30 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,05:00 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,05:30 AM,68 °F,66 °F,94 °%,VAR,1 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,06:00 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,06:30 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,07:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,07:30 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,08:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,08:30 AM,68 °F,66 °F,94 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,09:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+05/01/2018,09:30 AM,68 °F,66 °F,94 °%,SE,3 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+05/01/2018,10:00 AM,68 °F,66 °F,94 °%,SSE,3 °mph,0 °mph,29.95 °in,0.0 °in,Drizzle
+05/01/2018,10:30 AM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+05/01/2018,11:00 AM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+05/01/2018,11:30 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,12:00 PM,70 °F,68 °F,94 °%,VAR,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+05/01/2018,12:30 PM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,01:00 PM,70 °F,68 °F,94 °%,VAR,1 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,01:30 PM,72 °F,68 °F,88 °%,VAR,2 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,02:00 PM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,02:30 PM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+05/01/2018,03:00 PM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+05/01/2018,03:30 PM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+05/01/2018,04:00 PM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+05/01/2018,04:30 PM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,05:00 PM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,05:30 PM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,06:00 PM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,06:30 PM,70 °F,68 °F,94 °%,E,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,07:00 PM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+05/01/2018,07:30 PM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+05/01/2018,08:00 PM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,08:30 PM,70 °F,66 °F,88 °%,SSE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,09:00 PM,70 °F,68 °F,94 °%,SSE,8 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,09:30 PM,70 °F,68 °F,94 °%,SSE,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+05/01/2018,10:00 PM,70 °F,68 °F,94 °%,SSE,8 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,10:30 PM,70 °F,68 °F,94 °%,SSE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,11:00 PM,68 °F,66 °F,94 °%,SSE,9 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+05/01/2018,11:30 PM,68 °F,66 °F,94 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+06/01/2018,12:00 AM,68 °F,66 °F,94 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+06/01/2018,12:30 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,01:00 AM,68 °F,66 °F,94 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,01:30 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,02:00 AM,,,,,,,,,
+06/01/2018,02:30 AM,68 °F,66 °F,94 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,03:00 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,03:30 AM,68 °F,66 °F,94 °%,SE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+06/01/2018,04:00 AM,68 °F,66 °F,94 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,04:30 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+06/01/2018,05:00 AM,66 °F,64 °F,94 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,05:30 AM,66 °F,64 °F,94 °%,SE,9 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,06:00 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,06:30 AM,66 °F,64 °F,94 °%,SE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,07:00 AM,66 °F,64 °F,94 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,07:30 AM,66 °F,64 °F,94 °%,SE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,08:00 AM,68 °F,66 °F,94 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Drizzle
+06/01/2018,08:30 AM,68 °F,66 °F,94 °%,SSE,6 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+06/01/2018,09:00 AM,68 °F,66 °F,94 °%,SSE,6 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+06/01/2018,09:30 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+06/01/2018,10:00 AM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+06/01/2018,10:30 AM,70 °F,66 °F,88 °%,SE,8 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+06/01/2018,11:00 AM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+06/01/2018,11:30 AM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+06/01/2018,12:00 PM,70 °F,66 °F,88 °%,SSE,5 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+06/01/2018,12:30 PM,70 °F,66 °F,88 °%,SE,5 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+06/01/2018,01:00 PM,70 °F,66 °F,88 °%,SSE,6 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+06/01/2018,01:30 PM,70 °F,66 °F,88 °%,S,5 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,02:00 PM,70 °F,66 °F,88 °%,SSE,6 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,02:30 PM,72 °F,66 °F,83 °%,SSE,6 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,03:00 PM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+06/01/2018,03:30 PM,72 °F,66 °F,83 °%,SE,6 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+06/01/2018,04:00 PM,72 °F,66 °F,83 °%,ESE,7 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,04:30 PM,72 °F,66 °F,83 °%,ESE,6 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,05:00 PM,70 °F,66 °F,88 °%,ESE,7 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,05:30 PM,70 °F,68 °F,94 °%,E,6 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+06/01/2018,06:00 PM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+06/01/2018,06:30 PM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+06/01/2018,07:00 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+06/01/2018,07:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,08:00 PM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Drizzle
+06/01/2018,08:30 PM,68 °F,66 °F,94 °%,SSE,7 °mph,21 °mph,29.86 °in,0.0 °in,Light Rain
+06/01/2018,09:00 PM,68 °F,66 °F,94 °%,SSE,6 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+06/01/2018,09:30 PM,68 °F,66 °F,94 °%,SSE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,10:00 PM,68 °F,66 °F,94 °%,SSE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+06/01/2018,10:30 PM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,11:00 PM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+06/01/2018,11:30 PM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,12:00 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,12:30 AM,68 °F,66 °F,94 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,01:00 AM,68 °F,66 °F,94 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,01:30 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,02:00 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,02:30 AM,66 °F,64 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,03:00 AM,66 °F,64 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,03:30 AM,66 °F,64 °F,94 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+07/01/2018,04:00 AM,66 °F,64 °F,94 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+07/01/2018,04:30 AM,66 °F,64 °F,94 °%,SE,7 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+07/01/2018,05:00 AM,66 °F,64 °F,94 °%,ESE,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,05:30 AM,66 °F,64 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,06:00 AM,66 °F,64 °F,94 °%,SE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,06:30 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,07:00 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+07/01/2018,07:30 AM,66 °F,64 °F,94 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,08:00 AM,66 °F,64 °F,94 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,08:30 AM,66 °F,64 °F,94 °%,SE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,09:00 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,09:30 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,10:00 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,10:30 AM,70 °F,66 °F,88 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,11:00 AM,70 °F,66 °F,88 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+07/01/2018,11:30 AM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,12:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+07/01/2018,12:30 PM,70 °F,66 °F,88 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+07/01/2018,01:00 PM,70 °F,66 °F,88 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+07/01/2018,01:30 PM,70 °F,66 °F,88 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+07/01/2018,02:00 PM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+07/01/2018,02:30 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+07/01/2018,03:00 PM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+07/01/2018,03:30 PM,72 °F,68 °F,88 °%,SE,8 °mph,0 °mph,29.74 °in,0.0 °in,Fog
+07/01/2018,04:00 PM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.74 °in,0.0 °in,Fog
+07/01/2018,04:30 PM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.74 °in,0.0 °in,Light Drizzle
+07/01/2018,05:00 PM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.74 °in,0.0 °in,Light Drizzle
+07/01/2018,05:30 PM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+07/01/2018,06:00 PM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+07/01/2018,06:30 PM,70 °F,68 °F,94 °%,VAR,2 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+07/01/2018,07:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+07/01/2018,07:30 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+07/01/2018,08:00 PM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+07/01/2018,08:30 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,09:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,09:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,10:00 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,10:30 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,11:00 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+07/01/2018,11:30 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,12:00 AM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+08/01/2018,12:30 AM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,01:00 AM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,01:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,02:00 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,02:30 AM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+08/01/2018,03:00 AM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+08/01/2018,03:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.77 °in,0.0 °in,Light Drizzle
+08/01/2018,04:00 AM,70 °F,68 °F,94 °%,ESE,6 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+08/01/2018,04:30 AM,70 °F,68 °F,94 °%,E,6 °mph,0 °mph,29.77 °in,0.0 °in,Drizzle
+08/01/2018,05:00 AM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.80 °in,0.0 °in,Drizzle
+08/01/2018,05:30 AM,70 °F,68 °F,94 °%,E,3 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+08/01/2018,06:00 AM,70 °F,68 °F,94 °%,E,5 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+08/01/2018,06:30 AM,68 °F,68 °F,100 °%,E,5 °mph,0 °mph,29.80 °in,0.0 °in,Drizzle
+08/01/2018,07:00 AM,70 °F,68 °F,94 °%,E,3 °mph,0 °mph,29.83 °in,0.0 °in,Light Drizzle
+08/01/2018,07:30 AM,70 °F,68 °F,94 °%,ENE,2 °mph,0 °mph,29.83 °in,0.0 °in,Drizzle
+08/01/2018,08:00 AM,70 °F,68 °F,94 °%,ENE,3 °mph,0 °mph,29.86 °in,0.0 °in,Drizzle
+08/01/2018,08:30 AM,70 °F,68 °F,94 °%,NE,3 °mph,0 °mph,29.86 °in,0.0 °in,Drizzle
+08/01/2018,09:00 AM,70 °F,68 °F,94 °%,NE,3 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+08/01/2018,09:30 AM,70 °F,70 °F,100 °%,NNE,3 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+08/01/2018,10:00 AM,72 °F,70 °F,94 °%,NE,6 °mph,0 °mph,29.92 °in,0.0 °in,Drizzle
+08/01/2018,10:30 AM,72 °F,70 °F,94 °%,NE,8 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+08/01/2018,11:00 AM,70 °F,68 °F,94 °%,E,13 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+08/01/2018,11:30 AM,66 °F,66 °F,100 °%,ENE,16 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+08/01/2018,12:00 PM,64 °F,63 °F,94 °%,NE,16 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+08/01/2018,12:30 PM,63 °F,61 °F,94 °%,NE,16 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+08/01/2018,01:00 PM,63 °F,59 °F,88 °%,NE,17 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+08/01/2018,01:30 PM,61 °F,57 °F,88 °%,NE,21 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,02:00 PM,61 °F,54 °F,77 °%,ENE,21 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,02:30 PM,61 °F,52 °F,72 °%,NE,21 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,03:00 PM,61 °F,52 °F,72 °%,NE,23 °mph,35 °mph,29.92 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,03:30 PM,59 °F,50 °F,72 °%,NE,22 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,04:00 PM,59 °F,48 °F,67 °%,NE,17 °mph,29 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+08/01/2018,04:30 PM,57 °F,48 °F,72 °%,NE,22 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,05:00 PM,57 °F,45 °F,63 °%,NE,21 °mph,33 °mph,29.98 °in,0.0 °in,Mostly Cloudy / Windy
+08/01/2018,05:30 PM,57 °F,45 °F,63 °%,NE,17 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+08/01/2018,06:00 PM,57 °F,45 °F,63 °%,NNE,15 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+08/01/2018,06:30 PM,55 °F,45 °F,67 °%,NNE,16 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+08/01/2018,07:00 PM,55 °F,43 °F,63 °%,NNE,15 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+08/01/2018,07:30 PM,55 °F,43 °F,63 °%,NNE,15 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+08/01/2018,08:00 PM,55 °F,43 °F,63 °%,NNE,15 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+08/01/2018,08:30 PM,54 °F,41 °F,62 °%,NNE,14 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+08/01/2018,09:00 PM,54 °F,41 °F,62 °%,NNE,13 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+08/01/2018,09:30 PM,54 °F,41 °F,62 °%,N,14 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+08/01/2018,10:00 PM,54 °F,41 °F,62 °%,N,15 °mph,0 °mph,30.19 °in,0.0 °in,Light Rain
+08/01/2018,10:30 PM,54 °F,39 °F,58 °%,N,16 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+08/01/2018,11:00 PM,54 °F,39 °F,58 °%,N,16 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+08/01/2018,11:30 PM,54 °F,41 °F,62 °%,NNE,14 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+09/01/2018,12:00 AM,54 °F,39 °F,58 °%,NNE,16 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+09/01/2018,12:30 AM,54 °F,39 °F,58 °%,N,16 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+09/01/2018,01:00 AM,54 °F,41 °F,62 °%,NNE,15 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+09/01/2018,01:30 AM,52 °F,41 °F,67 °%,N,15 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+09/01/2018,02:00 AM,52 °F,41 °F,67 °%,N,14 °mph,0 °mph,30.25 °in,0.0 °in,Light Rain
+09/01/2018,02:30 AM,52 °F,41 °F,67 °%,N,14 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+09/01/2018,03:00 AM,52 °F,41 °F,67 °%,N,14 °mph,0 °mph,30.25 °in,0.0 °in,Light Rain
+09/01/2018,03:30 AM,52 °F,41 °F,67 °%,N,14 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+09/01/2018,04:00 AM,52 °F,41 °F,67 °%,N,10 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+09/01/2018,04:30 AM,52 °F,41 °F,67 °%,N,10 °mph,0 °mph,30.22 °in,0.0 °in,Light Rain
+09/01/2018,05:00 AM,52 °F,41 °F,67 °%,N,12 °mph,0 °mph,30.25 °in,0.0 °in,Light Rain
+09/01/2018,05:30 AM,50 °F,43 °F,76 °%,N,8 °mph,0 °mph,30.25 °in,0.0 °in,Light Rain
+09/01/2018,06:00 AM,50 °F,43 °F,76 °%,N,9 °mph,0 °mph,30.25 °in,0.0 °in,Light Rain
+09/01/2018,06:30 AM,48 °F,45 °F,87 °%,N,8 °mph,0 °mph,30.28 °in,0.0 °in,Light Rain
+09/01/2018,07:00 AM,48 °F,46 °F,93 °%,N,7 °mph,0 °mph,30.28 °in,0.0 °in,Rain
+09/01/2018,07:30 AM,48 °F,45 °F,87 °%,N,7 °mph,0 °mph,30.31 °in,0.0 °in,Light Rain
+09/01/2018,08:00 AM,48 °F,45 °F,87 °%,NE,5 °mph,0 °mph,30.31 °in,0.0 °in,Light Rain
+09/01/2018,08:30 AM,50 °F,45 °F,82 °%,N,3 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+09/01/2018,09:00 AM,50 °F,43 °F,76 °%,ENE,3 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+09/01/2018,09:30 AM,50 °F,45 °F,82 °%,NNE,3 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+09/01/2018,10:00 AM,52 °F,43 °F,71 °%,ENE,3 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+09/01/2018,10:30 AM,52 °F,43 °F,71 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+09/01/2018,11:00 AM,52 °F,43 °F,71 °%,ESE,3 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+09/01/2018,11:30 AM,54 °F,43 °F,67 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+09/01/2018,12:00 PM,54 °F,41 °F,62 °%,ENE,5 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+09/01/2018,12:30 PM,55 °F,43 °F,63 °%,NNE,7 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+09/01/2018,01:00 PM,57 °F,43 °F,59 °%,N,8 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+09/01/2018,01:30 PM,55 °F,45 °F,67 °%,W,6 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+09/01/2018,02:00 PM,57 °F,45 °F,63 °%,NNW,5 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+09/01/2018,02:30 PM,57 °F,41 °F,55 °%,VAR,5 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+09/01/2018,03:00 PM,57 °F,41 °F,55 °%,NNE,7 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+09/01/2018,03:30 PM,57 °F,39 °F,51 °%,NNE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+09/01/2018,04:00 PM,57 °F,39 °F,51 °%,NE,6 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+09/01/2018,04:30 PM,57 °F,41 °F,55 °%,NE,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+09/01/2018,05:00 PM,57 °F,41 °F,55 °%,NE,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+09/01/2018,05:30 PM,57 °F,41 °F,55 °%,NE,5 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+09/01/2018,06:00 PM,55 °F,41 °F,58 °%,NNE,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+09/01/2018,06:30 PM,55 °F,43 °F,63 °%,NNE,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+09/01/2018,07:00 PM,55 °F,43 °F,63 °%,VAR,2 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+09/01/2018,07:30 PM,55 °F,43 °F,63 °%,E,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+09/01/2018,08:00 PM,55 °F,43 °F,63 °%,ENE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+09/01/2018,08:30 PM,55 °F,43 °F,63 °%,ENE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+09/01/2018,09:00 PM,55 °F,43 °F,63 °%,ENE,3 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+09/01/2018,09:30 PM,55 °F,43 °F,63 °%,ENE,5 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+09/01/2018,10:00 PM,55 °F,43 °F,63 °%,NE,3 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+09/01/2018,10:30 PM,55 °F,45 °F,67 °%,NE,5 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+09/01/2018,11:00 PM,55 °F,45 °F,67 °%,NE,5 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+09/01/2018,11:30 PM,55 °F,43 °F,63 °%,NNE,3 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+10/01/2018,12:00 AM,54 °F,45 °F,72 °%,N,3 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+10/01/2018,12:30 AM,54 °F,43 °F,67 °%,N,6 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+10/01/2018,01:00 AM,54 °F,43 °F,67 °%,N,5 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+10/01/2018,01:30 AM,54 °F,43 °F,67 °%,NNE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,02:00 AM,54 °F,41 °F,62 °%,N,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,02:30 AM,54 °F,41 °F,62 °%,N,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,03:00 AM,54 °F,41 °F,62 °%,N,5 °mph,0 °mph,30.28 °in,0.0 °in,Light Rain
+10/01/2018,03:30 AM,55 °F,41 °F,58 °%,NNE,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,04:00 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,04:30 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,05:00 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,05:30 AM,55 °F,41 °F,58 °%,N,6 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,06:00 AM,55 °F,41 °F,58 °%,NNE,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,06:30 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,07:00 AM,55 °F,39 °F,54 °%,N,6 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+10/01/2018,07:30 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+10/01/2018,08:00 AM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,08:30 AM,57 °F,41 °F,55 °%,NNE,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,09:00 AM,57 °F,41 °F,55 °%,N,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,09:30 AM,57 °F,41 °F,55 °%,N,7 °mph,0 °mph,30.39 °in,0.0 °in,Fair
+10/01/2018,10:00 AM,59 °F,41 °F,51 °%,N,7 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,10:30 AM,59 °F,41 °F,51 °%,N,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,11:00 AM,59 °F,41 °F,51 °%,N,8 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+10/01/2018,11:30 AM,59 °F,41 °F,51 °%,NNE,8 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+10/01/2018,12:00 PM,59 °F,41 °F,51 °%,NNE,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,12:30 PM,59 °F,39 °F,48 °%,NNE,9 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,01:00 PM,61 °F,41 °F,48 °%,NNE,7 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,01:30 PM,61 °F,41 °F,48 °%,N,7 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,02:00 PM,61 °F,41 °F,48 °%,N,8 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,02:30 PM,61 °F,41 °F,48 °%,NNE,7 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,03:00 PM,61 °F,41 °F,48 °%,NNE,8 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,03:30 PM,61 °F,41 °F,48 °%,NNE,6 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,04:00 PM,59 °F,41 °F,51 °%,NE,7 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,04:30 PM,59 °F,41 °F,51 °%,NE,6 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+10/01/2018,05:00 PM,59 °F,41 °F,51 °%,NE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+10/01/2018,05:30 PM,59 °F,41 °F,51 °%,NE,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,06:00 PM,59 °F,41 °F,51 °%,NE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,06:30 PM,57 °F,41 °F,55 °%,NE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,07:00 PM,57 °F,43 °F,59 °%,ENE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+10/01/2018,07:30 PM,57 °F,41 °F,55 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,08:00 PM,57 °F,43 °F,59 °%,ENE,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+10/01/2018,08:30 PM,57 °F,43 °F,59 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,09:00 PM,57 °F,41 °F,55 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,09:30 PM,57 °F,43 °F,59 °%,VAR,1 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,10:00 PM,57 °F,45 °F,63 °%,ENE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,10:30 PM,57 °F,41 °F,55 °%,NE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,11:00 PM,57 °F,43 °F,59 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+10/01/2018,11:30 PM,55 °F,45 °F,67 °%,VAR,1 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,12:00 AM,55 °F,45 °F,67 °%,E,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,12:30 AM,55 °F,43 °F,63 °%,ENE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,01:00 AM,55 °F,43 °F,63 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,01:30 AM,55 °F,45 °F,67 °%,E,1 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,02:00 AM,55 °F,45 °F,67 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,02:30 AM,55 °F,43 °F,63 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,03:00 AM,55 °F,43 °F,63 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,03:30 AM,55 °F,45 °F,67 °%,E,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,04:00 AM,55 °F,45 °F,67 °%,ENE,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,04:30 AM,55 °F,46 °F,72 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,05:00 AM,54 °F,46 °F,77 °%,NNW,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,05:30 AM,54 °F,46 °F,77 °%,VAR,1 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,06:00 AM,54 °F,46 °F,77 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,06:30 AM,54 °F,48 °F,82 °%,VAR,1 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,07:00 AM,55 °F,46 °F,72 °%,NNW,1 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,07:30 AM,55 °F,46 °F,72 °%,NW,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,08:00 AM,55 °F,46 °F,72 °%,VAR,2 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,08:30 AM,57 °F,45 °F,63 °%,WNW,5 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,09:00 AM,57 °F,46 °F,67 °%,NW,3 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,09:30 AM,57 °F,46 °F,67 °%,NW,5 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,10:00 AM,59 °F,45 °F,59 °%,NNW,5 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,10:30 AM,61 °F,41 °F,48 °%,N,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+11/01/2018,11:00 AM,61 °F,39 °F,45 °%,N,9 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,11:30 AM,61 °F,37 °F,42 °%,NNE,9 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,12:00 PM,61 °F,39 °F,45 °%,N,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,12:30 PM,61 °F,37 °F,42 °%,N,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,01:00 PM,63 °F,39 °F,42 °%,N,8 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,01:30 PM,64 °F,39 °F,40 °%,N,8 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,02:00 PM,63 °F,39 °F,42 °%,N,10 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,02:30 PM,63 °F,39 °F,42 °%,NNE,9 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,03:00 PM,63 °F,41 °F,45 °%,N,9 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+11/01/2018,03:30 PM,63 °F,39 °F,42 °%,N,8 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+11/01/2018,04:00 PM,63 °F,41 °F,45 °%,N,7 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+11/01/2018,04:30 PM,63 °F,39 °F,42 °%,NNW,8 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+11/01/2018,05:00 PM,61 °F,39 °F,45 °%,NNW,6 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,05:30 PM,61 °F,41 °F,48 °%,N,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,06:00 PM,61 °F,41 °F,48 °%,N,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,06:30 PM,59 °F,43 °F,55 °%,NNW,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,07:00 PM,59 °F,43 °F,55 °%,NNW,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+11/01/2018,07:30 PM,59 °F,43 °F,55 °%,N,3 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,08:00 PM,59 °F,43 °F,55 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+11/01/2018,08:30 PM,59 °F,43 °F,55 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,09:00 PM,59 °F,45 °F,59 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+11/01/2018,09:30 PM,59 °F,43 °F,55 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,10:00 PM,59 °F,45 °F,59 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,10:30 PM,59 °F,43 °F,55 °%,NNE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,11:00 PM,59 °F,43 °F,55 °%,NNE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+11/01/2018,11:30 PM,59 °F,43 °F,55 °%,VAR,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,12:00 AM,57 °F,43 °F,59 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,12:30 AM,59 °F,43 °F,55 °%,VAR,1 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,01:00 AM,59 °F,41 °F,51 °%,N,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,01:30 AM,57 °F,43 °F,59 °%,N,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,02:00 AM,57 °F,43 °F,59 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,02:30 AM,57 °F,41 °F,55 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,03:00 AM,57 °F,43 °F,59 °%,NE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,03:30 AM,57 °F,43 °F,59 °%,NE,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,04:00 AM,57 °F,45 °F,63 °%,NNE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,04:30 AM,57 °F,41 °F,55 °%,NNE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,05:00 AM,57 °F,41 °F,55 °%,NNE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,05:30 AM,57 °F,43 °F,59 °%,NNE,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,06:00 AM,57 °F,43 °F,59 °%,NNE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,06:30 AM,57 °F,43 °F,59 °%,N,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,07:00 AM,57 °F,39 °F,51 °%,NNE,6 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,07:30 AM,57 °F,37 °F,48 °%,NNE,6 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,08:00 AM,57 °F,41 °F,55 °%,N,5 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,08:30 AM,59 °F,39 °F,48 °%,NNE,7 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,09:00 AM,59 °F,39 °F,48 °%,NNE,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+12/01/2018,09:30 AM,61 °F,39 °F,45 °%,NNE,6 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+12/01/2018,10:00 AM,61 °F,39 °F,45 °%,NNE,9 °mph,0 °mph,30.36 °in,0.0 °in,Fair
+12/01/2018,10:30 AM,63 °F,39 °F,42 °%,NNE,9 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,11:00 AM,63 °F,41 °F,45 °%,NNE,9 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+12/01/2018,11:30 AM,63 °F,39 °F,42 °%,NE,9 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,12:00 PM,64 °F,39 °F,40 °%,NNE,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+12/01/2018,12:30 PM,64 °F,39 °F,40 °%,N,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+12/01/2018,01:00 PM,64 °F,37 °F,37 °%,VAR,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+12/01/2018,01:30 PM,64 °F,39 °F,40 °%,N,6 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+12/01/2018,02:00 PM,64 °F,39 °F,40 °%,NNE,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+12/01/2018,02:30 PM,66 °F,39 °F,37 °%,VAR,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+12/01/2018,03:00 PM,64 °F,39 °F,40 °%,NNE,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,03:30 PM,64 °F,37 °F,37 °%,VAR,2 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,04:00 PM,64 °F,39 °F,40 °%,N,5 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,04:30 PM,64 °F,39 °F,40 °%,VAR,2 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,05:00 PM,64 °F,37 °F,37 °%,VAR,2 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,05:30 PM,63 °F,41 °F,45 °%,NNE,5 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,06:00 PM,61 °F,41 °F,48 °%,VAR,2 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,06:30 PM,59 °F,43 °F,55 °%,NNW,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+12/01/2018,07:00 PM,57 °F,43 °F,59 °%,NNW,2 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+12/01/2018,07:30 PM,57 °F,43 °F,59 °%,NNW,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+12/01/2018,08:00 PM,57 °F,43 °F,59 °%,NW,1 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+12/01/2018,08:30 PM,55 °F,45 °F,67 °%,NW,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+12/01/2018,09:00 PM,55 °F,45 °F,67 °%,VAR,1 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+12/01/2018,09:30 PM,57 °F,43 °F,59 °%,NW,2 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+12/01/2018,10:00 PM,57 °F,45 °F,63 °%,NW,3 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+12/01/2018,10:30 PM,55 °F,45 °F,67 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+12/01/2018,11:00 PM,55 °F,45 °F,67 °%,VAR,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+12/01/2018,11:30 PM,55 °F,45 °F,67 °%,E,3 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,12:00 AM,57 °F,45 °F,63 °%,SE,8 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,12:30 AM,57 °F,43 °F,59 °%,SE,7 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,01:00 AM,57 °F,45 °F,63 °%,E,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,01:30 AM,55 °F,46 °F,72 °%,NNE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,02:00 AM,55 °F,46 °F,72 °%,N,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,02:30 AM,55 °F,45 °F,67 °%,N,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,03:00 AM,57 °F,43 °F,59 °%,N,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,03:30 AM,55 °F,43 °F,63 °%,NNE,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,04:00 AM,57 °F,43 °F,59 °%,NNE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,04:30 AM,57 °F,45 °F,63 °%,NE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,05:00 AM,57 °F,43 °F,59 °%,ENE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,05:30 AM,55 °F,43 °F,63 °%,ENE,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,06:00 AM,55 °F,43 °F,63 °%,E,6 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,06:30 AM,55 °F,45 °F,67 °%,ENE,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,07:00 AM,55 °F,45 °F,67 °%,NE,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,07:30 AM,55 °F,45 °F,67 °%,NE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,08:00 AM,57 °F,45 °F,63 °%,NE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,08:30 AM,59 °F,45 °F,59 °%,ENE,7 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,09:00 AM,61 °F,43 °F,52 °%,E,7 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,09:30 AM,61 °F,43 °F,52 °%,E,7 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,10:00 AM,61 °F,43 °F,52 °%,ENE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,10:30 AM,61 °F,43 °F,52 °%,NNE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+13/01/2018,11:00 AM,63 °F,43 °F,48 °%,NE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,11:30 AM,63 °F,43 °F,48 °%,E,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+13/01/2018,12:00 PM,63 °F,41 °F,45 °%,ENE,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+13/01/2018,12:30 PM,63 °F,41 °F,45 °%,ENE,6 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+13/01/2018,01:00 PM,64 °F,43 °F,45 °%,E,5 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+13/01/2018,01:30 PM,64 °F,43 °F,45 °%,E,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair
+13/01/2018,02:00 PM,64 °F,43 °F,45 °%,NE,6 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+13/01/2018,02:30 PM,64 °F,43 °F,45 °%,ENE,3 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+13/01/2018,03:00 PM,64 °F,45 °F,49 °%,E,5 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+13/01/2018,03:30 PM,64 °F,43 °F,45 °%,ENE,3 °mph,0 °mph,30.10 °in,0.0 °in,Fair
+13/01/2018,04:00 PM,63 °F,43 °F,48 °%,NE,3 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+13/01/2018,04:30 PM,63 °F,43 °F,48 °%,NNE,5 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+13/01/2018,05:00 PM,63 °F,45 °F,52 °%,N,3 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+13/01/2018,05:30 PM,63 °F,45 °F,52 °%,N,3 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+13/01/2018,06:00 PM,61 °F,45 °F,55 °%,N,3 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+13/01/2018,06:30 PM,61 °F,45 °F,55 °%,NNW,3 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+13/01/2018,07:00 PM,61 °F,46 °F,59 °%,NNE,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+13/01/2018,07:30 PM,61 °F,46 °F,59 °%,VAR,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+13/01/2018,08:00 PM,61 °F,46 °F,59 °%,VAR,1 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+13/01/2018,08:30 PM,61 °F,45 °F,55 °%,VAR,1 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+13/01/2018,09:00 PM,61 °F,45 °F,55 °%,SSE,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+13/01/2018,09:30 PM,61 °F,46 °F,59 °%,S,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+13/01/2018,10:00 PM,61 °F,46 °F,59 °%,VAR,1 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+13/01/2018,10:30 PM,61 °F,46 °F,59 °%,VAR,1 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+13/01/2018,11:00 PM,61 °F,46 °F,59 °%,SSW,2 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+13/01/2018,11:30 PM,59 °F,48 °F,67 °%,N,2 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,12:00 AM,59 °F,48 °F,67 °%,N,5 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,12:30 AM,59 °F,48 °F,67 °%,NNW,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,01:00 AM,59 °F,50 °F,72 °%,NNW,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,01:30 AM,57 °F,46 °F,67 °%,NNW,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,02:00 AM,57 °F,48 °F,72 °%,N,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,02:30 AM,57 °F,48 °F,72 °%,NNW,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,03:00 AM,59 °F,48 °F,67 °%,VAR,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,03:30 AM,57 °F,48 °F,72 °%,VAR,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,04:00 AM,59 °F,48 °F,67 °%,NNW,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,04:30 AM,57 °F,48 °F,72 °%,NNW,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,05:00 AM,57 °F,50 °F,77 °%,NW,1 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,05:30 AM,57 °F,48 °F,72 °%,NW,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,06:00 AM,57 °F,48 °F,72 °%,NW,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,06:30 AM,57 °F,48 °F,72 °%,NW,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,07:00 AM,57 °F,48 °F,72 °%,WNW,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,07:30 AM,57 °F,50 °F,77 °%,WNW,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,08:00 AM,59 °F,50 °F,72 °%,NW,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,08:30 AM,59 °F,50 °F,72 °%,NW,5 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,09:00 AM,59 °F,50 °F,72 °%,NW,3 °mph,0 °mph,30.22 °in,0.0 °in,Haze
+14/01/2018,09:30 AM,59 °F,50 °F,72 °%,NW,3 °mph,0 °mph,30.22 °in,0.0 °in,Haze
+14/01/2018,10:00 AM,61 °F,48 °F,63 °%,VAR,2 °mph,0 °mph,30.22 °in,0.0 °in,Haze
+14/01/2018,10:30 AM,61 °F,48 °F,63 °%,NW,3 °mph,0 °mph,30.19 °in,0.0 °in,Haze
+14/01/2018,11:00 AM,61 °F,48 °F,63 °%,NW,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+14/01/2018,11:30 AM,63 °F,48 °F,59 °%,VAR,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,12:00 PM,63 °F,46 °F,55 °%,VAR,2 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+14/01/2018,12:30 PM,63 °F,48 °F,59 °%,VAR,2 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+14/01/2018,01:00 PM,63 °F,48 °F,59 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,01:30 PM,64 °F,48 °F,56 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,02:00 PM,64 °F,48 °F,56 °%,ENE,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,02:30 PM,64 °F,48 °F,56 °%,E,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,03:00 PM,63 °F,50 °F,63 °%,E,6 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,03:30 PM,63 °F,50 °F,63 °%,E,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,04:00 PM,63 °F,50 °F,63 °%,E,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,04:30 PM,63 °F,50 °F,63 °%,E,6 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,05:00 PM,63 °F,50 °F,63 °%,E,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,05:30 PM,61 °F,52 °F,72 °%,ENE,6 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,06:00 PM,61 °F,50 °F,68 °%,E,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,06:30 PM,61 °F,50 °F,68 °%,ESE,8 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+14/01/2018,07:00 PM,61 °F,52 °F,72 °%,E,6 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,07:30 PM,61 °F,52 °F,72 °%,ENE,7 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,08:00 PM,61 °F,52 °F,72 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+14/01/2018,08:30 PM,61 °F,52 °F,72 °%,S,2 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,09:00 PM,61 °F,52 °F,72 °%,SSE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,09:30 PM,59 °F,52 °F,77 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,10:00 PM,59 °F,52 °F,77 °%,NNE,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,10:30 PM,59 °F,52 °F,77 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,11:00 PM,61 °F,52 °F,72 °%,ESE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+14/01/2018,11:30 PM,61 °F,52 °F,72 °%,E,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+15/01/2018,12:00 AM,61 °F,52 °F,72 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+15/01/2018,12:30 AM,61 °F,52 °F,72 °%,VAR,2 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+15/01/2018,01:00 AM,61 °F,52 °F,72 °%,NE,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+15/01/2018,01:30 AM,61 °F,52 °F,72 °%,NE,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+15/01/2018,02:00 AM,61 °F,52 °F,72 °%,NE,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+15/01/2018,02:30 AM,61 °F,52 °F,72 °%,NE,3 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+15/01/2018,03:00 AM,61 °F,52 °F,72 °%,NE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,03:30 AM,59 °F,52 °F,77 °%,NE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,04:00 AM,59 °F,52 °F,77 °%,NNE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,04:30 AM,59 °F,52 °F,77 °%,NE,2 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,05:00 AM,59 °F,52 °F,77 °%,NE,2 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,05:30 AM,59 °F,52 °F,77 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,06:00 AM,59 °F,52 °F,77 °%,NE,1 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,06:30 AM,59 °F,52 °F,77 °%,NE,2 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+15/01/2018,07:00 AM,59 °F,52 °F,77 °%,VAR,2 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+15/01/2018,07:30 AM,59 °F,52 °F,77 °%,VAR,2 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+15/01/2018,08:00 AM,59 °F,52 °F,77 °%,ENE,2 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+15/01/2018,08:30 AM,59 °F,52 °F,77 °%,VAR,2 °mph,0 °mph,30.10 °in,0.0 °in,Fog
+15/01/2018,09:00 AM,61 °F,54 °F,77 °%,NE,3 °mph,0 °mph,30.10 °in,0.0 °in,Fog
+15/01/2018,09:30 AM,61 °F,54 °F,77 °%,NNE,3 °mph,0 °mph,30.10 °in,0.0 °in,Fog
+15/01/2018,10:00 AM,63 °F,54 °F,72 °%,VAR,3 °mph,0 °mph,30.10 °in,0.0 °in,Fog
+15/01/2018,10:30 AM,63 °F,52 °F,68 °%,ENE,3 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+15/01/2018,11:00 AM,63 °F,54 °F,72 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Fog
+15/01/2018,11:30 AM,63 °F,54 °F,72 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+15/01/2018,12:00 PM,64 °F,54 °F,68 °%,ESE,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+15/01/2018,12:30 PM,63 °F,54 °F,72 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+15/01/2018,01:00 PM,64 °F,54 °F,68 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+15/01/2018,01:30 PM,64 °F,54 °F,68 °%,SSE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+15/01/2018,02:00 PM,66 °F,55 °F,68 °%,SSW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+15/01/2018,02:30 PM,66 °F,55 °F,68 °%,SW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+15/01/2018,03:00 PM,66 °F,55 °F,68 °%,S,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+15/01/2018,03:30 PM,66 °F,55 °F,68 °%,VAR,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+15/01/2018,04:00 PM,66 °F,55 °F,68 °%,S,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+15/01/2018,04:30 PM,66 °F,55 °F,68 °%,SSE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+15/01/2018,05:00 PM,66 °F,55 °F,68 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+15/01/2018,05:30 PM,66 °F,57 °F,73 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+15/01/2018,06:00 PM,66 °F,57 °F,73 °%,ESE,8 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+15/01/2018,06:30 PM,66 °F,57 °F,73 °%,SE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,07:00 PM,64 °F,57 °F,77 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,07:30 PM,64 °F,57 °F,77 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,08:00 PM,64 °F,59 °F,83 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,08:30 PM,64 °F,59 °F,83 °%,SE,7 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+15/01/2018,09:00 PM,64 °F,59 °F,83 °%,ESE,7 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+15/01/2018,09:30 PM,64 °F,59 °F,83 °%,ESE,8 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+15/01/2018,10:00 PM,64 °F,59 °F,83 °%,ESE,8 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+15/01/2018,10:30 PM,64 °F,59 °F,83 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,11:00 PM,64 °F,59 °F,83 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+15/01/2018,11:30 PM,64 °F,59 °F,83 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,12:00 AM,64 °F,59 °F,83 °%,ESE,6 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,12:30 AM,64 °F,61 °F,88 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,01:00 AM,64 °F,61 °F,88 °%,VAR,1 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,01:30 AM,64 °F,61 °F,88 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,02:00 AM,63 °F,61 °F,94 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,02:30 AM,63 °F,61 °F,94 °%,ENE,3 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,03:00 AM,63 °F,61 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,03:30 AM,63 °F,61 °F,94 °%,VAR,1 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+16/01/2018,04:00 AM,63 °F,61 °F,94 °%,ENE,2 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+16/01/2018,04:30 AM,63 °F,61 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+16/01/2018,05:00 AM,63 °F,61 °F,94 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+16/01/2018,05:30 AM,63 °F,61 °F,94 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+16/01/2018,06:00 AM,63 °F,61 °F,94 °%,W,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,06:30 AM,61 °F,61 °F,100 °%,W,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,07:00 AM,61 °F,59 °F,94 °%,W,5 °mph,0 °mph,29.95 °in,0.0 °in,Light Drizzle
+16/01/2018,07:30 AM,61 °F,59 °F,94 °%,W,6 °mph,0 °mph,29.98 °in,0.0 °in,Light Drizzle
+16/01/2018,08:00 AM,61 °F,59 °F,94 °%,W,3 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+16/01/2018,08:30 AM,61 °F,59 °F,94 °%,W,5 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+16/01/2018,09:00 AM,61 °F,59 °F,94 °%,WNW,5 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+16/01/2018,09:30 AM,61 °F,61 °F,100 °%,WNW,5 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+16/01/2018,10:00 AM,61 °F,59 °F,94 °%,WNW,6 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+16/01/2018,10:30 AM,63 °F,61 °F,94 °%,WNW,5 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+16/01/2018,11:00 AM,63 °F,61 °F,94 °%,WNW,5 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+16/01/2018,11:30 AM,63 °F,61 °F,94 °%,NW,3 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+16/01/2018,12:00 PM,63 °F,61 °F,94 °%,VAR,2 °mph,0 °mph,29.98 °in,0.0 °in,Drizzle
+16/01/2018,12:30 PM,64 °F,63 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,01:00 PM,64 °F,63 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,01:30 PM,64 °F,63 °F,94 °%,VAR,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,02:00 PM,66 °F,63 °F,88 °%,SE,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,02:30 PM,66 °F,63 °F,88 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,03:00 PM,66 °F,63 °F,88 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,03:30 PM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,04:00 PM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,04:30 PM,66 °F,63 °F,88 °%,NE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,05:00 PM,66 °F,63 °F,88 °%,ENE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,05:30 PM,66 °F,63 °F,88 °%,ENE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,06:00 PM,64 °F,63 °F,94 °%,E,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+16/01/2018,06:30 PM,64 °F,63 °F,94 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,07:00 PM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,07:30 PM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+16/01/2018,08:00 PM,64 °F,63 °F,94 °%,ESE,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,08:30 PM,64 °F,63 °F,94 °%,VAR,1 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,09:00 PM,64 °F,63 °F,94 °%,SW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,09:30 PM,64 °F,63 °F,94 °%,WSW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+16/01/2018,10:00 PM,64 °F,63 °F,94 °%,W,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+16/01/2018,10:30 PM,64 °F,63 °F,94 °%,WNW,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+16/01/2018,11:00 PM,64 °F,63 °F,94 °%,NNW,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+16/01/2018,11:30 PM,64 °F,63 °F,94 °%,NNW,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,12:00 AM,64 °F,63 °F,94 °%,NNW,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,12:30 AM,64 °F,63 °F,94 °%,NW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,01:00 AM,64 °F,63 °F,94 °%,NW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,01:30 AM,64 °F,63 °F,94 °%,NW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,02:00 AM,64 °F,63 °F,94 °%,WNW,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,02:30 AM,64 °F,63 °F,94 °%,WNW,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,03:00 AM,64 °F,63 °F,94 °%,NNW,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,03:30 AM,64 °F,63 °F,94 °%,NNW,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,04:00 AM,64 °F,63 °F,94 °%,N,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,04:30 AM,64 °F,63 °F,94 °%,VAR,1 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,05:00 AM,64 °F,63 °F,94 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,05:30 AM,64 °F,63 °F,94 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,06:00 AM,64 °F,63 °F,94 °%,ENE,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,06:30 AM,64 °F,63 °F,94 °%,ENE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,07:00 AM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,07:30 AM,64 °F,63 °F,94 °%,E,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,08:00 AM,64 °F,63 °F,94 °%,E,5 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+17/01/2018,08:30 AM,64 °F,63 °F,94 °%,ENE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+17/01/2018,09:00 AM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+17/01/2018,09:30 AM,66 °F,63 °F,88 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+17/01/2018,10:00 AM,68 °F,63 °F,83 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+17/01/2018,10:30 AM,70 °F,63 °F,78 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+17/01/2018,11:00 AM,70 °F,63 °F,78 °%,ESE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+17/01/2018,11:30 AM,70 °F,63 °F,78 °%,ESE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+17/01/2018,12:00 PM,70 °F,63 °F,78 °%,S,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,12:30 PM,70 °F,63 °F,78 °%,S,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+17/01/2018,01:00 PM,70 °F,63 °F,78 °%,S,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+17/01/2018,01:30 PM,72 °F,63 °F,73 °%,SSE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+17/01/2018,02:00 PM,72 °F,63 °F,73 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+17/01/2018,02:30 PM,72 °F,63 °F,73 °%,ESE,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,03:00 PM,72 °F,63 °F,73 °%,SE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,03:30 PM,72 °F,63 °F,73 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,04:00 PM,72 °F,63 °F,73 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,04:30 PM,72 °F,63 °F,73 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,05:00 PM,72 °F,61 °F,69 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,05:30 PM,70 °F,61 °F,73 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+17/01/2018,06:00 PM,70 °F,61 °F,73 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+17/01/2018,06:30 PM,70 °F,61 °F,73 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+17/01/2018,07:00 PM,68 °F,61 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy
+17/01/2018,07:30 PM,68 °F,61 °F,78 °%,SE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fair
+17/01/2018,08:00 PM,66 °F,61 °F,83 °%,SE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fair
+17/01/2018,08:30 PM,66 °F,61 °F,83 °%,SE,9 °mph,0 °mph,29.89 °in,0.0 °in,Fair
+17/01/2018,09:00 PM,66 °F,61 °F,83 °%,SE,9 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+17/01/2018,09:30 PM,66 °F,59 °F,78 °%,SE,10 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+17/01/2018,10:00 PM,66 °F,59 °F,78 °%,SE,10 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+17/01/2018,10:30 PM,66 °F,57 °F,73 °%,SSE,12 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+17/01/2018,11:00 PM,66 °F,57 °F,73 °%,SE,9 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+17/01/2018,11:30 PM,66 °F,57 °F,73 °%,SE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,12:00 AM,66 °F,59 °F,78 °%,SE,9 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,12:30 AM,66 °F,59 °F,78 °%,ESE,9 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,01:00 AM,64 °F,61 °F,88 °%,ESE,9 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,01:30 AM,64 °F,61 °F,88 °%,ESE,9 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,02:00 AM,64 °F,61 °F,88 °%,E,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,02:30 AM,64 °F,61 °F,88 °%,ESE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,03:00 AM,64 °F,61 °F,88 °%,ESE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,03:30 AM,63 °F,61 °F,94 °%,E,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,04:00 AM,64 °F,61 °F,88 °%,ESE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,04:30 AM,63 °F,61 °F,94 °%,E,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,05:00 AM,63 °F,61 °F,94 °%,E,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,05:30 AM,63 °F,61 °F,94 °%,E,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,06:00 AM,63 °F,61 °F,94 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,06:30 AM,63 °F,61 °F,94 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,07:00 AM,64 °F,61 °F,88 °%,ESE,9 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+18/01/2018,07:30 AM,64 °F,61 °F,88 °%,E,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+18/01/2018,08:00 AM,64 °F,61 °F,88 °%,ESE,6 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+18/01/2018,08:30 AM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Light Drizzle
+18/01/2018,09:00 AM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+18/01/2018,09:30 AM,64 °F,63 °F,94 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Light Drizzle
+18/01/2018,10:00 AM,64 °F,63 °F,94 °%,ENE,3 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+18/01/2018,10:30 AM,64 °F,63 °F,94 °%,NNE,5 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+18/01/2018,11:00 AM,64 °F,63 °F,94 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Drizzle
+18/01/2018,11:30 AM,66 °F,63 °F,88 °%,NNE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+18/01/2018,12:00 PM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+18/01/2018,12:30 PM,68 °F,63 °F,83 °%,ENE,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+18/01/2018,01:00 PM,68 °F,63 °F,83 °%,E,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+18/01/2018,01:30 PM,70 °F,61 °F,73 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,02:00 PM,70 °F,61 °F,73 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+18/01/2018,02:30 PM,72 °F,61 °F,69 °%,E,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+18/01/2018,03:00 PM,72 °F,61 °F,69 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,03:30 PM,72 °F,61 °F,69 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,04:00 PM,72 °F,61 °F,69 °%,SE,8 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,04:30 PM,72 °F,61 °F,69 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,05:00 PM,72 °F,61 °F,69 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,05:30 PM,70 °F,61 °F,73 °%,ESE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,06:00 PM,70 °F,61 °F,73 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+18/01/2018,06:30 PM,70 °F,61 °F,73 °%,SE,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,07:00 PM,70 °F,61 °F,73 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,07:30 PM,70 °F,61 °F,73 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+18/01/2018,08:00 PM,68 °F,59 °F,73 °%,ESE,6 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+18/01/2018,08:30 PM,68 °F,59 °F,73 °%,ESE,8 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+18/01/2018,09:00 PM,68 °F,59 °F,73 °%,ESE,8 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+18/01/2018,09:30 PM,68 °F,59 °F,73 °%,SE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+18/01/2018,10:00 PM,68 °F,59 °F,73 °%,SE,7 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+18/01/2018,10:30 PM,68 °F,59 °F,73 °%,ESE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+18/01/2018,11:00 PM,68 °F,59 °F,73 °%,ESE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+18/01/2018,11:30 PM,66 °F,61 °F,83 °%,E,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+19/01/2018,12:00 AM,68 °F,61 °F,78 °%,ESE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+19/01/2018,12:30 AM,68 °F,61 °F,78 °%,ESE,5 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,01:00 AM,66 °F,61 °F,83 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,01:30 AM,66 °F,61 °F,83 °%,ENE,5 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+19/01/2018,02:00 AM,66 °F,61 °F,83 °%,ENE,5 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,02:30 AM,66 °F,61 °F,83 °%,ENE,5 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,03:00 AM,66 °F,61 °F,83 °%,ENE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+19/01/2018,03:30 AM,66 °F,61 °F,83 °%,E,2 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+19/01/2018,04:00 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,04:30 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,05:00 AM,66 °F,61 °F,83 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,05:30 AM,64 °F,61 °F,88 °%,ENE,5 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,06:00 AM,66 °F,61 °F,83 °%,ESE,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,06:30 AM,64 °F,61 °F,88 °%,ENE,1 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+19/01/2018,07:00 AM,64 °F,61 °F,88 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+19/01/2018,07:30 AM,66 °F,61 °F,83 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+19/01/2018,08:00 AM,64 °F,61 °F,88 °%,VAR,1 °mph,0 °mph,30.04 °in,0.0 °in,Fog
+19/01/2018,08:30 AM,70 °F,59 °F,68 °%,VAR,2 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+19/01/2018,09:00 AM,70 °F,59 °F,68 °%,VAR,2 °mph,0 °mph,30.07 °in,0.0 °in,Haze
+19/01/2018,09:30 AM,73 °F,57 °F,57 °%,VAR,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+19/01/2018,10:00 AM,75 °F,57 °F,53 °%,VAR,1 °mph,0 °mph,30.10 °in,0.0 °in,Fair
+19/01/2018,10:30 AM,75 °F,57 °F,53 °%,ENE,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+19/01/2018,11:00 AM,75 °F,57 °F,53 °%,VAR,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+19/01/2018,11:30 AM,79 °F,59 °F,51 °%,VAR,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+19/01/2018,12:00 PM,77 °F,59 °F,54 °%,S,6 °mph,0 °mph,30.01 °in,0.0 °in,Fair
+19/01/2018,12:30 PM,79 °F,59 °F,51 °%,SSE,5 °mph,0 °mph,30.01 °in,0.0 °in,Haze
+19/01/2018,01:00 PM,79 °F,61 °F,54 °%,SSE,7 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,01:30 PM,79 °F,59 °F,51 °%,SSW,6 °mph,0 °mph,29.95 °in,0.0 °in,Partly Cloudy
+19/01/2018,02:00 PM,79 °F,59 °F,51 °%,S,5 °mph,0 °mph,29.95 °in,0.0 °in,Partly Cloudy
+19/01/2018,02:30 PM,81 °F,61 °F,51 °%,VAR,3 °mph,0 °mph,29.95 °in,0.0 °in,Partly Cloudy
+19/01/2018,03:00 PM,81 °F,61 °F,51 °%,SSE,6 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+19/01/2018,03:30 PM,79 °F,61 °F,54 °%,SSE,6 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+19/01/2018,04:00 PM,79 °F,61 °F,54 °%,S,5 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+19/01/2018,04:30 PM,79 °F,59 °F,51 °%,S,3 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+19/01/2018,05:00 PM,77 °F,59 °F,54 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fair
+19/01/2018,05:30 PM,77 °F,61 °F,57 °%,S,7 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+19/01/2018,06:00 PM,75 °F,59 °F,57 °%,SSE,6 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy
+19/01/2018,06:30 PM,73 °F,59 °F,61 °%,SSE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fair
+19/01/2018,07:00 PM,73 °F,59 °F,61 °%,SSE,8 °mph,0 °mph,29.95 °in,0.0 °in,Fair
+19/01/2018,07:30 PM,72 °F,61 °F,69 °%,SSE,9 °mph,0 °mph,29.95 °in,0.0 °in,Fair
+19/01/2018,08:00 PM,70 °F,61 °F,73 °%,SSE,9 °mph,0 °mph,29.95 °in,0.0 °in,Fair
+19/01/2018,08:30 PM,70 °F,61 °F,73 °%,SSE,6 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,09:00 PM,68 °F,61 °F,78 °%,SSE,6 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,09:30 PM,68 °F,61 °F,78 °%,SSE,6 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,10:00 PM,68 °F,61 °F,78 °%,ESE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,10:30 PM,68 °F,61 °F,78 °%,ESE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,11:00 PM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+19/01/2018,11:30 PM,66 °F,63 °F,88 °%,ESE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+20/01/2018,12:00 AM,64 °F,63 °F,94 °%,NE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fair
+20/01/2018,12:30 AM,63 °F,61 °F,94 °%,E,5 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+20/01/2018,01:00 AM,64 °F,63 °F,94 °%,ENE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,01:30 AM,64 °F,63 °F,94 °%,ENE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,02:00 AM,64 °F,63 °F,94 °%,ENE,8 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,02:30 AM,64 °F,63 °F,94 °%,NE,8 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,03:00 AM,64 °F,63 °F,94 °%,ENE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,03:30 AM,63 °F,63 °F,100 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,04:00 AM,64 °F,63 °F,94 °%,ENE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,04:30 AM,64 °F,63 °F,94 °%,ENE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,05:00 AM,66 °F,64 °F,94 °%,NE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,05:30 AM,64 °F,63 °F,94 °%,NE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,06:00 AM,64 °F,63 °F,94 °%,E,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,06:30 AM,64 °F,63 °F,94 °%,E,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,07:00 AM,63 °F,63 °F,100 °%,E,2 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+20/01/2018,07:30 AM,64 °F,63 °F,94 °%,E,1 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+20/01/2018,08:00 AM,66 °F,64 °F,94 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,08:30 AM,68 °F,64 °F,88 °%,VAR,2 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,09:00 AM,68 °F,64 °F,88 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,09:30 AM,68 °F,64 °F,88 °%,VAR,2 °mph,0 °mph,30.04 °in,0.0 °in,Light Rain
+20/01/2018,10:00 AM,68 °F,64 °F,88 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,10:30 AM,70 °F,64 °F,83 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,11:00 AM,70 °F,63 °F,78 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fog
+20/01/2018,11:30 AM,70 °F,64 °F,83 °%,ESE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+20/01/2018,12:00 PM,70 °F,63 °F,78 °%,SSE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+20/01/2018,12:30 PM,70 °F,64 °F,83 °%,SE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+20/01/2018,01:00 PM,70 °F,64 °F,83 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,01:30 PM,70 °F,66 °F,88 °%,SSE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,02:00 PM,70 °F,66 °F,88 °%,S,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,02:30 PM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,03:00 PM,70 °F,64 °F,83 °%,S,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,03:30 PM,70 °F,64 °F,83 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,04:00 PM,70 °F,64 °F,83 °%,SSE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,04:30 PM,70 °F,64 °F,83 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,05:00 PM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,05:30 PM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,06:00 PM,70 °F,64 °F,83 °%,ESE,9 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,06:30 PM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,07:00 PM,70 °F,66 °F,88 °%,ESE,9 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,07:30 PM,70 °F,66 °F,88 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+20/01/2018,08:00 PM,70 °F,64 °F,83 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+20/01/2018,08:30 PM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,09:00 PM,70 °F,66 °F,88 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,09:30 PM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,10:00 PM,70 °F,66 °F,88 °%,S,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,10:30 PM,68 °F,64 °F,88 °%,S,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+20/01/2018,11:00 PM,68 °F,64 °F,88 °%,SSE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+20/01/2018,11:30 PM,68 °F,64 °F,88 °%,SE,9 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,12:00 AM,68 °F,64 °F,88 °%,SE,8 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,12:30 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,01:00 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+21/01/2018,01:30 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,02:00 AM,66 °F,64 °F,94 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,02:30 AM,66 °F,64 °F,94 °%,E,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,03:00 AM,66 °F,64 °F,94 °%,E,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,03:30 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,04:00 AM,66 °F,64 °F,94 °%,E,8 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,04:30 AM,66 °F,64 °F,94 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,05:00 AM,66 °F,64 °F,94 °%,ESE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,05:30 AM,66 °F,64 °F,94 °%,ESE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,06:00 AM,66 °F,64 °F,94 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,06:30 AM,66 °F,64 °F,94 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,07:00 AM,66 °F,64 °F,94 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,07:30 AM,66 °F,64 °F,94 °%,ESE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,08:00 AM,68 °F,64 °F,88 °%,SE,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,08:30 AM,68 °F,64 °F,88 °%,SE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,09:00 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+21/01/2018,09:30 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+21/01/2018,10:00 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+21/01/2018,10:30 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,11:00 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,11:30 AM,70 °F,66 °F,88 °%,E,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+21/01/2018,12:00 PM,70 °F,66 °F,88 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,12:30 PM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,01:00 PM,72 °F,64 °F,78 °%,VAR,2 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,01:30 PM,73 °F,66 °F,78 °%,ESE,3 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,02:00 PM,73 °F,66 °F,78 °%,E,3 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,02:30 PM,73 °F,66 °F,78 °%,E,5 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,03:00 PM,73 °F,64 °F,73 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,03:30 PM,75 °F,64 °F,69 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,04:00 PM,75 °F,64 °F,69 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,04:30 PM,73 °F,64 °F,73 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,05:00 PM,73 °F,64 °F,73 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+21/01/2018,05:30 PM,72 °F,66 °F,83 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,06:00 PM,72 °F,66 °F,83 °%,ESE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,06:30 PM,72 °F,66 °F,83 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+21/01/2018,07:00 PM,72 °F,66 °F,83 °%,SE,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,07:30 PM,70 °F,66 °F,88 °%,ESE,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,08:00 PM,70 °F,66 °F,88 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+21/01/2018,08:30 PM,70 °F,66 °F,88 °%,E,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,09:00 PM,70 °F,66 °F,88 °%,ESE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,09:30 PM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,10:00 PM,70 °F,66 °F,88 °%,SSE,8 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,10:30 PM,68 °F,66 °F,94 °%,SSE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,11:00 PM,68 °F,66 °F,94 °%,S,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+21/01/2018,11:30 PM,68 °F,66 °F,94 °%,SSE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,12:00 AM,70 °F,66 °F,88 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,12:30 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,01:00 AM,68 °F,66 °F,94 °%,SSE,7 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,01:30 AM,68 °F,66 °F,94 °%,S,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,02:00 AM,68 °F,66 °F,94 °%,SE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,02:30 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,03:00 AM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Light Rain
+22/01/2018,03:30 AM,68 °F,66 °F,94 °%,E,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,04:00 AM,68 °F,66 °F,94 °%,E,5 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,04:30 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,05:00 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,05:30 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,06:00 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,06:30 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,07:00 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,07:30 AM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,08:00 AM,68 °F,66 °F,94 °%,SE,3 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+22/01/2018,08:30 AM,70 °F,66 °F,88 °%,SE,6 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+22/01/2018,09:00 AM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+22/01/2018,09:30 AM,72 °F,66 °F,83 °%,ESE,10 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+22/01/2018,10:00 AM,72 °F,66 °F,83 °%,ESE,8 °mph,0 °mph,29.98 °in,0.0 °in,Fog
+22/01/2018,10:30 AM,72 °F,66 °F,83 °%,ESE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+22/01/2018,11:00 AM,72 °F,66 °F,83 °%,SE,8 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+22/01/2018,11:30 AM,73 °F,66 °F,78 °%,SE,8 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,12:00 PM,73 °F,66 °F,78 °%,SSE,8 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+22/01/2018,12:30 PM,73 °F,66 °F,78 °%,SSE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,01:00 PM,73 °F,66 °F,78 °%,SSE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+22/01/2018,01:30 PM,75 °F,66 °F,73 °%,WSW,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+22/01/2018,02:00 PM,75 °F,64 °F,69 °%,WSW,5 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+22/01/2018,02:30 PM,77 °F,66 °F,69 °%,WSW,5 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+22/01/2018,03:00 PM,77 °F,66 °F,69 °%,W,5 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy
+22/01/2018,03:30 PM,77 °F,66 °F,69 °%,W,5 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy
+22/01/2018,04:00 PM,75 °F,64 °F,69 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+22/01/2018,04:30 PM,75 °F,64 °F,69 °%,SSE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+22/01/2018,05:00 PM,73 °F,64 °F,73 °%,SE,13 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+22/01/2018,05:30 PM,73 °F,63 °F,69 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+22/01/2018,06:00 PM,72 °F,64 °F,78 °%,SSE,9 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+22/01/2018,06:30 PM,72 °F,64 °F,78 °%,SSE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+22/01/2018,07:00 PM,72 °F,63 °F,73 °%,SSE,14 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+22/01/2018,07:30 PM,72 °F,63 °F,73 °%,SSE,12 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+22/01/2018,08:00 PM,70 °F,63 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+22/01/2018,08:30 PM,70 °F,63 °F,78 °%,SSE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+22/01/2018,09:00 PM,70 °F,63 °F,78 °%,SSE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+22/01/2018,09:30 PM,70 °F,64 °F,83 °%,ESE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+22/01/2018,10:00 PM,68 °F,64 °F,88 °%,ESE,13 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+22/01/2018,10:30 PM,68 °F,64 °F,88 °%,ESE,12 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,11:00 PM,68 °F,64 °F,88 °%,ESE,13 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+22/01/2018,11:30 PM,68 °F,64 °F,88 °%,ESE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,12:00 AM,66 °F,64 °F,94 °%,ESE,12 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,12:30 AM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,01:00 AM,66 °F,64 °F,94 °%,E,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+23/01/2018,01:30 AM,66 °F,64 °F,94 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+23/01/2018,02:00 AM,66 °F,64 °F,94 °%,E,7 °mph,0 °mph,29.86 °in,0.0 °in,Light Drizzle
+23/01/2018,02:30 AM,66 °F,64 °F,94 °%,E,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+23/01/2018,03:00 AM,66 °F,64 °F,94 °%,E,6 °mph,0 °mph,29.86 °in,0.0 °in,Light Drizzle
+23/01/2018,03:30 AM,66 °F,64 °F,94 °%,E,7 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+23/01/2018,04:00 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+23/01/2018,04:30 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Drizzle
+23/01/2018,05:00 AM,66 °F,64 °F,94 °%,E,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Drizzle
+23/01/2018,05:30 AM,66 °F,64 °F,94 °%,E,5 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+23/01/2018,06:00 AM,66 °F,64 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,06:30 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,07:00 AM,66 °F,64 °F,94 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+23/01/2018,07:30 AM,66 °F,64 °F,94 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+23/01/2018,08:00 AM,66 °F,64 °F,94 °%,ESE,6 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+23/01/2018,08:30 AM,68 °F,66 °F,94 °%,ESE,5 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+23/01/2018,09:00 AM,68 °F,64 °F,88 °%,ESE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+23/01/2018,09:30 AM,68 °F,64 °F,88 °%,E,6 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+23/01/2018,10:00 AM,70 °F,64 °F,83 °%,ESE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+23/01/2018,10:30 AM,70 °F,66 °F,88 °%,ESE,7 °mph,0 °mph,29.95 °in,0.0 °in,Fog
+23/01/2018,11:00 AM,72 °F,66 °F,83 °%,SSE,7 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+23/01/2018,11:30 AM,72 °F,66 °F,83 °%,SE,7 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+23/01/2018,12:00 PM,73 °F,66 °F,78 °%,ESE,6 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+23/01/2018,12:30 PM,75 °F,66 °F,73 °%,SSE,7 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+23/01/2018,01:00 PM,75 °F,64 °F,69 °%,SE,5 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+23/01/2018,01:30 PM,77 °F,64 °F,65 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+23/01/2018,02:00 PM,77 °F,66 °F,69 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+23/01/2018,02:30 PM,77 °F,64 °F,65 °%,ESE,9 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy
+23/01/2018,03:00 PM,79 °F,63 °F,57 °%,SSE,9 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,03:30 PM,79 °F,64 °F,61 °%,ESE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,04:00 PM,79 °F,64 °F,61 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,04:30 PM,79 °F,63 °F,57 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,05:00 PM,77 °F,64 °F,65 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,05:30 PM,75 °F,64 °F,69 °%,ESE,9 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,06:00 PM,73 °F,63 °F,69 °%,ESE,8 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,06:30 PM,73 °F,63 °F,69 °%,ESE,6 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,07:00 PM,72 °F,63 °F,73 °%,ESE,7 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+23/01/2018,07:30 PM,72 °F,64 °F,78 °%,SE,13 °mph,0 °mph,29.83 °in,0.0 °in,Fair
+23/01/2018,08:00 PM,70 °F,63 °F,78 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fair
+23/01/2018,08:30 PM,70 °F,64 °F,83 °%,SE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fair
+23/01/2018,09:00 PM,70 °F,63 °F,78 °%,SSE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair
+23/01/2018,09:30 PM,68 °F,64 °F,88 °%,SSE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+23/01/2018,10:00 PM,68 °F,64 °F,88 °%,SSE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+23/01/2018,10:30 PM,68 °F,64 °F,88 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+23/01/2018,11:00 PM,68 °F,64 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy
+23/01/2018,11:30 PM,68 °F,64 °F,88 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy
+24/01/2018,12:00 AM,68 °F,64 °F,88 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy
+24/01/2018,12:30 AM,68 °F,64 °F,88 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+24/01/2018,01:00 AM,68 °F,64 °F,88 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,01:30 AM,68 °F,64 °F,88 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,02:00 AM,66 °F,64 °F,94 °%,ESE,12 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,02:30 AM,66 °F,64 °F,94 °%,ESE,12 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,03:00 AM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,03:30 AM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,04:00 AM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+24/01/2018,04:30 AM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+24/01/2018,05:00 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,05:30 AM,66 °F,64 °F,94 °%,ESE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,06:00 AM,66 °F,64 °F,94 °%,ESE,6 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,06:30 AM,66 °F,64 °F,94 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+24/01/2018,07:00 AM,68 °F,66 °F,94 °%,E,6 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+24/01/2018,07:30 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+24/01/2018,08:00 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+24/01/2018,08:30 AM,68 °F,66 °F,94 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+24/01/2018,09:00 AM,70 °F,66 °F,88 °%,ESE,9 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+24/01/2018,09:30 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+24/01/2018,10:00 AM,72 °F,66 °F,83 °%,SE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+24/01/2018,10:30 AM,72 °F,66 °F,83 °%,SE,10 °mph,0 °mph,29.89 °in,0.0 °in,Light Rain
+24/01/2018,11:00 AM,73 °F,66 °F,78 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+24/01/2018,11:30 AM,72 °F,66 °F,83 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+24/01/2018,12:00 PM,73 °F,66 °F,78 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+24/01/2018,12:30 PM,75 °F,66 °F,73 °%,ESE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,01:00 PM,75 °F,66 °F,73 °%,ESE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,01:30 PM,77 °F,64 °F,65 °%,SE,13 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+24/01/2018,02:00 PM,77 °F,66 °F,69 °%,ESE,14 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,02:30 PM,77 °F,66 °F,69 °%,ESE,13 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,03:00 PM,77 °F,66 °F,69 °%,ESE,15 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,03:30 PM,77 °F,66 °F,69 °%,ESE,15 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,04:00 PM,77 °F,66 °F,69 °%,ESE,13 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,04:30 PM,75 °F,66 °F,73 °%,ESE,15 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,05:00 PM,75 °F,66 °F,73 °%,ESE,14 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy
+24/01/2018,05:30 PM,73 °F,68 °F,83 °%,ESE,15 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+24/01/2018,06:00 PM,72 °F,68 °F,88 °%,ESE,13 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+24/01/2018,06:30 PM,72 °F,68 °F,88 °%,ESE,12 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+24/01/2018,07:00 PM,72 °F,68 °F,88 °%,ESE,12 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy
+24/01/2018,07:30 PM,72 °F,68 °F,88 °%,ESE,12 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+24/01/2018,08:00 PM,72 °F,68 °F,88 °%,ESE,12 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+24/01/2018,08:30 PM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,09:00 PM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,09:30 PM,72 °F,68 °F,88 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,10:00 PM,72 °F,68 °F,88 °%,ESE,10 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,10:30 PM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+24/01/2018,11:00 PM,,,,,,,,,
+24/01/2018,11:30 PM,70 °F,68 °F,94 °%,ESE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,12:00 AM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,12:30 AM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+25/01/2018,01:00 AM,70 °F,68 °F,94 °%,ESE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+25/01/2018,01:30 AM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,02:00 AM,70 °F,68 °F,94 °%,SE,13 °mph,0 °mph,29.77 °in,0.0 °in,Fog
+25/01/2018,02:30 AM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,03:00 AM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,03:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,04:00 AM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,04:30 AM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,05:00 AM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,05:30 AM,72 °F,68 °F,88 °%,ESE,10 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,06:00 AM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,06:30 AM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,07:00 AM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,07:30 AM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,08:00 AM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,08:30 AM,72 °F,68 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,09:00 AM,73 °F,68 °F,83 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,09:30 AM,73 °F,68 °F,83 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,10:00 AM,75 °F,68 °F,78 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,10:30 AM,75 °F,68 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,11:00 AM,75 °F,68 °F,78 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,11:30 AM,77 °F,68 °F,74 °%,ESE,12 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,12:00 PM,77 °F,68 °F,74 °%,ESE,14 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,12:30 PM,79 °F,68 °F,69 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,01:00 PM,79 °F,68 °F,69 °%,ESE,12 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,01:30 PM,81 °F,68 °F,65 °%,SE,12 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,02:00 PM,81 °F,68 °F,65 °%,SSE,14 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,02:30 PM,82 °F,68 °F,62 °%,SSE,13 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy
+25/01/2018,03:00 PM,81 °F,70 °F,70 °%,ESE,16 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+25/01/2018,03:30 PM,81 °F,68 °F,65 °%,SE,15 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+25/01/2018,04:00 PM,79 °F,68 °F,69 °%,SE,17 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy
+25/01/2018,04:30 PM,79 °F,68 °F,69 °%,SE,15 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy
+25/01/2018,05:00 PM,77 °F,68 °F,74 °%,SE,15 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy
+25/01/2018,05:30 PM,77 °F,68 °F,74 °%,SE,15 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy
+25/01/2018,06:00 PM,75 °F,68 °F,78 °%,ESE,15 °mph,0 °mph,29.80 °in,0.0 °in,Fair
+25/01/2018,06:30 PM,73 °F,68 °F,83 °%,ESE,14 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy
+25/01/2018,07:00 PM,73 °F,68 °F,83 °%,ESE,17 °mph,0 °mph,29.80 °in,0.0 °in,Mostly Cloudy
+25/01/2018,07:30 PM,73 °F,68 °F,83 °%,SE,13 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,08:00 PM,72 °F,68 °F,88 °%,SE,14 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,08:30 PM,72 °F,68 °F,88 °%,SE,13 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+25/01/2018,09:00 PM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,09:30 PM,73 °F,68 °F,83 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,10:00 PM,72 °F,68 °F,88 °%,SE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,10:30 PM,72 °F,68 °F,88 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,11:00 PM,72 °F,68 °F,88 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+25/01/2018,11:30 PM,72 °F,68 °F,88 °%,SE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,12:00 AM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,12:30 AM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,01:00 AM,72 °F,68 °F,88 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,01:30 AM,72 °F,68 °F,88 °%,ESE,7 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,02:00 AM,72 °F,68 °F,88 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,02:30 AM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,03:00 AM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,03:30 AM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,04:00 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,04:30 AM,70 °F,66 °F,88 °%,E,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,05:00 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,05:30 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,06:00 AM,70 °F,66 °F,88 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,06:30 AM,70 °F,66 °F,88 °%,ESE,9 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,07:00 AM,70 °F,66 °F,88 °%,ESE,12 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,07:30 AM,70 °F,66 °F,88 °%,SE,10 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+26/01/2018,08:00 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+26/01/2018,08:30 AM,70 °F,66 °F,88 °%,ESE,10 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,09:00 AM,70 °F,66 °F,88 °%,ESE,12 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+26/01/2018,09:30 AM,70 °F,66 °F,88 °%,ESE,14 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+26/01/2018,10:00 AM,70 °F,66 °F,88 °%,ESE,12 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+26/01/2018,10:30 AM,72 °F,66 °F,83 °%,ESE,10 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+26/01/2018,11:00 AM,72 °F,66 °F,83 °%,ESE,12 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,11:30 AM,73 °F,66 °F,78 °%,SE,13 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,12:00 PM,72 °F,66 °F,83 °%,ESE,9 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,12:30 PM,73 °F,66 °F,78 °%,SE,9 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,01:00 PM,73 °F,66 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,01:30 PM,73 °F,64 °F,73 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,02:00 PM,72 °F,64 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,02:30 PM,72 °F,64 °F,78 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,03:00 PM,73 °F,64 °F,73 °%,ESE,13 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,03:30 PM,73 °F,64 °F,73 °%,SE,14 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,04:00 PM,72 °F,64 °F,78 °%,SE,16 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,04:30 PM,72 °F,64 °F,78 °%,ESE,12 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,05:00 PM,72 °F,64 °F,78 °%,SE,12 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,05:30 PM,72 °F,64 °F,78 °%,SE,12 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,06:00 PM,72 °F,64 °F,78 °%,SE,10 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+26/01/2018,06:30 PM,70 °F,63 °F,78 °%,SE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,07:00 PM,70 °F,63 °F,78 °%,SE,14 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,07:30 PM,70 °F,63 °F,78 °%,ESE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+26/01/2018,08:00 PM,70 °F,64 °F,83 °%,ESE,12 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,08:30 PM,70 °F,63 °F,78 °%,SE,10 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,09:00 PM,70 °F,63 °F,78 °%,SE,13 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+26/01/2018,09:30 PM,68 °F,64 °F,88 °%,ESE,15 °mph,0 °mph,29.92 °in,0.0 °in,Fog
+26/01/2018,10:00 PM,66 °F,64 °F,94 °%,ESE,14 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,10:30 PM,66 °F,64 °F,94 °%,SE,13 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,11:00 PM,66 °F,64 °F,94 °%,SE,12 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+26/01/2018,11:30 PM,66 °F,64 °F,94 °%,ESE,10 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+27/01/2018,12:00 AM,66 °F,64 °F,94 °%,ESE,15 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+27/01/2018,12:30 AM,66 °F,64 °F,94 °%,ESE,14 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+27/01/2018,01:00 AM,66 °F,63 °F,88 °%,ESE,12 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+27/01/2018,01:30 AM,66 °F,63 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,02:00 AM,64 °F,63 °F,94 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,02:30 AM,66 °F,63 °F,88 °%,ESE,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+27/01/2018,03:00 AM,66 °F,63 °F,88 °%,ESE,12 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+27/01/2018,03:30 AM,66 °F,63 °F,88 °%,ESE,10 °mph,0 °mph,29.86 °in,0.0 °in,Cloudy
+27/01/2018,04:00 AM,66 °F,63 °F,88 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Cloudy
+27/01/2018,04:30 AM,66 °F,63 °F,88 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Cloudy
+27/01/2018,05:00 AM,66 °F,63 °F,88 °%,SE,9 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,05:30 AM,64 °F,63 °F,94 °%,SE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,06:00 AM,64 °F,63 °F,94 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+27/01/2018,06:30 AM,64 °F,63 °F,94 °%,ESE,13 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,07:00 AM,64 °F,63 °F,94 °%,ESE,12 °mph,0 °mph,29.86 °in,0.0 °in,Light Drizzle
+27/01/2018,07:30 AM,64 °F,63 °F,94 °%,E,6 °mph,0 °mph,29.89 °in,0.0 °in,Fog
+27/01/2018,08:00 AM,66 °F,63 °F,88 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+27/01/2018,08:30 AM,64 °F,63 °F,94 °%,SE,9 °mph,0 °mph,29.89 °in,0.0 °in,Light Drizzle
+27/01/2018,09:00 AM,64 °F,63 °F,94 °%,E,7 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+27/01/2018,09:30 AM,64 °F,63 °F,94 °%,ESE,6 °mph,0 °mph,29.92 °in,0.0 °in,Light Drizzle
+27/01/2018,10:00 AM,64 °F,64 °F,100 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+27/01/2018,10:30 AM,64 °F,64 °F,100 °%,E,6 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+27/01/2018,11:00 AM,64 °F,63 °F,94 °%,E,5 °mph,0 °mph,29.92 °in,0.0 °in,Rain
+27/01/2018,11:30 AM,64 °F,63 °F,94 °%,ESE,6 °mph,0 °mph,29.92 °in,0.0 °in,Rain
+27/01/2018,12:00 PM,64 °F,64 °F,100 °%,SE,7 °mph,0 °mph,29.89 °in,0.0 °in,Light Rain
+27/01/2018,12:30 PM,64 °F,64 °F,100 °%,SE,9 °mph,0 °mph,29.89 °in,0.0 °in,Light Rain
+27/01/2018,01:00 PM,64 °F,64 °F,100 °%,ESE,8 °mph,0 °mph,29.86 °in,0.0 °in,Fog
+27/01/2018,01:30 PM,64 °F,63 °F,94 °%,SE,10 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+27/01/2018,02:00 PM,64 °F,63 °F,94 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+27/01/2018,02:30 PM,64 °F,63 °F,94 °%,ESE,9 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+27/01/2018,03:00 PM,64 °F,63 °F,94 °%,ESE,10 °mph,0 °mph,29.83 °in,0.0 °in,Fog
+27/01/2018,03:30 PM,64 °F,63 °F,94 °%,E,10 °mph,0 °mph,29.80 °in,0.0 °in,Fog
+27/01/2018,04:00 PM,64 °F,63 °F,94 °%,E,13 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+27/01/2018,04:30 PM,63 °F,63 °F,100 °%,ENE,8 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+27/01/2018,05:00 PM,64 °F,63 °F,94 °%,E,13 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+27/01/2018,05:30 PM,63 °F,61 °F,94 °%,E,9 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+27/01/2018,06:00 PM,63 °F,61 °F,94 °%,ENE,7 °mph,0 °mph,29.80 °in,0.0 °in,Light Drizzle
+27/01/2018,06:30 PM,61 °F,61 °F,100 °%,ENE,8 °mph,0 °mph,29.80 °in,0.0 °in,Light Rain
+27/01/2018,07:00 PM,61 °F,59 °F,94 °%,ENE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+27/01/2018,07:30 PM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+27/01/2018,08:00 PM,61 °F,59 °F,94 °%,ENE,8 °mph,0 °mph,29.83 °in,0.0 °in,Drizzle
+27/01/2018,08:30 PM,61 °F,59 °F,94 °%,ENE,9 °mph,0 °mph,29.86 °in,0.0 °in,Drizzle
+27/01/2018,09:00 PM,61 °F,59 °F,94 °%,ENE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+27/01/2018,09:30 PM,61 °F,59 °F,94 °%,ENE,9 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+27/01/2018,10:00 PM,61 °F,59 °F,94 °%,ENE,9 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+27/01/2018,10:30 PM,61 °F,61 °F,100 °%,ENE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+27/01/2018,11:00 PM,61 °F,61 °F,100 °%,NE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+27/01/2018,11:30 PM,61 °F,61 °F,100 °%,ENE,9 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,12:00 AM,61 °F,59 °F,94 °%,NE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,12:30 AM,61 °F,59 °F,94 °%,NE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,01:00 AM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,01:30 AM,61 °F,59 °F,94 °%,NE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,02:00 AM,61 °F,59 °F,94 °%,NE,9 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,02:30 AM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,03:00 AM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,03:30 AM,61 °F,59 °F,94 °%,NE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,04:00 AM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,04:30 AM,61 °F,59 °F,94 °%,NE,7 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+28/01/2018,05:00 AM,61 °F,59 °F,94 °%,NE,8 °mph,0 °mph,29.83 °in,0.0 °in,Light Rain
+28/01/2018,05:30 AM,61 °F,59 °F,94 °%,ENE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy
+28/01/2018,06:00 AM,59 °F,59 °F,100 °%,NE,9 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,06:30 AM,59 °F,57 °F,94 °%,NE,8 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,07:00 AM,59 °F,57 °F,94 °%,NE,9 °mph,0 °mph,29.86 °in,0.0 °in,Light Rain
+28/01/2018,07:30 AM,59 °F,57 °F,94 °%,NE,12 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+28/01/2018,08:00 AM,59 °F,57 °F,94 °%,NE,12 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+28/01/2018,08:30 AM,59 °F,57 °F,94 °%,NE,12 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,09:00 AM,59 °F,57 °F,94 °%,NE,13 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,09:30 AM,59 °F,57 °F,94 °%,NE,14 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,10:00 AM,59 °F,57 °F,94 °%,NE,13 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+28/01/2018,10:30 AM,59 °F,55 °F,88 °%,NE,14 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+28/01/2018,11:00 AM,59 °F,55 °F,88 °%,NE,12 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+28/01/2018,11:30 AM,59 °F,55 °F,88 °%,NE,14 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,12:00 PM,59 °F,55 °F,88 °%,NE,14 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,12:30 PM,57 °F,55 °F,94 °%,NE,14 °mph,0 °mph,29.92 °in,0.0 °in,Light Rain
+28/01/2018,01:00 PM,57 °F,55 °F,94 °%,NE,14 °mph,0 °mph,29.89 °in,0.0 °in,Drizzle
+28/01/2018,01:30 PM,57 °F,54 °F,88 °%,NE,14 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy
+28/01/2018,02:00 PM,57 °F,54 °F,88 °%,NE,15 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,02:30 PM,57 °F,54 °F,88 °%,NE,15 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,03:00 PM,57 °F,54 °F,88 °%,NE,16 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,03:30 PM,57 °F,52 °F,82 °%,NE,15 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,04:00 PM,57 °F,52 °F,82 °%,NE,15 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,04:30 PM,57 °F,52 °F,82 °%,NE,16 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,05:00 PM,55 °F,52 °F,88 °%,NE,14 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,05:30 PM,55 °F,52 °F,88 °%,NE,13 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy
+28/01/2018,06:00 PM,55 °F,52 °F,88 °%,NE,13 °mph,0 °mph,29.89 °in,0.0 °in,Light Rain
+28/01/2018,06:30 PM,55 °F,52 °F,88 °%,NE,13 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,07:00 PM,55 °F,52 °F,88 °%,NE,14 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy
+28/01/2018,07:30 PM,55 °F,52 °F,88 °%,NE,15 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy
+28/01/2018,08:00 PM,55 °F,50 °F,82 °%,NE,15 °mph,0 °mph,29.95 °in,0.0 °in,Light Rain
+28/01/2018,08:30 PM,54 °F,50 °F,88 °%,NE,15 °mph,0 °mph,29.98 °in,0.0 °in,Light Rain
+28/01/2018,09:00 PM,54 °F,50 °F,88 °%,NE,13 °mph,0 °mph,30.01 °in,0.0 °in,Light Rain
+28/01/2018,09:30 PM,54 °F,48 °F,82 °%,NE,14 °mph,0 °mph,30.04 °in,0.0 °in,Light Rain
+28/01/2018,10:00 PM,54 °F,48 °F,82 °%,NE,14 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+28/01/2018,10:30 PM,54 °F,50 °F,88 °%,NE,10 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+28/01/2018,11:00 PM,54 °F,48 °F,82 °%,NE,14 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+28/01/2018,11:30 PM,54 °F,48 °F,82 °%,NE,15 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,12:00 AM,52 °F,48 °F,88 °%,NNE,13 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,12:30 AM,52 °F,46 °F,82 °%,NNE,13 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy
+29/01/2018,01:00 AM,54 °F,46 °F,77 °%,NNE,12 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,01:30 AM,54 °F,45 °F,72 °%,NNE,10 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,02:00 AM,54 °F,45 °F,72 °%,NNE,12 °mph,0 °mph,30.07 °in,0.0 °in,Light Rain
+29/01/2018,02:30 AM,52 °F,43 °F,71 °%,NNE,14 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,03:00 AM,52 °F,41 °F,67 °%,NNE,13 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,03:30 AM,52 °F,41 °F,67 °%,NNE,10 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,04:00 AM,52 °F,41 °F,67 °%,NNE,13 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,04:30 AM,52 °F,41 °F,67 °%,NNE,13 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,05:00 AM,52 °F,39 °F,62 °%,NNE,13 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,05:30 AM,52 °F,39 °F,62 °%,NNE,14 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+29/01/2018,06:00 AM,52 °F,39 °F,62 °%,NNE,13 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+29/01/2018,06:30 AM,52 °F,39 °F,62 °%,NNE,13 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+29/01/2018,07:00 AM,52 °F,39 °F,62 °%,NNE,15 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,07:30 AM,52 °F,39 °F,62 °%,NNE,12 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,08:00 AM,54 °F,39 °F,58 °%,NNE,12 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+29/01/2018,08:30 AM,54 °F,39 °F,58 °%,NNE,12 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+29/01/2018,09:00 AM,54 °F,37 °F,54 °%,NNE,13 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+29/01/2018,09:30 AM,54 °F,39 °F,58 °%,NNE,12 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+29/01/2018,10:00 AM,55 °F,39 °F,54 °%,N,12 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+29/01/2018,10:30 AM,55 °F,37 °F,51 °%,NNE,12 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+29/01/2018,11:00 AM,55 °F,37 °F,51 °%,NNE,12 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+29/01/2018,11:30 AM,57 °F,39 °F,51 °%,NNE,12 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+29/01/2018,12:00 PM,57 °F,37 °F,48 °%,NNE,10 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+29/01/2018,12:30 PM,57 °F,37 °F,48 °%,NNE,12 °mph,0 °mph,30.16 °in,0.0 °in,Fair
+29/01/2018,01:00 PM,57 °F,37 °F,48 °%,NNE,15 °mph,0 °mph,30.13 °in,0.0 °in,Fair
+29/01/2018,01:30 PM,57 °F,39 °F,51 °%,NNE,10 °mph,0 °mph,30.10 °in,0.0 °in,Fair
+29/01/2018,02:00 PM,59 °F,39 °F,48 °%,NNE,9 °mph,0 °mph,30.10 °in,0.0 °in,Fair
+29/01/2018,02:30 PM,57 °F,39 °F,51 °%,NNE,10 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+29/01/2018,03:00 PM,57 °F,39 °F,51 °%,NNE,10 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+29/01/2018,03:30 PM,57 °F,39 °F,51 °%,NE,8 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+29/01/2018,04:00 PM,57 °F,39 °F,51 °%,NE,8 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+29/01/2018,04:30 PM,57 °F,39 °F,51 °%,ENE,7 °mph,0 °mph,30.04 °in,0.0 °in,Fair
+29/01/2018,05:00 PM,55 °F,39 °F,54 °%,E,8 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+29/01/2018,05:30 PM,55 °F,41 °F,58 °%,E,8 °mph,0 °mph,30.07 °in,0.0 °in,Fair
+29/01/2018,06:00 PM,54 °F,39 °F,58 °%,E,8 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,06:30 PM,54 °F,39 °F,58 °%,E,7 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+29/01/2018,07:00 PM,54 °F,39 °F,58 °%,E,7 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,07:30 PM,54 °F,39 °F,58 °%,E,9 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+29/01/2018,08:00 PM,54 °F,41 °F,62 °%,E,6 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+29/01/2018,08:30 PM,54 °F,39 °F,58 °%,E,7 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+29/01/2018,09:00 PM,54 °F,39 °F,58 °%,NE,7 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,09:30 PM,52 °F,39 °F,62 °%,ENE,7 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,10:00 PM,52 °F,39 °F,62 °%,ENE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,10:30 PM,52 °F,39 °F,62 °%,ENE,10 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,11:00 PM,52 °F,39 °F,62 °%,ENE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+29/01/2018,11:30 PM,52 °F,37 °F,58 °%,ENE,10 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,12:00 AM,52 °F,37 °F,58 °%,ENE,10 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,12:30 AM,52 °F,37 °F,58 °%,ENE,12 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,01:00 AM,52 °F,37 °F,58 °%,NE,10 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,01:30 AM,52 °F,37 °F,58 °%,NE,9 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,02:00 AM,50 °F,37 °F,62 °%,NE,14 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,02:30 AM,50 °F,37 °F,62 °%,NNE,10 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,03:00 AM,50 °F,37 °F,62 °%,NNE,10 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,03:30 AM,50 °F,37 °F,62 °%,NNE,8 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,04:00 AM,50 °F,37 °F,62 °%,NNE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,04:30 AM,50 °F,37 °F,62 °%,N,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,05:00 AM,50 °F,37 °F,62 °%,N,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,05:30 AM,50 °F,37 °F,62 °%,NNE,8 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,06:00 AM,50 °F,37 °F,62 °%,N,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,06:30 AM,50 °F,37 °F,62 °%,N,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,07:00 AM,50 °F,37 °F,62 °%,NE,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,07:30 AM,50 °F,39 °F,66 °%,N,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,08:00 AM,50 °F,39 °F,66 °%,N,6 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,08:30 AM,52 °F,37 °F,58 °%,N,6 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,09:00 AM,52 °F,37 °F,58 °%,NNE,7 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,09:30 AM,52 °F,37 °F,58 °%,NNE,10 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,10:00 AM,54 °F,37 °F,54 °%,NE,9 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+30/01/2018,10:30 AM,,,,,,,,,
+30/01/2018,11:00 AM,54 °F,37 °F,54 °%,NE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,11:30 AM,54 °F,39 °F,58 °%,NE,8 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+30/01/2018,12:00 PM,54 °F,39 °F,58 °%,ENE,8 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+30/01/2018,12:30 PM,54 °F,39 °F,58 °%,NE,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+30/01/2018,01:00 PM,54 °F,39 °F,58 °%,NNE,6 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+30/01/2018,01:30 PM,55 °F,39 °F,54 °%,NNE,7 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+30/01/2018,02:00 PM,55 °F,39 °F,54 °%,NNE,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+30/01/2018,02:30 PM,55 °F,39 °F,54 °%,ENE,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+30/01/2018,03:00 PM,55 °F,39 °F,54 °%,NE,8 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+30/01/2018,03:30 PM,55 °F,39 °F,54 °%,NE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+30/01/2018,04:00 PM,54 °F,39 °F,58 °%,NE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+30/01/2018,04:30 PM,54 °F,39 °F,58 °%,NE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+30/01/2018,05:00 PM,54 °F,39 °F,58 °%,NE,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+30/01/2018,05:30 PM,54 °F,39 °F,58 °%,NNE,5 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy
+30/01/2018,06:00 PM,54 °F,39 °F,58 °%,NNE,3 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+30/01/2018,06:30 PM,54 °F,41 °F,62 °%,N,3 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy
+30/01/2018,07:00 PM,54 °F,39 °F,58 °%,NNE,5 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+30/01/2018,07:30 PM,54 °F,41 °F,62 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy
+30/01/2018,08:00 PM,,,,,,,,,
+30/01/2018,08:30 PM,54 °F,41 °F,62 °%,NE,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+30/01/2018,09:00 PM,52 °F,41 °F,67 °%,NE,5 °mph,0 °mph,30.07 °in,0.0 °in,Mostly Cloudy
+30/01/2018,09:30 PM,52 °F,41 °F,67 °%,NNE,7 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy
+30/01/2018,10:00 PM,50 °F,41 °F,71 °%,NE,8 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+30/01/2018,10:30 PM,52 °F,41 °F,67 °%,NNE,8 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+30/01/2018,11:00 PM,52 °F,41 °F,67 °%,NE,8 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+30/01/2018,11:30 PM,52 °F,41 °F,67 °%,NE,8 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+31/01/2018,12:00 AM,0 °F,0 °F,0 °%,NE,9 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy
+31/01/2018,12:30 AM,50 °F,41 °F,71 °%,NE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,01:00 AM,50 °F,41 °F,71 °%,NNE,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,01:30 AM,48 °F,41 °F,76 °%,N,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,02:00 AM,48 °F,41 °F,76 °%,N,8 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,02:30 AM,50 °F,41 °F,71 °%,N,9 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,03:00 AM,50 °F,41 °F,71 °%,N,8 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,03:30 AM,50 °F,41 °F,71 °%,N,12 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,04:00 AM,50 °F,41 °F,71 °%,N,7 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy
+31/01/2018,04:30 AM,50 °F,41 °F,71 °%,N,12 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+31/01/2018,05:00 AM,50 °F,41 °F,71 °%,N,12 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+31/01/2018,05:30 AM,50 °F,41 °F,71 °%,N,10 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy
+31/01/2018,06:00 AM,50 °F,41 °F,71 °%,N,10 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy
+31/01/2018,06:30 AM,50 °F,41 °F,71 °%,N,12 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+31/01/2018,07:00 AM,50 °F,39 °F,66 °%,N,12 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+31/01/2018,07:30 AM,52 °F,41 °F,67 °%,N,10 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy
+31/01/2018,08:00 AM,52 °F,41 °F,67 °%,N,7 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+31/01/2018,08:30 AM,52 °F,41 °F,67 °%,N,6 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+31/01/2018,09:00 AM,52 °F,41 °F,67 °%,N,8 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+31/01/2018,09:30 AM,54 °F,41 °F,62 °%,N,9 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+31/01/2018,10:00 AM,54 °F,41 °F,62 °%,N,10 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+31/01/2018,10:30 AM,54 °F,41 °F,62 °%,N,9 °mph,0 °mph,30.34 °in,0.0 °in,Mostly Cloudy
+31/01/2018,11:00 AM,54 °F,41 °F,62 °%,N,8 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+31/01/2018,11:30 AM,55 °F,41 °F,58 °%,N,9 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy
+31/01/2018,12:00 PM,55 °F,41 °F,58 °%,N,9 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,12:30 PM,57 °F,41 °F,55 °%,N,10 °mph,0 °mph,30.28 °in,0.0 °in,Mostly Cloudy
+31/01/2018,01:00 PM,,,,,,,,,
+31/01/2018,01:30 PM,57 °F,41 °F,55 °%,N,10 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+31/01/2018,02:00 PM,57 °F,41 °F,55 °%,N,12 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+31/01/2018,02:30 PM,57 °F,41 °F,55 °%,N,12 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,03:00 PM,57 °F,41 °F,55 °%,NNW,12 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,03:30 PM,57 °F,41 °F,55 °%,NNW,10 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,04:00 PM,57 °F,41 °F,55 °%,NNW,10 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,04:30 PM,57 °F,39 °F,51 °%,NNW,10 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,05:00 PM,57 °F,41 °F,55 °%,N,8 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,05:30 PM,55 °F,41 °F,58 °%,N,8 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,06:00 PM,55 °F,41 °F,58 °%,NNW,7 °mph,0 °mph,30.19 °in,0.0 °in,Fair
+31/01/2018,06:30 PM,55 °F,41 °F,58 °%,NNW,6 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+31/01/2018,07:00 PM,55 °F,41 °F,58 °%,N,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair
+31/01/2018,07:30 PM,,,,,,,,,
+31/01/2018,08:00 PM,,,,,,,,,
+31/01/2018,08:30 PM,,,,,,,,,
+31/01/2018,09:00 PM,55 °F,41 °F,58 °%,NW,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,09:30 PM,55 °F,39 °F,54 °%,NW,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,10:00 PM,55 °F,39 °F,54 °%,NW,3 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,10:30 PM,55 °F,39 °F,54 °%,VAR,1 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,11:00 PM,55 °F,39 °F,54 °%,NE,3 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+31/01/2018,11:30 PM,54 °F,41 °F,62 °%,NE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair

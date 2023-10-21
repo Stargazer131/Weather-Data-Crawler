@@ -1,0 +1,1345 @@
+date,time,temperature,dewpoint,humidity,wind,wind speed,wind gust,pressure,precip,condition
+01/02/2023,12:00 AM,61 °F,57 °F,88 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+01/02/2023,12:30 AM,61 °F,57 °F,88 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+01/02/2023,01:00 AM,61 °F,57 °F,88 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+01/02/2023,01:30 AM,61 °F,57 °F,88 °%,ESE,6 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+01/02/2023,02:00 AM,59 °F,55 °F,88 °%,E,5 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+01/02/2023,02:30 AM,59 °F,57 °F,94 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,03:00 AM,59 °F,57 °F,94 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,03:30 AM,59 °F,57 °F,94 °%,E,6 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,04:00 AM,59 °F,57 °F,94 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,04:30 AM,57 °F,57 °F,100 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,05:00 AM,59 °F,57 °F,94 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+01/02/2023,05:30 AM,59 °F,57 °F,94 °%,E,5 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+01/02/2023,06:00 AM,57 °F,57 °F,100 °%,E,5 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+01/02/2023,06:30 AM,59 °F,57 °F,94 °%,ENE,2 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+01/02/2023,07:00 AM,59 °F,59 °F,100 °%,VAR,2 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+01/02/2023,07:30 AM,59 °F,57 °F,94 °%,NW,2 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+01/02/2023,08:00 AM,61 °F,57 °F,88 °%,SW,5 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+01/02/2023,08:30 AM,61 °F,57 °F,88 °%,SW,3 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+01/02/2023,09:00 AM,61 °F,57 °F,88 °%,SW,3 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+01/02/2023,09:30 AM,63 °F,57 °F,82 °%,WSW,3 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+01/02/2023,10:00 AM,66 °F,57 °F,73 °%,VAR,2 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+01/02/2023,10:30 AM,66 °F,57 °F,73 °%,SE,5 °mph,0 °mph,29.93 °in,0.0 °in,Haze
+01/02/2023,11:00 AM,66 °F,55 °F,68 °%,VAR,3 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy
+01/02/2023,11:30 AM,68 °F,57 °F,68 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+01/02/2023,12:00 PM,68 °F,57 °F,68 °%,S,5 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,12:30 PM,70 °F,57 °F,64 °%,VAR,3 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+01/02/2023,01:00 PM,70 °F,57 °F,64 °%,VAR,5 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+01/02/2023,01:30 PM,70 °F,57 °F,64 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Haze
+01/02/2023,02:00 PM,70 °F,59 °F,68 °%,ENE,9 °mph,0 °mph,29.81 °in,0.0 °in,Haze
+01/02/2023,02:30 PM,72 °F,59 °F,64 °%,E,8 °mph,0 °mph,29.81 °in,0.0 °in,Haze
+01/02/2023,03:00 PM,72 °F,59 °F,64 °%,E,8 °mph,0 °mph,29.81 °in,0.0 °in,Haze
+01/02/2023,03:30 PM,72 °F,59 °F,64 °%,E,8 °mph,0 °mph,29.81 °in,0.0 °in,Haze
+01/02/2023,04:00 PM,72 °F,61 °F,69 °%,E,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+01/02/2023,04:30 PM,73 °F,59 °F,61 °%,E,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+01/02/2023,05:00 PM,72 °F,59 °F,64 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+01/02/2023,05:30 PM,72 °F,61 °F,69 °%,ESE,10 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+01/02/2023,06:00 PM,72 °F,61 °F,69 °%,ESE,10 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+01/02/2023,06:30 PM,70 °F,61 °F,73 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+01/02/2023,07:00 PM,70 °F,63 °F,78 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+01/02/2023,07:30 PM,70 °F,63 °F,78 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+01/02/2023,08:00 PM,70 °F,63 °F,78 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+01/02/2023,08:30 PM,70 °F,63 °F,78 °%,SE,9 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+01/02/2023,09:00 PM,70 °F,63 °F,78 °%,SE,8 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,09:30 PM,70 °F,63 °F,78 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,10:00 PM,68 °F,63 °F,83 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,10:30 PM,68 °F,63 °F,83 °%,E,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,11:00 PM,68 °F,63 °F,83 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+01/02/2023,11:30 PM,68 °F,63 °F,83 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+02/02/2023,12:00 AM,68 °F,63 °F,83 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+02/02/2023,12:30 AM,68 °F,63 °F,83 °%,SE,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+02/02/2023,01:00 AM,68 °F,63 °F,83 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,01:30 AM,68 °F,63 °F,83 °%,ESE,3 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,02:00 AM,68 °F,63 °F,83 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,02:30 AM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,03:00 AM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,03:30 AM,66 °F,63 °F,88 °%,N,1 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,04:00 AM,66 °F,63 °F,88 °%,VAR,1 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+02/02/2023,04:30 AM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+02/02/2023,05:00 AM,68 °F,63 °F,83 °%,VAR,1 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+02/02/2023,05:30 AM,68 °F,63 °F,83 °%,VAR,2 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+02/02/2023,06:00 AM,66 °F,64 °F,94 °%,VAR,1 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+02/02/2023,06:30 AM,66 °F,64 °F,94 °%,CALM,0 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+02/02/2023,07:00 AM,,,,,,,,,
+02/02/2023,07:30 AM,,,,,,,,,
+02/02/2023,08:00 AM,,,,,,,,,
+02/02/2023,08:30 AM,,,,,,,,,
+02/02/2023,09:00 AM,68 °F,64 °F,88 °%,WNW,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,09:30 AM,68 °F,64 °F,88 °%,NW,3 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+02/02/2023,10:00 AM,68 °F,64 °F,88 °%,WNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+02/02/2023,10:30 AM,70 °F,64 °F,83 °%,NW,6 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+02/02/2023,11:00 AM,70 °F,64 °F,83 °%,NW,6 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+02/02/2023,11:30 AM,70 °F,64 °F,83 °%,NW,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,12:00 PM,72 °F,64 °F,78 °%,WNW,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,12:30 PM,72 °F,64 °F,78 °%,WNW,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+02/02/2023,01:00 PM,72 °F,64 °F,78 °%,NW,3 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+02/02/2023,01:30 PM,72 °F,64 °F,78 °%,VAR,2 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+02/02/2023,02:00 PM,72 °F,64 °F,78 °%,VAR,1 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,02:30 PM,72 °F,64 °F,78 °%,VAR,2 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,03:00 PM,73 °F,64 °F,73 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,03:30 PM,73 °F,64 °F,73 °%,VAR,2 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,04:00 PM,73 °F,64 °F,73 °%,SSE,5 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,04:30 PM,73 °F,64 °F,73 °%,ESE,6 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,05:00 PM,72 °F,64 °F,78 °%,SE,6 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,05:30 PM,72 °F,64 °F,78 °%,S,6 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+02/02/2023,06:00 PM,72 °F,66 °F,83 °%,S,6 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+02/02/2023,06:30 PM,72 °F,66 °F,83 °%,S,6 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+02/02/2023,07:00 PM,70 °F,66 °F,88 °%,S,3 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+02/02/2023,07:30 PM,70 °F,66 °F,88 °%,SSE,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+02/02/2023,08:00 PM,70 °F,66 °F,88 °%,SE,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+02/02/2023,08:30 PM,70 °F,66 °F,88 °%,VAR,1 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+02/02/2023,09:00 PM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,09:30 PM,70 °F,66 °F,88 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,10:00 PM,70 °F,66 °F,88 °%,SW,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,10:30 PM,70 °F,68 °F,94 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,11:00 PM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+02/02/2023,11:30 PM,70 °F,66 °F,88 °%,S,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+03/02/2023,12:00 AM,70 °F,68 °F,94 °%,S,3 °mph,0 °mph,29.96 °in,0.0 °in,Light Rain
+03/02/2023,12:30 AM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+03/02/2023,01:00 AM,70 °F,66 °F,88 °%,S,2 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+03/02/2023,01:30 AM,70 °F,66 °F,88 °%,VAR,2 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+03/02/2023,02:00 AM,70 °F,66 °F,88 °%,SW,3 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,02:30 AM,68 °F,66 °F,94 °%,WNW,2 °mph,0 °mph,29.93 °in,0.0 °in,Drizzle
+03/02/2023,03:00 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.93 °in,0.0 °in,Drizzle
+03/02/2023,03:30 AM,68 °F,68 °F,100 °%,NW,3 °mph,0 °mph,29.93 °in,0.0 °in,Drizzle
+03/02/2023,04:00 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+03/02/2023,04:30 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+03/02/2023,05:00 AM,68 °F,68 °F,100 °%,VAR,2 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+03/02/2023,05:30 AM,68 °F,68 °F,100 °%,SSW,3 °mph,0 °mph,29.96 °in,0.0 °in,Light Drizzle
+03/02/2023,06:00 AM,68 °F,68 °F,100 °%,SSW,3 °mph,0 °mph,29.96 °in,0.0 °in,Drizzle
+03/02/2023,06:30 AM,68 °F,66 °F,94 °%,WSW,3 °mph,0 °mph,29.96 °in,0.0 °in,Drizzle
+03/02/2023,07:00 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,29.99 °in,0.0 °in,Drizzle
+03/02/2023,07:30 AM,68 °F,66 °F,94 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Drizzle
+03/02/2023,08:00 AM,68 °F,68 °F,100 °%,SW,3 °mph,0 °mph,29.99 °in,0.0 °in,Light Drizzle
+03/02/2023,08:30 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,30.02 °in,0.0 °in,Drizzle
+03/02/2023,09:00 AM,68 °F,68 °F,100 °%,WNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Drizzle
+03/02/2023,09:30 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,30.02 °in,0.0 °in,Drizzle
+03/02/2023,10:00 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,30.02 °in,0.0 °in,Drizzle
+03/02/2023,10:30 AM,68 °F,68 °F,100 °%,W,3 °mph,0 °mph,30.02 °in,0.0 °in,Drizzle
+03/02/2023,11:00 AM,68 °F,68 °F,100 °%,WNW,3 °mph,0 °mph,29.99 °in,0.0 °in,Drizzle
+03/02/2023,11:30 AM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.99 °in,0.0 °in,Light Rain
+03/02/2023,12:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.99 °in,0.0 °in,Light Rain
+03/02/2023,12:30 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.96 °in,0.0 °in,Light Drizzle
+03/02/2023,01:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+03/02/2023,01:30 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,02:00 PM,72 °F,68 °F,88 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+03/02/2023,02:30 PM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+03/02/2023,03:00 PM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+03/02/2023,03:30 PM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+03/02/2023,04:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+03/02/2023,04:30 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+03/02/2023,05:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+03/02/2023,05:30 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+03/02/2023,06:00 PM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+03/02/2023,06:30 PM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+03/02/2023,07:00 PM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+03/02/2023,07:30 PM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+03/02/2023,08:00 PM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,08:30 PM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,09:00 PM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+03/02/2023,09:30 PM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.96 °in,0.0 °in,Drizzle
+03/02/2023,10:00 PM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+03/02/2023,10:30 PM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,11:00 PM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+03/02/2023,11:30 PM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+04/02/2023,12:00 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+04/02/2023,12:30 AM,,,,,,,,,
+04/02/2023,01:00 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+04/02/2023,01:30 AM,68 °F,66 °F,94 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+04/02/2023,02:00 AM,68 °F,66 °F,94 °%,SSE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+04/02/2023,02:30 AM,66 °F,66 °F,100 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+04/02/2023,03:00 AM,66 °F,66 °F,100 °%,VAR,2 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,03:30 AM,66 °F,66 °F,100 °%,SE,3 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,04:00 AM,66 °F,66 °F,100 °%,SE,5 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,04:30 AM,66 °F,66 °F,100 °%,ESE,5 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+04/02/2023,05:00 AM,66 °F,66 °F,100 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,05:30 AM,66 °F,66 °F,100 °%,ESE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,06:00 AM,66 °F,66 °F,100 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+04/02/2023,06:30 AM,66 °F,66 °F,100 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+04/02/2023,07:00 AM,66 °F,66 °F,100 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+04/02/2023,07:30 AM,66 °F,66 °F,100 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+04/02/2023,08:00 AM,66 °F,66 °F,100 °%,SE,6 °mph,0 °mph,29.93 °in,0.0 °in,Drizzle
+04/02/2023,08:30 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+04/02/2023,09:00 AM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+04/02/2023,09:30 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.96 °in,0.0 °in,Light Drizzle
+04/02/2023,10:00 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.96 °in,0.0 °in,Light Drizzle
+04/02/2023,10:30 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+04/02/2023,11:00 AM,68 °F,66 °F,94 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+04/02/2023,11:30 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+04/02/2023,12:00 PM,70 °F,66 °F,88 °%,SSE,3 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+04/02/2023,12:30 PM,70 °F,66 °F,88 °%,SSE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+04/02/2023,01:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,01:30 PM,72 °F,68 °F,88 °%,SSE,8 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+04/02/2023,02:00 PM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+04/02/2023,02:30 PM,72 °F,68 °F,88 °%,SSE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,03:00 PM,72 °F,68 °F,88 °%,SSE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,03:30 PM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,04:00 PM,72 °F,68 °F,88 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,04:30 PM,72 °F,68 °F,88 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,05:00 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,05:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,06:00 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,06:30 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+04/02/2023,07:00 PM,72 °F,68 °F,88 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+04/02/2023,07:30 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+04/02/2023,08:00 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+04/02/2023,08:30 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,09:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,09:30 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,10:00 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,10:30 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,11:00 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+04/02/2023,11:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+05/02/2023,12:00 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+05/02/2023,12:30 AM,70 °F,68 °F,94 °%,SSE,8 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+05/02/2023,01:00 AM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+05/02/2023,01:30 AM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+05/02/2023,02:00 AM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+05/02/2023,02:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+05/02/2023,03:00 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+05/02/2023,03:30 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+05/02/2023,04:00 AM,68 °F,68 °F,100 °%,SE,6 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+05/02/2023,04:30 AM,68 °F,68 °F,100 °%,SE,6 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+05/02/2023,05:00 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+05/02/2023,05:30 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+05/02/2023,06:00 AM,68 °F,68 °F,100 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+05/02/2023,06:30 AM,68 °F,68 °F,100 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+05/02/2023,07:00 AM,68 °F,66 °F,94 °%,ESE,7 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+05/02/2023,07:30 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+05/02/2023,08:00 AM,68 °F,68 °F,100 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+05/02/2023,08:30 AM,68 °F,68 °F,100 °%,SSE,7 °mph,0 °mph,29.90 °in,0.0 °in,Rain
+05/02/2023,09:00 AM,68 °F,68 °F,100 °%,S,6 °mph,0 °mph,29.90 °in,0.0 °in,Rain
+05/02/2023,09:30 AM,68 °F,68 °F,100 °%,S,7 °mph,0 °mph,29.90 °in,0.0 °in,Rain
+05/02/2023,10:00 AM,68 °F,68 °F,100 °%,SSE,7 °mph,0 °mph,29.90 °in,0.0 °in,T-Storm
+05/02/2023,10:30 AM,70 °F,68 °F,94 °%,VAR,3 °mph,0 °mph,29.90 °in,0.0 °in,Rain
+05/02/2023,11:00 AM,70 °F,68 °F,94 °%,ESE,3 °mph,0 °mph,29.90 °in,0.0 °in,Fair
+05/02/2023,11:30 AM,72 °F,68 °F,88 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+05/02/2023,12:00 PM,73 °F,70 °F,88 °%,ESE,10 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+05/02/2023,12:30 PM,72 °F,68 °F,88 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+05/02/2023,01:00 PM,73 °F,68 °F,83 °%,ESE,12 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+05/02/2023,01:30 PM,73 °F,68 °F,83 °%,ESE,10 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+05/02/2023,02:00 PM,72 °F,68 °F,88 °%,ENE,8 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+05/02/2023,02:30 PM,70 °F,66 °F,88 °%,ENE,9 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+05/02/2023,03:00 PM,70 °F,66 °F,88 °%,ENE,9 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+05/02/2023,03:30 PM,70 °F,66 °F,88 °%,ENE,8 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+05/02/2023,04:00 PM,70 °F,68 °F,94 °%,ENE,7 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+05/02/2023,04:30 PM,70 °F,68 °F,94 °%,E,8 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+05/02/2023,05:00 PM,70 °F,68 °F,94 °%,ESE,12 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+05/02/2023,05:30 PM,70 °F,68 °F,94 °%,ESE,12 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+05/02/2023,06:00 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+05/02/2023,06:30 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+05/02/2023,07:00 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+05/02/2023,07:30 PM,70 °F,68 °F,94 °%,E,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+05/02/2023,08:00 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+05/02/2023,08:30 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+05/02/2023,09:00 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+05/02/2023,09:30 PM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+05/02/2023,10:00 PM,68 °F,66 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+05/02/2023,10:30 PM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+05/02/2023,11:00 PM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+05/02/2023,11:30 PM,68 °F,66 °F,94 °%,E,3 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+06/02/2023,12:00 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,12:30 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,01:00 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,01:30 AM,68 °F,66 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,02:00 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,02:30 AM,68 °F,66 °F,94 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,03:00 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,03:30 AM,68 °F,66 °F,94 °%,ESE,6 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+06/02/2023,04:00 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+06/02/2023,04:30 AM,68 °F,66 °F,94 °%,ESE,7 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+06/02/2023,05:00 AM,68 °F,66 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+06/02/2023,05:30 AM,68 °F,64 °F,88 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+06/02/2023,06:00 AM,68 °F,66 °F,94 °%,E,2 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+06/02/2023,06:30 AM,68 °F,66 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+06/02/2023,07:00 AM,68 °F,66 °F,94 °%,ESE,3 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+06/02/2023,07:30 AM,68 °F,68 °F,100 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+06/02/2023,08:00 AM,68 °F,68 °F,100 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+06/02/2023,08:30 AM,68 °F,68 °F,100 °%,SSE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+06/02/2023,09:00 AM,68 °F,68 °F,100 °%,SSE,5 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+06/02/2023,09:30 AM,68 °F,68 °F,100 °%,SSE,6 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+06/02/2023,10:00 AM,68 °F,68 °F,100 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+06/02/2023,10:30 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+06/02/2023,11:00 AM,68 °F,68 °F,100 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+06/02/2023,11:30 AM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+06/02/2023,12:00 PM,68 °F,66 °F,94 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+06/02/2023,12:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+06/02/2023,01:00 PM,70 °F,66 °F,88 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+06/02/2023,01:30 PM,70 °F,66 °F,88 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+06/02/2023,02:00 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+06/02/2023,02:30 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+06/02/2023,03:00 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+06/02/2023,03:30 PM,70 °F,68 °F,94 °%,ESE,9 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+06/02/2023,04:00 PM,70 °F,68 °F,94 °%,ESE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+06/02/2023,04:30 PM,70 °F,68 °F,94 °%,SE,14 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+06/02/2023,05:00 PM,70 °F,66 °F,88 °%,SE,15 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+06/02/2023,05:30 PM,70 °F,68 °F,94 °%,SE,12 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+06/02/2023,06:00 PM,70 °F,68 °F,94 °%,SE,15 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+06/02/2023,06:30 PM,70 °F,68 °F,94 °%,SE,13 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+06/02/2023,07:00 PM,70 °F,68 °F,94 °%,SE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+06/02/2023,07:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+06/02/2023,08:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+06/02/2023,08:30 PM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+06/02/2023,09:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+06/02/2023,09:30 PM,70 °F,68 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+06/02/2023,10:00 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+06/02/2023,10:30 PM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+06/02/2023,11:00 PM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+06/02/2023,11:30 PM,68 °F,68 °F,100 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,12:00 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,12:30 AM,68 °F,68 °F,100 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,01:00 AM,68 °F,68 °F,100 °%,ESE,6 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,01:30 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,02:00 AM,68 °F,68 °F,100 °%,ESE,5 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+07/02/2023,02:30 AM,68 °F,68 °F,100 °%,E,3 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,03:00 AM,68 °F,68 °F,100 °%,E,5 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,03:30 AM,68 °F,68 °F,100 °%,E,6 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,04:00 AM,68 °F,68 °F,100 °%,E,5 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,04:30 AM,68 °F,68 °F,100 °%,ESE,5 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,05:00 AM,68 °F,68 °F,100 °%,E,3 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,05:30 AM,68 °F,68 °F,100 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,06:00 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+07/02/2023,06:30 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+07/02/2023,07:00 AM,68 °F,68 °F,100 °%,ESE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+07/02/2023,07:30 AM,68 °F,68 °F,100 °%,ESE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+07/02/2023,08:00 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+07/02/2023,08:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+07/02/2023,09:00 AM,70 °F,68 °F,94 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+07/02/2023,09:30 AM,68 °F,68 °F,100 °%,ENE,6 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+07/02/2023,10:00 AM,68 °F,68 °F,100 °%,ENE,6 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+07/02/2023,10:30 AM,68 °F,66 °F,94 °%,ENE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+07/02/2023,11:00 AM,70 °F,68 °F,94 °%,ENE,7 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+07/02/2023,11:30 AM,70 °F,66 °F,88 °%,ENE,3 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+07/02/2023,12:00 PM,70 °F,68 °F,94 °%,VAR,2 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+07/02/2023,12:30 PM,70 °F,68 °F,94 °%,NE,5 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+07/02/2023,01:00 PM,70 °F,68 °F,94 °%,ENE,3 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+07/02/2023,01:30 PM,70 °F,68 °F,94 °%,NNE,3 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,02:00 PM,70 °F,70 °F,100 °%,ENE,3 °mph,0 °mph,29.81 °in,0.0 °in,Light Rain
+07/02/2023,02:30 PM,70 °F,70 °F,100 °%,E,5 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,03:00 PM,70 °F,70 °F,100 °%,E,5 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+07/02/2023,03:30 PM,72 °F,70 °F,94 °%,ESE,5 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+07/02/2023,04:00 PM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+07/02/2023,04:30 PM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+07/02/2023,05:00 PM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+07/02/2023,05:30 PM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+07/02/2023,06:00 PM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+07/02/2023,06:30 PM,72 °F,70 °F,94 °%,SE,6 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,07:00 PM,70 °F,70 °F,100 °%,SSE,7 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,07:30 PM,70 °F,70 °F,100 °%,SE,7 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+07/02/2023,08:00 PM,70 °F,70 °F,100 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,08:30 PM,70 °F,70 °F,100 °%,SE,5 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,09:00 PM,70 °F,70 °F,100 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,09:30 PM,70 °F,70 °F,100 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,10:00 PM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+07/02/2023,10:30 PM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+07/02/2023,11:00 PM,70 °F,68 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+07/02/2023,11:30 PM,70 °F,68 °F,94 °%,ESE,10 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,12:00 AM,70 °F,68 °F,94 °%,SE,12 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,12:30 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+08/02/2023,01:00 AM,70 °F,68 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,01:30 AM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,02:00 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,02:30 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,03:00 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,03:30 AM,70 °F,68 °F,94 °%,SSE,3 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,04:00 AM,70 °F,68 °F,94 °%,ESE,2 °mph,0 °mph,29.84 °in,0.0 °in,Drizzle
+08/02/2023,04:30 AM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+08/02/2023,05:00 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+08/02/2023,05:30 AM,70 °F,68 °F,94 °%,ESE,5 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,06:00 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,06:30 AM,70 °F,68 °F,94 °%,SSE,3 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+08/02/2023,07:00 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+08/02/2023,07:30 AM,70 °F,68 °F,94 °%,SSE,3 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+08/02/2023,08:00 AM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+08/02/2023,08:30 AM,70 °F,68 °F,94 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+08/02/2023,09:00 AM,70 °F,70 °F,100 °%,SSE,5 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+08/02/2023,09:30 AM,70 °F,68 °F,94 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+08/02/2023,10:00 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+08/02/2023,10:30 AM,70 °F,68 °F,94 °%,SSE,6 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+08/02/2023,11:00 AM,70 °F,70 °F,100 °%,SSE,6 °mph,0 °mph,29.90 °in,0.0 °in,Drizzle
+08/02/2023,11:30 AM,70 °F,68 °F,94 °%,SSE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+08/02/2023,12:00 PM,70 °F,68 °F,94 °%,SSE,5 °mph,0 °mph,29.87 °in,0.0 °in,Drizzle
+08/02/2023,12:30 PM,70 °F,68 °F,94 °%,SSE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+08/02/2023,01:00 PM,70 °F,70 °F,100 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+08/02/2023,01:30 PM,72 °F,70 °F,94 °%,ESE,6 °mph,0 °mph,29.81 °in,0.0 °in,Light Rain
+08/02/2023,02:00 PM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+08/02/2023,02:30 PM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+08/02/2023,03:00 PM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+08/02/2023,03:30 PM,,,,,,,,,
+08/02/2023,04:00 PM,72 °F,70 °F,94 °%,ESE,14 °mph,0 °mph,29.75 °in,0.0 °in,Light Drizzle
+08/02/2023,04:30 PM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Light Rain
+08/02/2023,05:00 PM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+08/02/2023,05:30 PM,70 °F,70 °F,100 °%,ESE,10 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+08/02/2023,06:00 PM,70 °F,70 °F,100 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+08/02/2023,06:30 PM,70 °F,70 °F,100 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+08/02/2023,07:00 PM,70 °F,70 °F,100 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Drizzle
+08/02/2023,07:30 PM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+08/02/2023,08:00 PM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Drizzle
+08/02/2023,08:30 PM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,09:00 PM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,09:30 PM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+08/02/2023,10:00 PM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,10:30 PM,70 °F,70 °F,100 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+08/02/2023,11:00 PM,70 °F,70 °F,100 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+08/02/2023,11:30 PM,70 °F,70 °F,100 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,12:00 AM,70 °F,70 °F,100 °%,ESE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,12:30 AM,70 °F,70 °F,100 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,01:00 AM,70 °F,70 °F,100 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,01:30 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+09/02/2023,02:00 AM,70 °F,70 °F,100 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+09/02/2023,02:30 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+09/02/2023,03:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+09/02/2023,03:30 AM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,04:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+09/02/2023,04:30 AM,70 °F,70 °F,100 °%,ESE,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+09/02/2023,05:00 AM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,05:30 AM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+09/02/2023,06:00 AM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+09/02/2023,06:30 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+09/02/2023,07:00 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+09/02/2023,07:30 AM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+09/02/2023,08:00 AM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+09/02/2023,08:30 AM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+09/02/2023,09:00 AM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+09/02/2023,09:30 AM,72 °F,70 °F,94 °%,ESE,6 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+09/02/2023,10:00 AM,72 °F,70 °F,94 °%,E,5 °mph,0 °mph,29.93 °in,0.0 °in,Light Drizzle
+09/02/2023,10:30 AM,72 °F,72 °F,100 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Light Rain
+09/02/2023,11:00 AM,73 °F,72 °F,94 °%,SE,5 °mph,0 °mph,29.90 °in,0.0 °in,Light Drizzle
+09/02/2023,11:30 AM,73 °F,72 °F,94 °%,SSE,7 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+09/02/2023,12:00 PM,73 °F,72 °F,94 °%,SSE,7 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+09/02/2023,12:30 PM,73 °F,72 °F,94 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+09/02/2023,01:00 PM,73 °F,72 °F,94 °%,S,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+09/02/2023,01:30 PM,73 °F,72 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,02:00 PM,73 °F,72 °F,94 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Drizzle
+09/02/2023,02:30 PM,73 °F,72 °F,94 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+09/02/2023,03:00 PM,73 °F,72 °F,94 °%,SE,10 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+09/02/2023,03:30 PM,73 °F,72 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,04:00 PM,75 °F,72 °F,89 °%,SSE,8 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,04:30 PM,75 °F,70 °F,83 °%,SSE,9 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,05:00 PM,75 °F,70 °F,83 °%,SSE,10 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,05:30 PM,73 °F,70 °F,88 °%,SSE,7 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,06:00 PM,73 °F,70 °F,88 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,06:30 PM,73 °F,70 °F,88 °%,SSE,10 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+09/02/2023,07:00 PM,73 °F,70 °F,88 °%,SSE,7 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+09/02/2023,07:30 PM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,08:00 PM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Light Rain
+09/02/2023,08:30 PM,72 °F,70 °F,94 °%,ESE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+09/02/2023,09:00 PM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+09/02/2023,09:30 PM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+09/02/2023,10:00 PM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+09/02/2023,10:30 PM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+09/02/2023,11:00 PM,72 °F,70 °F,94 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+09/02/2023,11:30 PM,72 °F,70 °F,94 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+10/02/2023,12:00 AM,72 °F,70 °F,94 °%,ESE,6 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+10/02/2023,12:30 AM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Drizzle
+10/02/2023,01:00 AM,72 °F,70 °F,94 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Light Rain
+10/02/2023,01:30 AM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,02:00 AM,72 °F,70 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,02:30 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,03:00 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,03:30 AM,72 °F,68 °F,88 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,04:00 AM,72 °F,68 °F,88 °%,SE,3 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,04:30 AM,72 °F,68 °F,88 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+10/02/2023,05:00 AM,70 °F,68 °F,94 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+10/02/2023,05:30 AM,70 °F,68 °F,94 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+10/02/2023,06:00 AM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+10/02/2023,06:30 AM,72 °F,68 °F,88 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+10/02/2023,07:00 AM,72 °F,68 °F,88 °%,SE,9 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+10/02/2023,07:30 AM,72 °F,68 °F,88 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fog
+10/02/2023,08:00 AM,72 °F,68 °F,88 °%,SE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+10/02/2023,08:30 AM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+10/02/2023,09:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+10/02/2023,09:30 AM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+10/02/2023,10:00 AM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.93 °in,0.0 °in,Fog
+10/02/2023,10:30 AM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Fog
+10/02/2023,11:00 AM,73 °F,70 °F,88 °%,SE,9 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+10/02/2023,11:30 AM,73 °F,70 °F,88 °%,SE,9 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+10/02/2023,12:00 PM,75 °F,70 °F,83 °%,SE,12 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+10/02/2023,12:30 PM,73 °F,70 °F,88 °%,SSE,9 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,01:00 PM,75 °F,70 °F,83 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+10/02/2023,01:30 PM,75 °F,70 °F,83 °%,SE,12 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+10/02/2023,02:00 PM,75 °F,70 °F,83 °%,SE,13 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+10/02/2023,02:30 PM,75 °F,70 °F,83 °%,SE,10 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+10/02/2023,03:00 PM,75 °F,70 °F,83 °%,ESE,12 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+10/02/2023,03:30 PM,73 °F,70 °F,88 °%,SE,10 °mph,25 °mph,29.75 °in,0.0 °in,Cloudy
+10/02/2023,04:00 PM,73 °F,70 °F,88 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Light Rain
+10/02/2023,04:30 PM,73 °F,70 °F,88 °%,ESE,12 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+10/02/2023,05:00 PM,73 °F,70 °F,88 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+10/02/2023,05:30 PM,73 °F,70 °F,88 °%,E,9 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+10/02/2023,06:00 PM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+10/02/2023,06:30 PM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+10/02/2023,07:00 PM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+10/02/2023,07:30 PM,73 °F,70 °F,88 °%,ESE,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+10/02/2023,08:00 PM,73 °F,72 °F,94 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+10/02/2023,08:30 PM,72 °F,70 °F,94 °%,E,6 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,09:00 PM,72 °F,70 °F,94 °%,E,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,09:30 PM,72 °F,70 °F,94 °%,E,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,10:00 PM,72 °F,70 °F,94 °%,E,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,10:30 PM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,11:00 PM,72 °F,70 °F,94 °%,ENE,5 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+10/02/2023,11:30 PM,72 °F,70 °F,94 °%,E,7 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+11/02/2023,12:00 AM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+11/02/2023,12:30 AM,72 °F,70 °F,94 °%,E,9 °mph,0 °mph,29.81 °in,0.0 °in,Light Rain
+11/02/2023,01:00 AM,72 °F,70 °F,94 °%,E,7 °mph,0 °mph,29.78 °in,0.0 °in,Light Rain
+11/02/2023,01:30 AM,72 °F,70 °F,94 °%,E,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+11/02/2023,02:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+11/02/2023,02:30 AM,72 °F,70 °F,94 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+11/02/2023,03:00 AM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+11/02/2023,03:30 AM,72 °F,70 °F,94 °%,SE,8 °mph,0 °mph,29.78 °in,0.0 °in,Light Drizzle
+11/02/2023,04:00 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+11/02/2023,04:30 AM,72 °F,70 °F,94 °%,SE,12 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+11/02/2023,05:00 AM,72 °F,70 °F,94 °%,VAR,9 °mph,21 °mph,29.75 °in,0.0 °in,Cloudy
+11/02/2023,05:30 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+11/02/2023,06:00 AM,72 °F,70 °F,94 °%,SE,12 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+11/02/2023,06:30 AM,72 °F,70 °F,94 °%,ESE,10 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+11/02/2023,07:00 AM,72 °F,70 °F,94 °%,ESE,10 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+11/02/2023,07:30 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+11/02/2023,08:00 AM,72 °F,70 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+11/02/2023,08:30 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+11/02/2023,09:00 AM,72 °F,70 °F,94 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+11/02/2023,09:30 AM,73 °F,70 °F,88 °%,SE,12 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+11/02/2023,10:00 AM,73 °F,72 °F,94 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy
+11/02/2023,10:30 AM,73 °F,72 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Cloudy
+11/02/2023,11:00 AM,73 °F,72 °F,94 °%,ESE,10 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+11/02/2023,11:30 AM,73 °F,72 °F,94 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Light Drizzle
+11/02/2023,12:00 PM,73 °F,72 °F,94 °%,SE,12 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy
+11/02/2023,12:30 PM,75 °F,72 °F,89 °%,SE,10 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+11/02/2023,01:00 PM,75 °F,72 °F,89 °%,ESE,10 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,01:30 PM,77 °F,72 °F,83 °%,SE,9 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,02:00 PM,77 °F,72 °F,83 °%,SE,13 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+11/02/2023,02:30 PM,77 °F,72 °F,83 °%,SE,12 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+11/02/2023,03:00 PM,75 °F,72 °F,89 °%,SE,12 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,03:30 PM,77 °F,72 °F,83 °%,SE,13 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,04:00 PM,75 °F,72 °F,89 °%,ESE,12 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,04:30 PM,75 °F,72 °F,89 °%,SE,12 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,05:00 PM,75 °F,70 °F,83 °%,ESE,13 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,05:30 PM,75 °F,70 °F,83 °%,SE,14 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,06:00 PM,75 °F,70 °F,83 °%,SE,13 °mph,0 °mph,29.66 °in,0.0 °in,Cloudy
+11/02/2023,06:30 PM,,,,,,,,,
+11/02/2023,07:00 PM,75 °F,70 °F,83 °%,SE,14 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+11/02/2023,07:30 PM,75 °F,70 °F,83 °%,SE,10 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+11/02/2023,08:00 PM,73 °F,70 °F,88 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,08:30 PM,73 °F,70 °F,88 °%,SE,12 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,09:00 PM,73 °F,70 °F,88 °%,SE,12 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,09:30 PM,73 °F,70 °F,88 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+11/02/2023,10:00 PM,73 °F,70 °F,88 °%,SE,14 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+11/02/2023,10:30 PM,73 °F,70 °F,88 °%,SE,14 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+11/02/2023,11:00 PM,73 °F,70 °F,88 °%,SE,13 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+11/02/2023,11:30 PM,73 °F,70 °F,88 °%,SE,12 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,12:00 AM,73 °F,72 °F,94 °%,SE,9 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,12:30 AM,73 °F,72 °F,94 °%,ESE,9 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,01:00 AM,73 °F,70 °F,88 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,01:30 AM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+12/02/2023,02:00 AM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+12/02/2023,02:30 AM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+12/02/2023,03:00 AM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+12/02/2023,03:30 AM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+12/02/2023,04:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+12/02/2023,04:30 AM,73 °F,70 °F,88 °%,ESE,6 °mph,0 °mph,29.69 °in,0.0 °in,Fog
+12/02/2023,05:00 AM,72 °F,70 °F,94 °%,ESE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+12/02/2023,05:30 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+12/02/2023,06:00 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+12/02/2023,06:30 AM,72 °F,70 °F,94 °%,ESE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+12/02/2023,07:00 AM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+12/02/2023,07:30 AM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+12/02/2023,08:00 AM,73 °F,70 °F,88 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+12/02/2023,08:30 AM,73 °F,70 °F,88 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+12/02/2023,09:00 AM,75 °F,70 °F,83 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+12/02/2023,09:30 AM,75 °F,70 °F,83 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+12/02/2023,10:00 AM,77 °F,70 °F,78 °%,ESE,9 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+12/02/2023,10:30 AM,77 °F,70 °F,78 °%,ESE,10 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy
+12/02/2023,11:00 AM,79 °F,70 °F,74 °%,ESE,8 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+12/02/2023,11:30 AM,79 °F,70 °F,74 °%,ESE,9 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+12/02/2023,12:00 PM,79 °F,70 °F,74 °%,ESE,10 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy
+12/02/2023,12:30 PM,81 °F,70 °F,70 °%,ESE,12 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy
+12/02/2023,01:00 PM,81 °F,70 °F,70 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy
+12/02/2023,01:30 PM,82 °F,72 °F,70 °%,ESE,12 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+12/02/2023,02:00 PM,81 °F,72 °F,74 °%,ESE,12 °mph,0 °mph,29.69 °in,0.0 °in,Partly Cloudy
+12/02/2023,02:30 PM,81 °F,70 °F,70 °%,ESE,13 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+12/02/2023,03:00 PM,81 °F,72 °F,74 °%,ESE,14 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+12/02/2023,03:30 PM,81 °F,72 °F,74 °%,ESE,14 °mph,0 °mph,29.66 °in,0.0 °in,Partly Cloudy
+12/02/2023,04:00 PM,79 °F,72 °F,78 °%,ESE,13 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+12/02/2023,04:30 PM,79 °F,72 °F,78 °%,ESE,13 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+12/02/2023,05:00 PM,79 °F,72 °F,78 °%,ESE,12 °mph,0 °mph,29.66 °in,0.0 °in,Mostly Cloudy
+12/02/2023,05:30 PM,77 °F,72 °F,83 °%,ESE,13 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+12/02/2023,06:00 PM,77 °F,72 °F,83 °%,ESE,13 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy
+12/02/2023,06:30 PM,77 °F,72 °F,83 °%,ESE,13 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy
+12/02/2023,07:00 PM,77 °F,72 °F,83 °%,SE,12 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,07:30 PM,75 °F,72 °F,89 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,08:00 PM,75 °F,72 °F,89 °%,SE,10 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,08:30 PM,75 °F,72 °F,89 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Cloudy
+12/02/2023,09:00 PM,75 °F,72 °F,89 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+12/02/2023,09:30 PM,75 °F,72 °F,89 °%,ESE,8 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+12/02/2023,10:00 PM,75 °F,72 °F,89 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+12/02/2023,10:30 PM,75 °F,72 °F,89 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+12/02/2023,11:00 PM,75 °F,72 °F,89 °%,SE,8 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+12/02/2023,11:30 PM,75 °F,72 °F,89 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+13/02/2023,12:00 AM,73 °F,72 °F,94 °%,ESE,8 °mph,0 °mph,29.75 °in,0.0 °in,Cloudy
+13/02/2023,12:30 AM,73 °F,72 °F,94 °%,ESE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,01:00 AM,73 °F,72 °F,94 °%,SE,8 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,01:30 AM,73 °F,72 °F,94 °%,ESE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,02:00 AM,73 °F,72 °F,94 °%,ESE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,02:30 AM,73 °F,72 °F,94 °%,ESE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,03:00 AM,73 °F,72 °F,94 °%,ESE,5 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,03:30 AM,73 °F,72 °F,94 °%,ESE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,04:00 AM,72 °F,72 °F,100 °%,E,5 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,04:30 AM,72 °F,72 °F,100 °%,E,6 °mph,0 °mph,29.72 °in,0.0 °in,Fog
+13/02/2023,05:00 AM,72 °F,72 °F,100 °%,E,3 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+13/02/2023,05:30 AM,72 °F,72 °F,100 °%,ENE,3 °mph,0 °mph,29.75 °in,0.0 °in,Fog
+13/02/2023,06:00 AM,72 °F,72 °F,100 °%,E,5 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+13/02/2023,06:30 AM,72 °F,70 °F,94 °%,E,6 °mph,0 °mph,29.78 °in,0.0 °in,Fog
+13/02/2023,07:00 AM,72 °F,70 °F,94 °%,VAR,2 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+13/02/2023,07:30 AM,72 °F,72 °F,100 °%,NE,3 °mph,0 °mph,29.81 °in,0.0 °in,Fog
+13/02/2023,08:00 AM,73 °F,72 °F,94 °%,E,3 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+13/02/2023,08:30 AM,75 °F,72 °F,89 °%,E,5 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+13/02/2023,09:00 AM,75 °F,72 °F,89 °%,E,3 °mph,0 °mph,29.84 °in,0.0 °in,Fog
+13/02/2023,09:30 AM,77 °F,72 °F,83 °%,ENE,3 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+13/02/2023,10:00 AM,77 °F,70 °F,78 °%,E,5 °mph,0 °mph,29.87 °in,0.0 °in,Partly Cloudy
+13/02/2023,10:30 AM,81 °F,70 °F,70 °%,E,3 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+13/02/2023,11:00 AM,81 °F,70 °F,70 °%,ESE,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy
+13/02/2023,11:30 AM,81 °F,70 °F,70 °%,VAR,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair
+13/02/2023,12:00 PM,82 °F,70 °F,66 °%,SE,5 °mph,0 °mph,29.81 °in,0.0 °in,Fair
+13/02/2023,12:30 PM,84 °F,70 °F,62 °%,E,6 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy
+13/02/2023,01:00 PM,84 °F,70 °F,62 °%,VAR,5 °mph,0 °mph,29.78 °in,0.0 °in,Fair
+13/02/2023,01:30 PM,84 °F,70 °F,62 °%,E,6 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+13/02/2023,02:00 PM,84 °F,70 °F,62 °%,E,7 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy
+13/02/2023,02:30 PM,84 °F,70 °F,62 °%,E,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+13/02/2023,03:00 PM,84 °F,70 °F,62 °%,E,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+13/02/2023,03:30 PM,84 °F,70 °F,62 °%,E,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+13/02/2023,04:00 PM,82 °F,70 °F,66 °%,ESE,10 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy
+13/02/2023,04:30 PM,82 °F,70 °F,66 °%,ESE,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair
+13/02/2023,05:00 PM,81 °F,70 °F,70 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+13/02/2023,05:30 PM,81 °F,70 °F,70 °%,SE,10 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+13/02/2023,06:00 PM,79 °F,70 °F,74 °%,SE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair
+13/02/2023,06:30 PM,79 °F,72 °F,78 °%,SE,12 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy
+13/02/2023,07:00 PM,77 °F,72 °F,83 °%,SE,13 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy
+13/02/2023,07:30 PM,77 °F,72 °F,83 °%,SE,10 °mph,0 °mph,29.81 °in,0.0 °in,Fair
+13/02/2023,08:00 PM,75 °F,72 °F,89 °%,SE,8 °mph,0 °mph,29.81 °in,0.0 °in,Partly Cloudy
+13/02/2023,08:30 PM,75 °F,72 °F,89 °%,SE,10 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy
+13/02/2023,09:00 PM,75 °F,72 °F,89 °%,SE,9 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy
+13/02/2023,09:30 PM,75 °F,72 °F,89 °%,SE,9 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+13/02/2023,10:00 PM,73 °F,72 °F,94 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Fair
+13/02/2023,10:30 PM,75 °F,72 °F,89 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+13/02/2023,11:00 PM,75 °F,72 °F,89 °%,SE,7 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+13/02/2023,11:30 PM,75 °F,72 °F,89 °%,SSE,7 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+14/02/2023,12:00 AM,75 °F,72 °F,89 °%,SSE,6 °mph,0 °mph,29.87 °in,0.0 °in,Cloudy
+14/02/2023,12:30 AM,73 °F,72 °F,94 °%,ENE,7 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+14/02/2023,01:00 AM,73 °F,70 °F,88 °%,E,8 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+14/02/2023,01:30 AM,72 °F,66 °F,83 °%,E,14 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+14/02/2023,02:00 AM,72 °F,64 °F,78 °%,ENE,13 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+14/02/2023,02:30 AM,70 °F,64 °F,83 °%,ENE,13 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+14/02/2023,03:00 AM,68 °F,63 °F,83 °%,NE,15 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+14/02/2023,03:30 AM,68 °F,61 °F,78 °%,NE,15 °mph,0 °mph,29.90 °in,0.0 °in,Light Rain
+14/02/2023,04:00 AM,66 °F,59 °F,78 °%,NE,17 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+14/02/2023,04:30 AM,66 °F,59 °F,78 °%,NE,16 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy
+14/02/2023,05:00 AM,64 °F,59 °F,83 °%,ENE,15 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+14/02/2023,05:30 AM,64 °F,57 °F,77 °%,NE,16 °mph,0 °mph,29.96 °in,0.0 °in,Light Rain
+14/02/2023,06:00 AM,64 °F,57 °F,77 °%,NE,15 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy
+14/02/2023,06:30 AM,64 °F,57 °F,77 °%,NE,16 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,07:00 AM,64 °F,57 °F,77 °%,NE,15 °mph,0 °mph,30.02 °in,0.0 °in,Light Rain
+14/02/2023,07:30 AM,64 °F,55 °F,73 °%,NE,17 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+14/02/2023,08:00 AM,64 °F,55 °F,73 °%,NE,16 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+14/02/2023,08:30 AM,64 °F,57 °F,77 °%,NE,15 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+14/02/2023,09:00 AM,64 °F,55 °F,73 °%,NE,17 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,09:30 AM,64 °F,54 °F,68 °%,NE,18 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,10:00 AM,64 °F,52 °F,64 °%,NE,17 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,10:30 AM,64 °F,52 °F,64 °%,NE,16 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,11:00 AM,64 °F,52 °F,64 °%,NE,15 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,11:30 AM,64 °F,52 °F,64 °%,NE,13 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,12:00 PM,66 °F,52 °F,60 °%,NE,13 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,12:30 PM,66 °F,50 °F,56 °%,NE,13 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,01:00 PM,,,,,,,,,
+14/02/2023,01:30 PM,66 °F,48 °F,52 °%,NNE,13 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+14/02/2023,02:00 PM,66 °F,50 °F,56 °%,NNE,10 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+14/02/2023,02:30 PM,68 °F,50 °F,52 °%,NNE,9 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+14/02/2023,03:00 PM,68 °F,50 °F,52 °%,NNE,10 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,03:30 PM,68 °F,50 °F,52 °%,N,8 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,04:00 PM,68 °F,50 °F,52 °%,NNE,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,04:30 PM,66 °F,50 °F,56 °%,N,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,05:00 PM,66 °F,52 °F,60 °%,N,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,05:30 PM,66 °F,52 °F,60 °%,N,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,06:00 PM,66 °F,50 °F,56 °%,NNE,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+14/02/2023,06:30 PM,66 °F,50 °F,56 °%,NE,5 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+14/02/2023,07:00 PM,64 °F,54 °F,68 °%,E,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+14/02/2023,07:30 PM,64 °F,54 °F,68 °%,ENE,3 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+14/02/2023,08:00 PM,64 °F,52 °F,64 °%,NE,5 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+14/02/2023,08:30 PM,64 °F,52 °F,64 °%,ENE,5 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,09:00 PM,64 °F,52 °F,64 °%,ENE,7 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,09:30 PM,64 °F,50 °F,59 °%,ENE,7 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+14/02/2023,10:00 PM,64 °F,50 °F,59 °%,ENE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,10:30 PM,63 °F,50 °F,63 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,11:00 PM,63 °F,52 °F,68 °%,ENE,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+14/02/2023,11:30 PM,63 °F,50 °F,63 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,12:00 AM,63 °F,52 °F,68 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,12:30 AM,63 °F,52 °F,68 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,01:00 AM,63 °F,50 °F,63 °%,ENE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,01:30 AM,63 °F,50 °F,63 °%,NE,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,02:00 AM,63 °F,50 °F,63 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,02:30 AM,63 °F,50 °F,63 °%,ENE,5 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,03:00 AM,63 °F,52 °F,68 °%,ENE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,03:30 AM,63 °F,50 °F,63 °%,NE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,04:00 AM,63 °F,48 °F,59 °%,NNE,8 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,04:30 AM,63 °F,48 °F,59 °%,NNE,8 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,05:00 AM,63 °F,50 °F,63 °%,NNE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,05:30 AM,63 °F,48 °F,59 °%,NNE,9 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,06:00 AM,,,,,,,,,
+15/02/2023,06:30 AM,63 °F,48 °F,59 °%,NNE,7 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,07:00 AM,63 °F,48 °F,59 °%,NE,7 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,07:30 AM,63 °F,48 °F,59 °%,NE,7 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,08:00 AM,63 °F,46 °F,55 °%,NNE,8 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,08:30 AM,63 °F,46 °F,55 °%,NE,10 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+15/02/2023,09:00 AM,63 °F,46 °F,55 °%,NE,9 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+15/02/2023,09:30 AM,63 °F,46 °F,55 °%,NE,8 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+15/02/2023,10:00 AM,63 °F,46 °F,55 °%,ENE,12 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+15/02/2023,10:30 AM,63 °F,45 °F,52 °%,NE,10 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+15/02/2023,11:00 AM,61 °F,45 °F,55 °%,NE,12 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+15/02/2023,11:30 AM,63 °F,45 °F,52 °%,NE,10 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+15/02/2023,12:00 PM,63 °F,46 °F,55 °%,NE,9 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,12:30 PM,63 °F,46 °F,55 °%,NE,8 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,01:00 PM,63 °F,46 °F,55 °%,NNE,7 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,01:30 PM,63 °F,46 °F,55 °%,NNE,7 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,02:00 PM,63 °F,48 °F,59 °%,NNE,6 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,02:30 PM,63 °F,48 °F,59 °%,ENE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,03:00 PM,63 °F,48 °F,59 °%,NE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,03:30 PM,63 °F,48 °F,59 °%,ENE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,04:00 PM,63 °F,48 °F,59 °%,ENE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,04:30 PM,63 °F,48 °F,59 °%,E,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,05:00 PM,63 °F,48 °F,59 °%,ENE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+15/02/2023,05:30 PM,63 °F,48 °F,59 °%,ENE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,06:00 PM,63 °F,48 °F,59 °%,ENE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,06:30 PM,63 °F,48 °F,59 °%,E,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+15/02/2023,07:00 PM,63 °F,50 °F,63 °%,ENE,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,07:30 PM,63 °F,50 °F,63 °%,NE,6 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,08:00 PM,63 °F,50 °F,63 °%,NE,5 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+15/02/2023,08:30 PM,63 °F,50 °F,63 °%,NNE,5 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,09:00 PM,63 °F,50 °F,63 °%,NNE,3 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,09:30 PM,63 °F,50 °F,63 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,10:00 PM,63 °F,50 °F,63 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,10:30 PM,63 °F,52 °F,68 °%,NW,3 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,11:00 PM,63 °F,52 °F,68 °%,NNW,2 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+15/02/2023,11:30 PM,61 °F,52 °F,72 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,12:00 AM,61 °F,52 °F,72 °%,NNE,2 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,12:30 AM,61 °F,50 °F,68 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,01:00 AM,61 °F,52 °F,72 °%,VAR,1 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,01:30 AM,61 °F,52 °F,72 °%,VAR,1 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,02:00 AM,61 °F,52 °F,72 °%,ENE,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,02:30 AM,61 °F,52 °F,72 °%,E,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,03:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,03:30 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,04:00 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,04:30 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,05:00 AM,61 °F,54 °F,77 °%,E,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,05:30 AM,61 °F,54 °F,77 °%,NE,5 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,06:00 AM,61 °F,55 °F,82 °%,N,5 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,06:30 AM,61 °F,54 °F,77 °%,N,3 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,07:00 AM,61 °F,54 °F,77 °%,NNE,7 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,07:30 AM,61 °F,52 °F,72 °%,NE,6 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,08:00 AM,61 °F,52 °F,72 °%,NE,7 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+16/02/2023,08:30 AM,61 °F,52 °F,72 °%,NE,5 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+16/02/2023,09:00 AM,63 °F,52 °F,68 °%,NNE,6 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,09:30 AM,63 °F,50 °F,63 °%,NNE,8 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,10:00 AM,63 °F,50 °F,63 °%,NNE,8 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,10:30 AM,63 °F,50 °F,63 °%,NNE,7 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,11:00 AM,63 °F,50 °F,63 °%,N,7 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,11:30 AM,63 °F,48 °F,59 °%,N,7 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy
+16/02/2023,12:00 PM,63 °F,48 °F,59 °%,NNE,6 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+16/02/2023,12:30 PM,63 °F,48 °F,59 °%,ENE,7 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy
+16/02/2023,01:00 PM,63 °F,48 °F,59 °%,NNE,6 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,01:30 PM,63 °F,48 °F,59 °%,NNE,6 °mph,0 °mph,30.20 °in,0.0 °in,Cloudy
+16/02/2023,02:00 PM,64 °F,48 °F,56 °%,NNE,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,02:30 PM,64 °F,48 °F,56 °%,N,5 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,03:00 PM,,,,,,,,,
+16/02/2023,03:30 PM,64 °F,50 °F,59 °%,NE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,04:00 PM,64 °F,50 °F,59 °%,NE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,04:30 PM,63 °F,50 °F,63 °%,NNE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,05:00 PM,64 °F,50 °F,59 °%,NNE,5 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,05:30 PM,63 °F,50 °F,63 °%,N,5 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,06:00 PM,63 °F,50 °F,63 °%,N,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,06:30 PM,63 °F,52 °F,68 °%,N,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,07:00 PM,63 °F,52 °F,68 °%,NNE,5 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,07:30 PM,63 °F,52 °F,68 °%,NE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,08:00 PM,63 °F,54 °F,72 °%,NE,5 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,08:30 PM,63 °F,54 °F,72 °%,ENE,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,09:00 PM,63 °F,54 °F,72 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,09:30 PM,63 °F,54 °F,72 °%,N,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,10:00 PM,63 °F,54 °F,72 °%,NNE,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,10:30 PM,63 °F,54 °F,72 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+16/02/2023,11:00 PM,63 °F,54 °F,72 °%,ENE,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+16/02/2023,11:30 PM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+17/02/2023,12:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+17/02/2023,12:30 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy
+17/02/2023,01:00 AM,61 °F,54 °F,77 °%,VAR,1 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+17/02/2023,01:30 AM,61 °F,54 °F,77 °%,N,2 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+17/02/2023,02:00 AM,61 °F,54 °F,77 °%,VAR,1 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+17/02/2023,02:30 AM,61 °F,54 °F,77 °%,NW,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+17/02/2023,03:00 AM,61 °F,55 °F,82 °%,WNW,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+17/02/2023,03:30 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+17/02/2023,04:00 AM,61 °F,54 °F,77 °%,VAR,1 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+17/02/2023,04:30 AM,61 °F,54 °F,77 °%,WNW,1 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+17/02/2023,05:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+17/02/2023,05:30 AM,61 °F,54 °F,77 °%,NW,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+17/02/2023,06:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+17/02/2023,06:30 AM,61 °F,55 °F,82 °%,NNE,2 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+17/02/2023,07:00 AM,61 °F,54 °F,77 °%,NE,3 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+17/02/2023,07:30 AM,61 °F,55 °F,82 °%,NE,5 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+17/02/2023,08:00 AM,63 °F,55 °F,77 °%,NE,5 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+17/02/2023,08:30 AM,63 °F,55 °F,77 °%,NNE,3 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+17/02/2023,09:00 AM,64 °F,55 °F,73 °%,NNE,5 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+17/02/2023,09:30 AM,63 °F,55 °F,77 °%,NE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+17/02/2023,10:00 AM,64 °F,55 °F,73 °%,NE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+17/02/2023,10:30 AM,64 °F,54 °F,68 °%,ENE,5 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+17/02/2023,11:00 AM,66 °F,55 °F,68 °%,ENE,3 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+17/02/2023,11:30 AM,64 °F,55 °F,73 °%,E,5 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+17/02/2023,12:00 PM,66 °F,55 °F,68 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+17/02/2023,12:30 PM,64 °F,55 °F,73 °%,VAR,2 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+17/02/2023,01:00 PM,,,,,,,,,
+17/02/2023,01:30 PM,66 °F,57 °F,73 °%,VAR,2 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+17/02/2023,02:00 PM,66 °F,57 °F,73 °%,E,3 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,02:30 PM,68 °F,57 °F,68 °%,E,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,03:00 PM,66 °F,57 °F,73 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,03:30 PM,68 °F,57 °F,68 °%,E,5 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,04:00 PM,68 °F,57 °F,68 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,04:30 PM,68 °F,59 °F,73 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,05:00 PM,68 °F,59 °F,73 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,05:30 PM,68 °F,59 °F,73 °%,ENE,5 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,06:00 PM,66 °F,59 °F,78 °%,E,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+17/02/2023,06:30 PM,66 °F,59 °F,78 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+17/02/2023,07:00 PM,66 °F,59 °F,78 °%,NE,3 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,07:30 PM,66 °F,59 °F,78 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,08:00 PM,64 °F,59 °F,83 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,08:30 PM,64 °F,59 °F,83 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,09:00 PM,64 °F,59 °F,83 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+17/02/2023,09:30 PM,64 °F,59 °F,83 °%,E,3 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+17/02/2023,10:00 PM,66 °F,61 °F,83 °%,ESE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+17/02/2023,10:30 PM,66 °F,61 °F,83 °%,SE,8 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+17/02/2023,11:00 PM,66 °F,61 °F,83 °%,SE,6 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+17/02/2023,11:30 PM,66 °F,59 °F,78 °%,SSE,6 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+18/02/2023,12:00 AM,66 °F,59 °F,78 °%,SE,7 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+18/02/2023,12:30 AM,64 °F,59 °F,83 °%,ESE,8 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+18/02/2023,01:00 AM,64 °F,61 °F,88 °%,ESE,6 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+18/02/2023,01:30 AM,64 °F,59 °F,83 °%,ESE,5 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,02:00 AM,64 °F,61 °F,88 °%,ESE,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,02:30 AM,64 °F,61 °F,88 °%,SE,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,03:00 AM,64 °F,61 °F,88 °%,SE,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,03:30 AM,64 °F,61 °F,88 °%,ESE,5 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,04:00 AM,64 °F,59 °F,83 °%,ESE,7 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,04:30 AM,63 °F,61 °F,94 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,05:00 AM,63 °F,61 °F,94 °%,E,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+18/02/2023,05:30 AM,63 °F,61 °F,94 °%,E,3 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+18/02/2023,06:00 AM,63 °F,61 °F,94 °%,ENE,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+18/02/2023,06:30 AM,63 °F,61 °F,94 °%,E,5 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+18/02/2023,07:00 AM,63 °F,61 °F,94 °%,VAR,1 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,07:30 AM,64 °F,61 °F,88 °%,ENE,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,08:00 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,08:30 AM,66 °F,61 °F,83 °%,ESE,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,09:00 AM,68 °F,61 °F,78 °%,SE,6 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,09:30 AM,68 °F,61 °F,78 °%,SE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+18/02/2023,10:00 AM,68 °F,61 °F,78 °%,SE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+18/02/2023,10:30 AM,70 °F,61 °F,73 °%,E,3 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,11:00 AM,70 °F,61 °F,73 °%,VAR,1 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,11:30 AM,70 °F,61 °F,73 °%,ESE,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+18/02/2023,12:00 PM,70 °F,61 °F,73 °%,VAR,2 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+18/02/2023,12:30 PM,70 °F,61 °F,73 °%,SE,5 °mph,0 °mph,29.96 °in,0.0 °in,Fog
+18/02/2023,01:00 PM,72 °F,61 °F,69 °%,VAR,5 °mph,0 °mph,29.93 °in,0.0 °in,Haze
+18/02/2023,01:30 PM,73 °F,61 °F,65 °%,E,7 °mph,0 °mph,29.93 °in,0.0 °in,Haze
+18/02/2023,02:00 PM,72 °F,61 °F,69 °%,ESE,6 °mph,0 °mph,29.90 °in,0.0 °in,Haze
+18/02/2023,02:30 PM,73 °F,61 °F,65 °%,SE,6 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+18/02/2023,03:00 PM,73 °F,61 °F,65 °%,E,7 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+18/02/2023,03:30 PM,73 °F,61 °F,65 °%,SE,6 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+18/02/2023,04:00 PM,73 °F,61 °F,65 °%,SE,8 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy
+18/02/2023,04:30 PM,73 °F,63 °F,69 °%,ESE,8 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+18/02/2023,05:00 PM,73 °F,61 °F,65 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+18/02/2023,05:30 PM,73 °F,61 °F,65 °%,ESE,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+18/02/2023,06:00 PM,72 °F,63 °F,73 °%,SE,6 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+18/02/2023,06:30 PM,72 °F,63 °F,73 °%,SE,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+18/02/2023,07:00 PM,72 °F,63 °F,73 °%,SE,6 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy
+18/02/2023,07:30 PM,72 °F,63 °F,73 °%,ESE,6 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy
+18/02/2023,08:00 PM,72 °F,64 °F,78 °%,SE,5 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy
+18/02/2023,08:30 PM,72 °F,63 °F,73 °%,SSE,6 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,09:00 PM,72 °F,64 °F,78 °%,SE,8 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,09:30 PM,72 °F,63 °F,73 °%,SE,5 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,10:00 PM,70 °F,63 °F,78 °%,E,2 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+18/02/2023,10:30 PM,70 °F,63 °F,78 °%,S,3 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,11:00 PM,70 °F,63 °F,78 °%,S,3 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+18/02/2023,11:30 PM,70 °F,63 °F,78 °%,S,5 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+19/02/2023,12:00 AM,70 °F,63 °F,78 °%,SE,3 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+19/02/2023,12:30 AM,68 °F,63 °F,83 °%,E,3 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+19/02/2023,01:00 AM,70 °F,63 °F,78 °%,VAR,2 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+19/02/2023,01:30 AM,68 °F,64 °F,88 °%,WNW,2 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,02:00 AM,68 °F,64 °F,88 °%,NW,3 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,02:30 AM,68 °F,64 °F,88 °%,WNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,03:00 AM,68 °F,64 °F,88 °%,NW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,03:30 AM,68 °F,64 °F,88 °%,NW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,04:00 AM,68 °F,64 °F,88 °%,NW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,04:30 AM,66 °F,64 °F,94 °%,WNW,6 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,05:00 AM,66 °F,64 °F,94 °%,NW,6 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,05:30 AM,66 °F,64 °F,94 °%,NW,5 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,06:00 AM,66 °F,64 °F,94 °%,W,5 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,06:30 AM,66 °F,64 °F,94 °%,WNW,7 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,07:00 AM,66 °F,64 °F,94 °%,WNW,8 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+19/02/2023,07:30 AM,66 °F,64 °F,94 °%,WNW,5 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+19/02/2023,08:00 AM,68 °F,64 °F,88 °%,W,7 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+19/02/2023,08:30 AM,68 °F,64 °F,88 °%,W,9 °mph,0 °mph,30.11 °in,0.0 °in,Light Rain
+19/02/2023,09:00 AM,68 °F,64 °F,88 °%,NW,6 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+19/02/2023,09:30 AM,68 °F,64 °F,88 °%,NW,8 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+19/02/2023,10:00 AM,68 °F,64 °F,88 °%,WNW,6 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+19/02/2023,10:30 AM,70 °F,64 °F,83 °%,W,6 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+19/02/2023,11:00 AM,68 °F,64 °F,88 °%,NW,6 °mph,0 °mph,30.11 °in,0.0 °in,Light Rain
+19/02/2023,11:30 AM,,,,,,,,,
+19/02/2023,12:00 PM,72 °F,64 °F,78 °%,WNW,5 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+19/02/2023,12:30 PM,73 °F,64 °F,73 °%,WNW,7 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,01:00 PM,73 °F,66 °F,78 °%,WNW,5 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+19/02/2023,01:30 PM,73 °F,64 °F,73 °%,NW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,02:00 PM,73 °F,64 °F,73 °%,WNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+19/02/2023,02:30 PM,72 °F,64 °F,78 °%,WNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Light Rain
+19/02/2023,03:00 PM,72 °F,66 °F,83 °%,WNW,5 °mph,0 °mph,29.99 °in,0.0 °in,Light Rain
+19/02/2023,03:30 PM,72 °F,66 °F,83 °%,W,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+19/02/2023,04:00 PM,72 °F,66 °F,83 °%,WSW,6 °mph,0 °mph,29.99 °in,0.0 °in,Fog
+19/02/2023,04:30 PM,70 °F,64 °F,83 °%,NE,8 °mph,0 °mph,29.99 °in,0.0 °in,Light Rain
+19/02/2023,05:00 PM,68 °F,64 °F,88 °%,NE,8 °mph,0 °mph,30.02 °in,0.0 °in,Light Rain
+19/02/2023,05:30 PM,68 °F,63 °F,83 °%,NE,8 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+19/02/2023,06:00 PM,68 °F,63 °F,83 °%,ENE,7 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+19/02/2023,06:30 PM,68 °F,61 °F,78 °%,ENE,8 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+19/02/2023,07:00 PM,68 °F,61 °F,78 °%,ENE,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+19/02/2023,07:30 PM,66 °F,59 °F,78 °%,ENE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+19/02/2023,08:00 PM,66 °F,59 °F,78 °%,NE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+19/02/2023,08:30 PM,66 °F,59 °F,78 °%,NE,6 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,09:00 PM,66 °F,59 °F,78 °%,NE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,09:30 PM,66 °F,59 °F,78 °%,NE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,10:00 PM,68 °F,57 °F,68 °%,NNE,10 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,10:30 PM,68 °F,57 °F,68 °%,NE,8 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,11:00 PM,68 °F,57 °F,68 °%,NE,10 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+19/02/2023,11:30 PM,66 °F,57 °F,73 °%,NE,9 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+20/02/2023,12:00 AM,66 °F,55 °F,68 °%,NE,8 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,12:30 AM,,,,,,,,,
+20/02/2023,01:00 AM,66 °F,55 °F,68 °%,NNE,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,01:30 AM,66 °F,55 °F,68 °%,N,8 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,02:00 AM,66 °F,55 °F,68 °%,N,10 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,02:30 AM,66 °F,55 °F,68 °%,N,8 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,03:00 AM,66 °F,55 °F,68 °%,N,8 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+20/02/2023,03:30 AM,66 °F,55 °F,68 °%,N,6 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+20/02/2023,04:00 AM,66 °F,55 °F,68 °%,N,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,04:30 AM,66 °F,55 °F,68 °%,N,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,05:00 AM,66 °F,55 °F,68 °%,NNE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,05:30 AM,66 °F,55 °F,68 °%,N,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,06:00 AM,66 °F,55 °F,68 °%,N,3 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,06:30 AM,64 °F,55 °F,73 °%,N,3 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+20/02/2023,07:00 AM,64 °F,55 °F,73 °%,N,3 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+20/02/2023,07:30 AM,64 °F,55 °F,73 °%,N,5 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+20/02/2023,08:00 AM,68 °F,55 °F,64 °%,N,5 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+20/02/2023,08:30 AM,68 °F,54 °F,60 °%,NNE,6 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+20/02/2023,09:00 AM,70 °F,54 °F,56 °%,NNE,9 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+20/02/2023,09:30 AM,70 °F,54 °F,56 °%,N,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+20/02/2023,10:00 AM,70 °F,54 °F,56 °%,NNE,9 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+20/02/2023,10:30 AM,70 °F,52 °F,53 °%,NNE,9 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+20/02/2023,11:00 AM,70 °F,54 °F,56 °%,NNE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+20/02/2023,11:30 AM,72 °F,54 °F,53 °%,NE,6 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+20/02/2023,12:00 PM,72 °F,54 °F,53 °%,NE,6 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+20/02/2023,12:30 PM,75 °F,55 °F,50 °%,VAR,5 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+20/02/2023,01:00 PM,73 °F,54 °F,50 °%,NE,5 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+20/02/2023,01:30 PM,73 °F,55 °F,53 °%,NNE,3 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+20/02/2023,02:00 PM,75 °F,55 °F,50 °%,VAR,3 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy
+20/02/2023,02:30 PM,73 °F,55 °F,53 °%,E,5 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+20/02/2023,03:00 PM,75 °F,55 °F,50 °%,VAR,2 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+20/02/2023,03:30 PM,75 °F,55 °F,50 °%,ENE,3 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+20/02/2023,04:00 PM,75 °F,57 °F,53 °%,VAR,3 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+20/02/2023,04:30 PM,73 °F,57 °F,57 °%,E,5 °mph,0 °mph,29.96 °in,0.0 °in,Fair
+20/02/2023,05:00 PM,73 °F,57 °F,57 °%,ESE,5 °mph,0 °mph,29.96 °in,0.0 °in,Fair
+20/02/2023,05:30 PM,73 °F,57 °F,57 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+20/02/2023,06:00 PM,72 °F,57 °F,60 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Fair
+20/02/2023,06:30 PM,72 °F,57 °F,60 °%,ENE,2 °mph,0 °mph,29.99 °in,0.0 °in,Fair
+20/02/2023,07:00 PM,72 °F,57 °F,60 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Fair
+20/02/2023,07:30 PM,72 °F,59 °F,64 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+20/02/2023,08:00 PM,72 °F,59 °F,64 °%,VAR,1 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+20/02/2023,08:30 PM,70 °F,59 °F,68 °%,VAR,1 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+20/02/2023,09:00 PM,70 °F,59 °F,68 °%,E,2 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+20/02/2023,09:30 PM,70 °F,59 °F,68 °%,ESE,3 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+20/02/2023,10:00 PM,70 °F,61 °F,73 °%,SE,9 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+20/02/2023,10:30 PM,70 °F,61 °F,73 °%,SE,10 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy
+20/02/2023,11:00 PM,,,,,,,,,
+20/02/2023,11:30 PM,68 °F,59 °F,73 °%,SE,10 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+21/02/2023,12:00 AM,,,,,,,,,
+21/02/2023,12:30 AM,66 °F,59 °F,78 °%,S,5 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+21/02/2023,01:00 AM,66 °F,59 °F,78 °%,SSE,3 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+21/02/2023,01:30 AM,66 °F,59 °F,78 °%,VAR,2 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,02:00 AM,66 °F,59 °F,78 °%,VAR,1 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,02:30 AM,64 °F,59 °F,83 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,03:00 AM,66 °F,61 °F,83 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,03:30 AM,66 °F,61 °F,83 °%,N,2 °mph,0 °mph,30.05 °in,0.0 °in,Partly Cloudy
+21/02/2023,04:00 AM,66 °F,61 °F,83 °%,N,2 °mph,0 °mph,30.05 °in,0.0 °in,Partly Cloudy
+21/02/2023,04:30 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,05:00 AM,66 °F,61 °F,83 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,05:30 AM,66 °F,61 °F,83 °%,VAR,1 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,06:00 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,06:30 AM,64 °F,61 °F,88 °%,E,3 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+21/02/2023,07:00 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+21/02/2023,07:30 AM,66 °F,61 °F,83 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+21/02/2023,08:00 AM,68 °F,59 °F,73 °%,VAR,2 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+21/02/2023,08:30 AM,68 °F,61 °F,78 °%,E,3 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+21/02/2023,09:00 AM,68 °F,61 °F,78 °%,VAR,2 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+21/02/2023,09:30 AM,70 °F,61 °F,73 °%,VAR,2 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+21/02/2023,10:00 AM,70 °F,61 °F,73 °%,E,3 °mph,0 °mph,30.14 °in,0.0 °in,Fog
+21/02/2023,10:30 AM,72 °F,61 °F,69 °%,E,6 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+21/02/2023,11:00 AM,72 °F,61 °F,69 °%,ESE,8 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+21/02/2023,11:30 AM,73 °F,59 °F,61 °%,ESE,10 °mph,0 °mph,30.11 °in,0.0 °in,Haze
+21/02/2023,12:00 PM,73 °F,59 °F,61 °%,E,9 °mph,0 °mph,30.11 °in,0.0 °in,Partly Cloudy
+21/02/2023,12:30 PM,,,,,,,,,
+21/02/2023,01:00 PM,75 °F,59 °F,57 °%,ESE,7 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+21/02/2023,01:30 PM,75 °F,59 °F,57 °%,ESE,9 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+21/02/2023,02:00 PM,73 °F,59 °F,61 °%,SE,5 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,02:30 PM,73 °F,59 °F,61 °%,S,6 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,03:00 PM,73 °F,59 °F,61 °%,SSE,6 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,03:30 PM,73 °F,59 °F,61 °%,S,7 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,04:00 PM,73 °F,59 °F,61 °%,SSE,7 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,04:30 PM,73 °F,59 °F,61 °%,S,7 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,05:00 PM,73 °F,59 °F,61 °%,SSE,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+21/02/2023,05:30 PM,73 °F,59 °F,61 °%,SSE,7 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+21/02/2023,06:00 PM,73 °F,61 °F,65 °%,SE,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+21/02/2023,06:30 PM,72 °F,59 °F,64 °%,SSE,6 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+21/02/2023,07:00 PM,72 °F,59 °F,64 °%,SSE,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+21/02/2023,07:30 PM,72 °F,59 °F,64 °%,SSE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+21/02/2023,08:00 PM,72 °F,59 °F,64 °%,S,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+21/02/2023,08:30 PM,72 °F,59 °F,64 °%,SSE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,09:00 PM,70 °F,59 °F,68 °%,SSE,6 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,09:30 PM,70 °F,59 °F,68 °%,SSE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,10:00 PM,70 °F,59 °F,68 °%,SSE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,10:30 PM,68 °F,59 °F,73 °%,SSE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,11:00 PM,68 °F,59 °F,73 °%,SE,7 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+21/02/2023,11:30 PM,68 °F,59 °F,73 °%,SE,5 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+22/02/2023,12:00 AM,68 °F,59 °F,73 °%,SSE,5 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,12:30 AM,68 °F,61 °F,78 °%,SE,7 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,01:00 AM,68 °F,61 °F,78 °%,ESE,5 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,01:30 AM,68 °F,61 °F,78 °%,SE,5 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,02:00 AM,68 °F,59 °F,73 °%,SSE,6 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,02:30 AM,68 °F,59 °F,73 °%,SE,7 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,03:00 AM,68 °F,59 °F,73 °%,SE,3 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,03:30 AM,66 °F,59 °F,78 °%,SSE,3 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,04:00 AM,68 °F,59 °F,73 °%,SSE,5 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,04:30 AM,66 °F,59 °F,78 °%,SSE,5 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+22/02/2023,05:00 AM,66 °F,59 °F,78 °%,SSE,5 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+22/02/2023,05:30 AM,66 °F,59 °F,78 °%,SE,7 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+22/02/2023,06:00 AM,66 °F,59 °F,78 °%,ESE,8 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,06:30 AM,66 °F,59 °F,78 °%,ESE,8 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,07:00 AM,66 °F,59 °F,78 °%,ESE,9 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,07:30 AM,66 °F,59 °F,78 °%,ESE,9 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,08:00 AM,66 °F,59 °F,78 °%,ESE,8 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,08:30 AM,68 °F,59 °F,73 °%,ESE,10 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,09:00 AM,68 °F,59 °F,73 °%,ESE,10 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,09:30 AM,70 °F,59 °F,68 °%,ESE,10 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,10:00 AM,70 °F,59 °F,68 °%,ESE,9 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,10:30 AM,70 °F,59 °F,68 °%,ESE,9 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,11:00 AM,70 °F,57 °F,64 °%,ESE,8 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy
+22/02/2023,11:30 AM,70 °F,59 °F,68 °%,ESE,9 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,12:00 PM,72 °F,57 °F,60 °%,ESE,6 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,12:30 PM,72 °F,57 °F,60 °%,SE,7 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy
+22/02/2023,01:00 PM,70 °F,57 °F,64 °%,ESE,6 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+22/02/2023,01:30 PM,72 °F,57 °F,60 °%,VAR,2 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+22/02/2023,02:00 PM,72 °F,59 °F,64 °%,VAR,3 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+22/02/2023,02:30 PM,73 °F,59 °F,61 °%,SE,5 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy
+22/02/2023,03:00 PM,73 °F,57 °F,57 °%,SE,6 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+22/02/2023,03:30 PM,73 °F,57 °F,57 °%,SE,7 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+22/02/2023,04:00 PM,73 °F,57 °F,57 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+22/02/2023,04:30 PM,73 °F,59 °F,61 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+22/02/2023,05:00 PM,73 °F,57 °F,57 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+22/02/2023,05:30 PM,72 °F,59 °F,64 °%,S,8 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+22/02/2023,06:00 PM,72 °F,59 °F,64 °%,S,8 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+22/02/2023,06:30 PM,72 °F,59 °F,64 °%,SSE,8 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+22/02/2023,07:00 PM,70 °F,59 °F,68 °%,SSE,9 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+22/02/2023,07:30 PM,70 °F,59 °F,68 °%,SSE,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+22/02/2023,08:00 PM,70 °F,59 °F,68 °%,S,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,08:30 PM,70 °F,59 °F,68 °%,S,8 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,09:00 PM,68 °F,57 °F,68 °%,SSE,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,09:30 PM,68 °F,57 °F,68 °%,SSE,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,10:00 PM,68 °F,59 °F,73 °%,S,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,10:30 PM,66 °F,59 °F,78 °%,S,6 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+22/02/2023,11:00 PM,66 °F,59 °F,78 °%,S,6 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy
+22/02/2023,11:30 PM,66 °F,59 °F,78 °%,S,5 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+23/02/2023,12:00 AM,66 °F,59 °F,78 °%,S,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+23/02/2023,12:30 AM,66 °F,59 °F,78 °%,VAR,2 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+23/02/2023,01:00 AM,64 °F,59 °F,83 °%,NNW,3 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+23/02/2023,01:30 AM,64 °F,59 °F,83 °%,NNW,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+23/02/2023,02:00 AM,64 °F,61 °F,88 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+23/02/2023,02:30 AM,64 °F,61 °F,88 °%,N,2 °mph,0 °mph,30.02 °in,0.0 °in,Fair
+23/02/2023,03:00 AM,64 °F,59 °F,83 °%,SE,3 °mph,0 °mph,29.99 °in,0.0 °in,Fair
+23/02/2023,03:30 AM,66 °F,59 °F,78 °%,SSE,5 °mph,0 °mph,29.99 °in,0.0 °in,Fair
+23/02/2023,04:00 AM,66 °F,59 °F,78 °%,VAR,1 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+23/02/2023,04:30 AM,66 °F,59 °F,78 °%,SE,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+23/02/2023,05:00 AM,66 °F,59 °F,78 °%,E,3 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+23/02/2023,05:30 AM,66 °F,59 °F,78 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy
+23/02/2023,06:00 AM,64 °F,59 °F,83 °%,E,3 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy
+23/02/2023,06:30 AM,64 °F,59 °F,83 °%,E,5 °mph,0 °mph,30.02 °in,0.0 °in,Fog
+23/02/2023,07:00 AM,64 °F,61 °F,88 °%,E,3 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+23/02/2023,07:30 AM,66 °F,61 °F,83 °%,E,3 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+23/02/2023,08:00 AM,66 °F,61 °F,83 °%,ESE,6 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+23/02/2023,08:30 AM,68 °F,61 °F,78 °%,ESE,5 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+23/02/2023,09:00 AM,68 °F,61 °F,78 °%,SE,5 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+23/02/2023,09:30 AM,68 °F,61 °F,78 °%,SE,5 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+23/02/2023,10:00 AM,70 °F,61 °F,73 °%,E,5 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+23/02/2023,10:30 AM,70 °F,61 °F,73 °%,E,7 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+23/02/2023,11:00 AM,70 °F,61 °F,73 °%,E,6 °mph,0 °mph,30.05 °in,0.0 °in,Cloudy
+23/02/2023,11:30 AM,72 °F,59 °F,64 °%,SE,7 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+23/02/2023,12:00 PM,72 °F,61 °F,69 °%,ESE,7 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+23/02/2023,12:30 PM,73 °F,59 °F,61 °%,SE,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+23/02/2023,01:00 PM,73 °F,59 °F,61 °%,SE,7 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy
+23/02/2023,01:30 PM,73 °F,59 °F,61 °%,SE,3 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+23/02/2023,02:00 PM,73 °F,61 °F,65 °%,ESE,6 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy
+23/02/2023,02:30 PM,73 °F,61 °F,65 °%,S,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,03:00 PM,73 °F,61 °F,65 °%,S,5 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+23/02/2023,03:30 PM,73 °F,61 °F,65 °%,S,5 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,04:00 PM,73 °F,59 °F,61 °%,S,5 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,04:30 PM,73 °F,61 °F,65 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy
+23/02/2023,05:00 PM,73 °F,61 °F,65 °%,SE,6 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,05:30 PM,73 °F,61 °F,65 °%,SE,7 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,06:00 PM,72 °F,61 °F,69 °%,SE,10 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,06:30 PM,72 °F,61 °F,69 °%,SE,12 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,07:00 PM,72 °F,61 °F,69 °%,SE,9 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy
+23/02/2023,07:30 PM,72 °F,61 °F,69 °%,SE,10 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,08:00 PM,70 °F,61 °F,73 °%,SE,10 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,08:30 PM,70 °F,63 °F,78 °%,SE,10 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,09:00 PM,70 °F,61 °F,73 °%,SE,9 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,09:30 PM,68 °F,63 °F,83 °%,SE,10 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy
+23/02/2023,10:00 PM,68 °F,63 °F,83 °%,SE,9 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+23/02/2023,10:30 PM,68 °F,63 °F,83 °%,SE,8 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+23/02/2023,11:00 PM,68 °F,63 °F,83 °%,ESE,8 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+23/02/2023,11:30 PM,66 °F,63 °F,88 °%,SE,9 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,12:00 AM,66 °F,63 °F,88 °%,ESE,8 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,12:30 AM,66 °F,63 °F,88 °%,ESE,6 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,01:00 AM,66 °F,63 °F,88 °%,SE,6 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,01:30 AM,66 °F,63 °F,88 °%,ESE,8 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,02:00 AM,66 °F,63 °F,88 °%,ESE,8 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,02:30 AM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,03:00 AM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,03:30 AM,66 °F,63 °F,88 °%,ENE,5 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,04:00 AM,66 °F,63 °F,88 °%,ENE,6 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,04:30 AM,66 °F,63 °F,88 °%,E,3 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy
+24/02/2023,05:00 AM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+24/02/2023,05:30 AM,66 °F,63 °F,88 °%,ENE,3 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy
+24/02/2023,06:00 AM,66 °F,63 °F,88 °%,ENE,2 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+24/02/2023,06:30 AM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy
+24/02/2023,07:00 AM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+24/02/2023,07:30 AM,66 °F,63 °F,88 °%,E,5 °mph,0 °mph,30.05 °in,0.0 °in,Fog
+24/02/2023,08:00 AM,68 °F,63 °F,83 °%,E,5 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+24/02/2023,08:30 AM,68 °F,63 °F,83 °%,E,6 °mph,0 °mph,30.08 °in,0.0 °in,Fog
+24/02/2023,09:00 AM,68 °F,63 °F,83 °%,E,6 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+24/02/2023,09:30 AM,68 °F,63 °F,83 °%,E,5 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+24/02/2023,10:00 AM,,,,,,,,,
+24/02/2023,10:30 AM,70 °F,63 °F,78 °%,NNE,6 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+24/02/2023,11:00 AM,70 °F,63 °F,78 °%,NE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+24/02/2023,11:30 AM,68 °F,63 °F,83 °%,NE,8 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+24/02/2023,12:00 PM,66 °F,63 °F,88 °%,N,7 °mph,0 °mph,30.11 °in,0.0 °in,Drizzle
+24/02/2023,12:30 PM,66 °F,63 °F,88 °%,NE,9 °mph,0 °mph,30.11 °in,0.0 °in,Fog
+24/02/2023,01:00 PM,64 °F,61 °F,88 °%,NE,15 °mph,0 °mph,30.11 °in,0.0 °in,Light Rain
+24/02/2023,01:30 PM,64 °F,61 °F,88 °%,NE,8 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,02:00 PM,64 °F,61 °F,88 °%,ENE,8 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,02:30 PM,66 °F,55 °F,68 °%,ENE,15 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,03:00 PM,68 °F,55 °F,64 °%,ENE,13 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,03:30 PM,66 °F,54 °F,64 °%,NE,14 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,04:00 PM,66 °F,54 °F,64 °%,NE,10 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,04:30 PM,66 °F,55 °F,68 °%,NE,8 °mph,0 °mph,30.08 °in,0.0 °in,Cloudy
+24/02/2023,05:00 PM,66 °F,54 °F,64 °%,NNE,10 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+24/02/2023,05:30 PM,66 °F,54 °F,64 °%,NNE,7 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy
+24/02/2023,06:00 PM,66 °F,54 °F,64 °%,NE,9 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+24/02/2023,06:30 PM,66 °F,54 °F,64 °%,NE,7 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy
+24/02/2023,07:00 PM,66 °F,54 °F,64 °%,NE,7 °mph,0 °mph,30.14 °in,0.0 °in,Fair
+24/02/2023,07:30 PM,66 °F,54 °F,64 °%,NNE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+24/02/2023,08:00 PM,66 °F,54 °F,64 °%,NNE,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+24/02/2023,08:30 PM,66 °F,54 °F,64 °%,NNE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+24/02/2023,09:00 PM,66 °F,52 °F,60 °%,N,7 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+24/02/2023,09:30 PM,66 °F,52 °F,60 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+24/02/2023,10:00 PM,66 °F,52 °F,60 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+24/02/2023,10:30 PM,66 °F,52 °F,60 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+24/02/2023,11:00 PM,66 °F,50 °F,56 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+24/02/2023,11:30 PM,66 °F,50 °F,56 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,12:00 AM,66 °F,50 °F,56 °%,N,9 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,12:30 AM,64 °F,50 °F,59 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,01:00 AM,64 °F,50 °F,59 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,01:30 AM,64 °F,50 °F,59 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,02:00 AM,64 °F,48 °F,56 °%,N,9 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,02:30 AM,64 °F,48 °F,56 °%,N,10 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,03:00 AM,64 °F,46 °F,52 °%,N,9 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,03:30 AM,64 °F,46 °F,52 °%,N,10 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,04:00 AM,64 °F,46 °F,52 °%,N,9 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,04:30 AM,63 °F,46 °F,55 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,05:00 AM,63 °F,46 °F,55 °%,N,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,05:30 AM,63 °F,46 °F,55 °%,N,8 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+25/02/2023,06:00 AM,61 °F,46 °F,59 °%,N,8 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+25/02/2023,06:30 AM,61 °F,46 °F,59 °%,N,9 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,07:00 AM,63 °F,46 °F,55 °%,N,10 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,07:30 AM,63 °F,46 °F,55 °%,N,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,08:00 AM,64 °F,45 °F,49 °%,NNE,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,08:30 AM,66 °F,46 °F,49 °%,N,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,09:00 AM,68 °F,45 °F,43 °%,N,12 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,09:30 AM,68 °F,43 °F,40 °%,NNE,10 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,10:00 AM,68 °F,43 °F,40 °%,NNE,13 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,10:30 AM,70 °F,43 °F,38 °%,NE,14 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,11:00 AM,70 °F,43 °F,38 °%,N,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,11:30 AM,72 °F,43 °F,35 °%,N,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,12:00 PM,73 °F,43 °F,33 °%,N,10 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,12:30 PM,72 °F,43 °F,35 °%,NNE,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,01:00 PM,75 °F,45 °F,34 °%,NNE,9 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+25/02/2023,01:30 PM,75 °F,43 °F,31 °%,VAR,7 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,02:00 PM,75 °F,45 °F,34 °%,NE,9 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,02:30 PM,75 °F,45 °F,34 °%,ENE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,03:00 PM,77 °F,45 °F,32 °%,NE,8 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,03:30 PM,75 °F,46 °F,36 °%,N,8 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,04:00 PM,75 °F,50 °F,41 °%,WNW,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,04:30 PM,75 °F,46 °F,36 °%,NNE,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,05:00 PM,75 °F,46 °F,36 °%,NE,5 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,05:30 PM,73 °F,46 °F,38 °%,NNE,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,06:00 PM,72 °F,45 °F,38 °%,E,2 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+25/02/2023,06:30 PM,72 °F,50 °F,46 °%,VAR,1 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,07:00 PM,70 °F,52 °F,53 °%,WNW,3 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+25/02/2023,07:30 PM,66 °F,54 °F,64 °%,NNW,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+25/02/2023,08:00 PM,64 °F,52 °F,64 °%,ENE,5 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+25/02/2023,08:30 PM,68 °F,50 °F,52 °%,NE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,09:00 PM,66 °F,55 °F,68 °%,SE,9 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+25/02/2023,09:30 PM,64 °F,55 °F,73 °%,SE,12 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,10:00 PM,64 °F,54 °F,68 °%,SE,9 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+25/02/2023,10:30 PM,63 °F,54 °F,72 °%,SE,6 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,11:00 PM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+25/02/2023,11:30 PM,61 °F,54 °F,77 °%,VAR,1 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,12:00 AM,61 °F,54 °F,77 °%,VAR,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,12:30 AM,61 °F,54 °F,77 °%,ENE,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,01:00 AM,57 °F,54 °F,88 °%,VAR,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,01:30 AM,59 °F,54 °F,82 °%,VAR,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,02:00 AM,59 °F,54 °F,82 °%,VAR,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,02:30 AM,57 °F,55 °F,94 °%,N,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,03:00 AM,57 °F,54 °F,88 °%,ENE,1 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,03:30 AM,57 °F,54 °F,88 °%,N,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,04:00 AM,55 °F,54 °F,94 °%,CALM,0 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,04:30 AM,57 °F,54 °F,88 °%,CALM,0 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,05:00 AM,57 °F,54 °F,88 °%,NE,2 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,05:30 AM,57 °F,52 °F,82 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,06:00 AM,57 °F,48 °F,72 °%,NE,7 °mph,0 °mph,30.37 °in,0.0 °in,Fair
+26/02/2023,06:30 AM,55 °F,46 °F,72 °%,E,6 °mph,0 °mph,30.37 °in,0.0 °in,Fair
+26/02/2023,07:00 AM,55 °F,50 °F,82 °%,E,6 °mph,0 °mph,30.37 °in,0.0 °in,Fair
+26/02/2023,07:30 AM,57 °F,50 °F,77 °%,ENE,6 °mph,0 °mph,30.40 °in,0.0 °in,Fair
+26/02/2023,08:00 AM,61 °F,48 °F,63 °%,NE,6 °mph,0 °mph,30.40 °in,0.0 °in,Fair
+26/02/2023,08:30 AM,63 °F,48 °F,59 °%,ENE,7 °mph,0 °mph,30.43 °in,0.0 °in,Fair
+26/02/2023,09:00 AM,64 °F,45 °F,49 °%,ENE,7 °mph,0 °mph,30.43 °in,0.0 °in,Fair
+26/02/2023,09:30 AM,66 °F,43 °F,43 °%,ENE,10 °mph,0 °mph,30.43 °in,0.0 °in,Fair
+26/02/2023,10:00 AM,66 °F,43 °F,43 °%,E,8 °mph,0 °mph,30.43 °in,0.0 °in,Fair
+26/02/2023,10:30 AM,68 °F,41 °F,37 °%,NE,8 °mph,0 °mph,30.40 °in,0.0 °in,Fair
+26/02/2023,11:00 AM,68 °F,41 °F,37 °%,NE,9 °mph,0 °mph,30.40 °in,0.0 °in,Fair
+26/02/2023,11:30 AM,70 °F,41 °F,35 °%,NE,9 °mph,0 °mph,30.37 °in,0.0 °in,Fair
+26/02/2023,12:00 PM,70 °F,41 °F,35 °%,ENE,9 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+26/02/2023,12:30 PM,72 °F,43 °F,35 °%,E,8 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,01:00 PM,73 °F,41 °F,31 °%,VAR,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,01:30 PM,72 °F,41 °F,33 °%,ESE,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+26/02/2023,02:00 PM,73 °F,45 °F,36 °%,ESE,7 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+26/02/2023,02:30 PM,72 °F,43 °F,35 °%,E,6 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+26/02/2023,03:00 PM,72 °F,43 °F,35 °%,E,6 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,03:30 PM,72 °F,43 °F,35 °%,SSE,6 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,04:00 PM,73 °F,43 °F,33 °%,ESE,6 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,04:30 PM,72 °F,43 °F,35 °%,ESE,5 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,05:00 PM,72 °F,43 °F,35 °%,ESE,6 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,05:30 PM,70 °F,43 °F,38 °%,ESE,5 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,06:00 PM,70 °F,43 °F,38 °%,VAR,2 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,06:30 PM,70 °F,45 °F,40 °%,SW,3 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+26/02/2023,07:00 PM,68 °F,43 °F,40 °%,SSW,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+26/02/2023,07:30 PM,68 °F,46 °F,46 °%,W,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+26/02/2023,08:00 PM,63 °F,50 °F,63 °%,VAR,2 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+26/02/2023,08:30 PM,64 °F,48 °F,56 °%,VAR,1 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+26/02/2023,09:00 PM,63 °F,52 °F,68 °%,ESE,9 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+26/02/2023,09:30 PM,64 °F,52 °F,64 °%,SE,13 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,10:00 PM,63 °F,52 °F,68 °%,SE,9 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,10:30 PM,63 °F,52 °F,68 °%,SE,9 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,11:00 PM,61 °F,52 °F,72 °%,SSE,7 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+26/02/2023,11:30 PM,61 °F,52 °F,72 °%,SSE,6 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+27/02/2023,12:00 AM,59 °F,52 °F,77 °%,SE,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+27/02/2023,12:30 AM,59 °F,52 °F,77 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,01:00 AM,59 °F,52 °F,77 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,01:30 AM,59 °F,52 °F,77 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,02:00 AM,57 °F,54 °F,88 °%,NNE,2 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,02:30 AM,55 °F,52 °F,88 °%,N,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,03:00 AM,57 °F,54 °F,88 °%,VAR,2 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,03:30 AM,55 °F,54 °F,94 °%,NNE,2 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,04:00 AM,55 °F,54 °F,94 °%,VAR,1 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,04:30 AM,55 °F,52 °F,88 °%,NE,1 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,05:00 AM,55 °F,52 °F,88 °%,VAR,1 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,05:30 AM,55 °F,52 °F,88 °%,VAR,1 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,06:00 AM,54 °F,52 °F,94 °%,E,1 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,06:30 AM,54 °F,52 °F,94 °%,E,3 °mph,0 °mph,30.28 °in,0.0 °in,Fog
+27/02/2023,07:00 AM,54 °F,52 °F,94 °%,E,2 °mph,0 °mph,30.28 °in,0.0 °in,Fog
+27/02/2023,07:30 AM,57 °F,54 °F,88 °%,E,2 °mph,0 °mph,30.31 °in,0.0 °in,Fog
+27/02/2023,08:00 AM,59 °F,54 °F,82 °%,VAR,2 °mph,0 °mph,30.31 °in,0.0 °in,Fog
+27/02/2023,08:30 AM,63 °F,54 °F,72 °%,E,3 °mph,0 °mph,30.31 °in,0.0 °in,Fog
+27/02/2023,09:00 AM,63 °F,52 °F,68 °%,E,5 °mph,0 °mph,30.31 °in,0.0 °in,Haze
+27/02/2023,09:30 AM,64 °F,48 °F,56 °%,NE,3 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+27/02/2023,10:00 AM,66 °F,48 °F,52 °%,NE,6 °mph,0 °mph,30.34 °in,0.0 °in,Fair
+27/02/2023,10:30 AM,68 °F,48 °F,49 °%,VAR,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+27/02/2023,11:00 AM,70 °F,45 °F,40 °%,VAR,6 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+27/02/2023,11:30 AM,70 °F,46 °F,43 °%,E,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair
+27/02/2023,12:00 PM,70 °F,46 °F,43 °%,ESE,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair
+27/02/2023,12:30 PM,72 °F,48 °F,43 °%,ESE,7 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,01:00 PM,72 °F,48 °F,43 °%,VAR,6 °mph,0 °mph,30.25 °in,0.0 °in,Fair
+27/02/2023,01:30 PM,72 °F,48 °F,43 °%,SSE,7 °mph,0 °mph,30.23 °in,0.0 °in,Partly Cloudy
+27/02/2023,02:00 PM,72 °F,48 °F,43 °%,VAR,6 °mph,0 °mph,30.20 °in,0.0 °in,Partly Cloudy
+27/02/2023,02:30 PM,72 °F,48 °F,43 °%,VAR,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,03:00 PM,73 °F,48 °F,41 °%,VAR,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,03:30 PM,73 °F,50 °F,44 °%,ESE,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,04:00 PM,73 °F,48 °F,41 °%,E,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,04:30 PM,72 °F,48 °F,43 °%,ESE,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,05:00 PM,72 °F,48 °F,43 °%,ESE,6 °mph,0 °mph,30.17 °in,0.0 °in,Partly Cloudy
+27/02/2023,05:30 PM,70 °F,48 °F,46 °%,SE,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,06:00 PM,70 °F,50 °F,49 °%,ESE,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,06:30 PM,68 °F,50 °F,52 °%,ESE,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,07:00 PM,68 °F,50 °F,52 °%,ESE,7 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,07:30 PM,68 °F,52 °F,56 °%,ESE,8 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,08:00 PM,66 °F,52 °F,60 °%,SE,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+27/02/2023,08:30 PM,66 °F,52 °F,60 °%,SE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,09:00 PM,66 °F,52 °F,60 °%,SE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,09:30 PM,66 °F,54 °F,64 °%,SE,7 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,10:00 PM,64 °F,52 °F,64 °%,SSE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,10:30 PM,64 °F,52 °F,64 °%,SSE,8 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+27/02/2023,11:00 PM,64 °F,54 °F,68 °%,SSE,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+27/02/2023,11:30 PM,63 °F,54 °F,72 °%,SSE,8 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+28/02/2023,12:00 AM,63 °F,54 °F,72 °%,SSE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+28/02/2023,12:30 AM,63 °F,54 °F,72 °%,SSE,6 °mph,0 °mph,30.20 °in,0.0 °in,Fair
+28/02/2023,01:00 AM,,,,,,,,,
+28/02/2023,01:30 AM,63 °F,54 °F,72 °%,SE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+28/02/2023,02:00 AM,63 °F,54 °F,72 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+28/02/2023,02:30 AM,59 °F,54 °F,82 °%,VAR,2 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+28/02/2023,03:00 AM,59 °F,54 °F,82 °%,NNW,2 °mph,0 °mph,30.17 °in,0.0 °in,Fair
+28/02/2023,03:30 AM,57 °F,54 °F,88 °%,NNW,3 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,04:00 AM,57 °F,54 °F,88 °%,NW,2 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,04:30 AM,57 °F,54 °F,88 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,05:00 AM,57 °F,55 °F,94 °%,E,3 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,05:30 AM,57 °F,54 °F,88 °%,E,5 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,06:00 AM,57 °F,54 °F,88 °%,E,5 °mph,0 °mph,30.17 °in,0.0 °in,Fog
+28/02/2023,06:30 AM,57 °F,54 °F,88 °%,NE,2 °mph,0 °mph,30.20 °in,0.0 °in,Fog
+28/02/2023,07:00 AM,57 °F,55 °F,94 °%,VAR,1 °mph,0 °mph,30.20 °in,0.0 °in,Fog
+28/02/2023,07:30 AM,59 °F,55 °F,88 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Fog
+28/02/2023,08:00 AM,63 °F,57 °F,82 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Fog
+28/02/2023,08:30 AM,64 °F,55 °F,73 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Fog
+28/02/2023,09:00 AM,66 °F,55 °F,68 °%,VAR,1 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+28/02/2023,09:30 AM,68 °F,57 °F,68 °%,VAR,3 °mph,0 °mph,30.23 °in,0.0 °in,Fair
+28/02/2023,10:00 AM,70 °F,57 °F,64 °%,E,5 °mph,0 °mph,30.23 °in,0.0 °in,Partly Cloudy
+28/02/2023,10:30 AM,70 °F,55 °F,60 °%,ESE,3 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy
+28/02/2023,11:00 AM,72 °F,55 °F,57 °%,VAR,3 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy
+28/02/2023,11:30 AM,72 °F,55 °F,57 °%,VAR,2 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy
+28/02/2023,12:00 PM,70 °F,55 °F,60 °%,VAR,3 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy
+28/02/2023,12:30 PM,72 °F,55 °F,57 °%,VAR,3 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+28/02/2023,01:00 PM,72 °F,55 °F,57 °%,VAR,3 °mph,0 °mph,30.14 °in,0.0 °in,Haze
+28/02/2023,01:30 PM,73 °F,55 °F,53 °%,SE,5 °mph,0 °mph,30.11 °in,0.0 °in,Haze
+28/02/2023,02:00 PM,73 °F,55 °F,53 °%,SE,7 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+28/02/2023,02:30 PM,75 °F,55 °F,50 °%,SE,7 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy
+28/02/2023,03:00 PM,73 °F,57 °F,57 °%,SE,7 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+28/02/2023,03:30 PM,75 °F,57 °F,53 °%,SSE,8 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+28/02/2023,04:00 PM,75 °F,57 °F,53 °%,ESE,8 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+28/02/2023,04:30 PM,75 °F,57 °F,53 °%,ESE,7 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+28/02/2023,05:00 PM,73 °F,57 °F,57 °%,ESE,9 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy
+28/02/2023,05:30 PM,73 °F,57 °F,57 °%,SE,10 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+28/02/2023,06:00 PM,72 °F,57 °F,60 °%,SE,10 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+28/02/2023,06:30 PM,70 °F,59 °F,68 °%,SE,12 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+28/02/2023,07:00 PM,70 °F,57 °F,64 °%,SE,10 °mph,0 °mph,30.05 °in,0.0 °in,Fair
+28/02/2023,07:30 PM,70 °F,59 °F,68 °%,SE,9 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+28/02/2023,08:00 PM,68 °F,57 °F,68 °%,SE,8 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+28/02/2023,08:30 PM,68 °F,59 °F,73 °%,SE,10 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+28/02/2023,09:00 PM,68 °F,59 °F,73 °%,SE,10 °mph,0 °mph,30.08 °in,0.0 °in,Fair
+28/02/2023,09:30 PM,66 °F,59 °F,78 °%,SE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+28/02/2023,10:00 PM,66 °F,61 °F,83 °%,SE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+28/02/2023,10:30 PM,66 °F,61 °F,83 °%,ESE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+28/02/2023,11:00 PM,64 °F,61 °F,88 °%,ESE,7 °mph,0 °mph,30.11 °in,0.0 °in,Fair
+28/02/2023,11:30 PM,63 °F,59 °F,88 °%,ESE,6 °mph,0 °mph,30.11 °in,0.0 °in,Fair

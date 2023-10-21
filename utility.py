@@ -1,66 +1,33 @@
-wind_directions = {
-    "N": 360,
-    "NNE": 22.5,
-    "NE": 45,
-    "ENE": 67.5,
-    "E": 90,
-    "ESE": 112.5,
-    "SE": 135,
-    "SSE": 157.5,
-    "S": 180,
-    "SSW": 202.5,
-    "SW": 225,
-    "WSW": 247.5,
-    "W": 270,
-    "WNW": 292.5,
-    "NW": 315,
-    "NNW": 337.5,
-}
-
-reverse_wind_directions = {
-    360: "N",
-    22.5: "NNE",
-    45: "NE",
-    67.5: "ENE",
-    90: "E",
-    112.5: "ESE",
-    135: "SE",
-    157.5: "SSE",
-    180: "S",
-    202.5: "SSW",
-    225: "SW",
-    247.5: "WSW",
-    270: "W",
-    292.5: "WNW",
-    315: "NW",
-    337.5: "NNW",
-}
+from xgboost import XGBClassifier, XGBRegressor
+import pandas as pd
 
 
-def wind_direction_to_degree(wind_direction: str):
-    try:
-        degree = wind_directions.get(wind_direction.upper())
-        if degree is not None:
-            return degree
-        else:
-            if wind_direction == 'CALM':
-                return 0.0
-            else:
-                return -1.0
-    except:
-        return float('nan')
+def check_classification_model():
+    df = pd.read_csv('processed_weather_data_2017-2023.csv')
+    df['datetime'] = pd.to_datetime(df['datetime'])
+    df['month'] = df['datetime'].dt.month
+    df['day'] = df['datetime'].dt.day
+    df['hour'] = df['datetime'].dt.hour
+    X = df.drop(columns=['datetime', 'condition'])
+    data = X.iloc[0].values.reshape(1, -1)
+
+    model = XGBClassifier()
+    model.load_model("model\\classification\\xgboost_classification_model.json")
+    print(model.predict(data))
 
 
-def degree_to_wind_direction(degree):
-    try:
-        if degree < wind_directions['NNE'] / 2:
-            return 'N'
+def test_regression_model():
+    df = pd.read_csv('processed_weather_data_2017-2023.csv')
+    df['datetime'] = pd.to_datetime(df['datetime'])
+    df['month'] = df['datetime'].dt.month
+    df['day'] = df['datetime'].dt.day
+    df['hour'] = df['datetime'].dt.hour
+    X = df.drop(columns=['datetime', 'condition'])
+    data = X.iloc[0].values.reshape(1, -1)
 
-        # Find the closest matching wind direction for the given degrees
-        closest_match = min(reverse_wind_directions, key=lambda x: abs(x - degrees))
-        return reverse_wind_directions[closest_match]
-    except:
-        return None
+    model = XGBRegressor()
+    model.load_model("model\\24h_regression\\24h_temp_xgboost_regression.json")
+    print(model.predict(data))
 
-if __name__ == '__main__':
-    pass
+
+test_regression_model()

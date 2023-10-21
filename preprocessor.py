@@ -31,6 +31,7 @@ def preprocess_data():
     missing_value_columns = ['temperature', 'humidity', 'pressure', 'wind speed']
     zero_value_columns = ['temperature', 'humidity', 'pressure']
     df.at[df['wind speed'].argmax(), 'wind speed'] /= 10
+    df.at[df['wind speed'].argmax(), 'wind speed'] /= 10
 
     # fill missing using interpolation
     for column in zero_value_columns:
@@ -84,4 +85,6 @@ def print_weather_condition_count():
 
 
 if __name__ == "__main__":
-    preprocess_data()
+    df = pd.read_csv('processed_weather_data_2017-2023.csv')
+    rows_with_null = df[df.isna().any(axis=1)]
+    print(rows_with_null)

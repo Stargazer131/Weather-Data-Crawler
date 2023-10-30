@@ -27,7 +27,7 @@ def combine_data():
 
 
 def preprocess_data():
-    df = pd.read_csv('raw_weather_data_2017-2023.csv')
+    df = pd.read_csv('weather_data/raw_weather_data_2017-2023.csv')
     missing_value_columns = ['temperature', 'humidity', 'pressure', 'wind speed']
     zero_value_columns = ['temperature', 'humidity', 'pressure']
     df.at[df['wind speed'].argmax(), 'wind speed'] /= 10
@@ -75,7 +75,7 @@ def convert_weather(weather_condition: str):
 
 
 def print_weather_condition_count():
-    df = pd.read_csv('processed_weather_data_2017-2023.csv')
+    df = pd.read_csv('weather_data/processed_weather_data_2017-2023.csv')
     # Get unique values and their counts
     unique_values = df['condition'].value_counts()
 
@@ -85,6 +85,6 @@ def print_weather_condition_count():
 
 
 if __name__ == "__main__":
-    df = pd.read_csv('processed_weather_data_2017-2023.csv')
+    df = pd.read_csv('weather_data/processed_weather_data_2017-2023.csv')
     rows_with_null = df[df.isna().any(axis=1)]
     print(rows_with_null)

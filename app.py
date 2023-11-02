@@ -1,16 +1,34 @@
-from datetime import datetime
-from typing import Optional
-
 from flask import Flask, render_template
 import requests
+from datetime import datetime
+from typing import Optional
+from utility import inverse_transform_condition
+
+from xgboost import XGBClassifier, XGBRegressor
+import numpy as np
+
+app = Flask(__name__)
 
 
-# app = Flask(__name__)
+@app.route('/', methods=['GET'])
+def handle_home_request():
+    timestamp, temp, humid = get_sensor_data()
+    press, wind = get_api_data()
 
+    inputs = [temp, humid, press, wind, timestamp.month, timestamp.day, timestamp.hour]
+    inputs = np.array(inputs).reshape(1, -1)
+    model = all_models['classification']
+    condition = inverse_transform_condition(model.predict(inputs)[0])
 
-# @app.route('/', methods=['GET'])
-# def handle_get_request():
-#     return render_template('index.html')
+    data = {
+        "temperature": (temp-32) * 5/9,
+        "humidity": humid,
+        "pressure": press,
+        "wind_speed": wind * 0.44704,
+        "condition": condition
+    }
+
+    return render_template('home.html', data=data)
 
 
 def get_sensor_data():
@@ -76,8 +94,40 @@ def get_api_data(timestamp: Optional[datetime] = None):
             print(f'Failed. Status code: {response.status_code}')
 
 
+# -----------------------------------------------------------------------------------------
+def load_all_models():
+    start_time = datetime.now()
+    models = {
+        'classification': None,
+        'regression': {
+            'hours': {},
+            'days': {}
+        }
+    }
+
+    model = XGBClassifier()
+    model.load_model("model\\classification\\xgboost_classification_model.json")
+    models['classification'] = model
+    print('finish load classification model')
+
+    # hours = [1, 3, 6, 12]
+    # features = ['temp', 'humid', 'press', 'wind']
+    # names = ['temperature', 'humidity', 'pressure', 'wind_speed']
+    # for hour in hours:
+    #     for index, feature in enumerate(features):
+    #         file_path = f"model\\regression\\hours\\{hour}h_{feature}_xgboost_regression.json"
+    #         model = XGBRegressor()
+    #         model.load_model(file_path)
+    #         models['regression']['hours'][f'{hour}_{names[index]}'] = model
+    #         print(f'finish load regression model ({hour}-{feature})')
+
+    end_time = datetime.now()
+    print(end_time - start_time)
+    return models
+
+
+all_models = load_all_models()
+# -----------------------------------------------------------------------------------------
+
 if __name__ == '__main__':
-    time, temp, humid = get_sensor_data()
-    print(int(time.timestamp()))
-    # press, wind = get_api_data(time)
-    # print(time, temp, humid, press, wind)
+    app.run()

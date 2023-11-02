@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Weather Station</title>
+    <link href="https://fonts.googleapis.com/css?family=Font+Name" rel="stylesheet">
+    <link rel="stylesheet" href="static/styles/home.css">
+    <script src="static/js/home.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <div id="header">
+            <ul id="nav">
+                <li>
+                    <a href="">
+                        <img src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-512.png"
+                            alt="Weather">
+                    </a>
+                </li>
+                <li><a href="home.html" class = "home_page">Trang Chủ</a></li>
+                <li><a href="hours.html" class = "hours">Theo Giờ</a></li>
+                <li><a href="days.html" class = "days">Theo Ngày</a></li>
+
+            </ul>
+        </div>
+        <div id="content">
+            <!-- About section -->
+            <div class="box">
+                <p class="address">Thời tiết Hà Nội</p>
+
+                <table>
+                    <!-- hàng 1 -->
+                    <tr>
+                        <td>
+                            <div id = "current_date" class="day_time">20.10.2023</div>
+                            <div id="real_time" class="hour_time"></div>
+                        </td>
+                        <td>
+                            <div class="temperature">
+                                <span class="value">{{data['temperature']|float|round(1)}}</span><span><sup>o</sup>C </span>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="weather">
+                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
+                                <p class="predict_weather">{{data['condition']}}</p>
+                            </div>
+                        </td>
+                    </tr>
+                    <!-- hàng 2 -->
+                    <tr>
+                        <td>
+                            <div class="icon">
+                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
+                            </div>
+                            <div class="attribute">
+                                <div>
+                                    <span class="wind">{{data['wind_speed']|float|round(1)}} m/s</span>
+                                </div>
+                                <p>Tốc độ gió</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="icon">
+                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
+                            </div>
+                            <div class="attribute">
+                                <div>
+                                    <span class="rain">5 %</span>
+                                </div>
+                                <p>Khả năng mưa</p>
+                            </div>
+                        </td>
+                    </tr>
+                    <!-- hàng 3 -->
+                    <tr>
+                        <td>
+                            <div class="icon">
+                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
+                            </div>
+                            <div class="attribute">
+                                <div>
+                                    <span class="humidity">{{data['humidity']}} %</span>
+                                </div>
+                                <p>Độ ẩm</p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="icon">
+                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
+                            </div>
+                            <div class="attribute">
+                                <div>
+                                    <span class="pressure">{{data['pressure']}} hPa</span>
+                                </div>
+                                <p>Áp suất</p>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

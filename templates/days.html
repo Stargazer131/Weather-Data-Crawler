@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Station</title>
-    <link href="https://fonts.googleapis.com/css?family=Font+Name" rel="stylesheet">
-    <link rel="stylesheet" href="static/styles/home.css">
-    <script src="static/js/home.js"></script>
+    <link rel="stylesheet" href="static/styles/days.css">
+    <script src="static/js/hours.js"></script>
 </head>
 
 <body>
@@ -23,30 +22,35 @@
                 <li><a href="/home" class="home_page">Trang Chủ</a></li>
                 <li><a href="/hours" class="hours">Theo Giờ</a></li>
                 <li><a href="/days" class="days">Theo Ngày</a></li>
-
             </ul>
         </div>
         <div id="content">
             <!-- About section -->
             <div class="box">
-                <p class="address">Thời tiết Hà Nội</p>
-
+                <div class="address">Thời tiết 7 ngày tiếp theo - Hà Nội
+                    <div id="current_date" class="day_time"></div>
+                </div>
+                {% for data in days_data %}
                 <table>
                     <!-- hàng 1 -->
                     <tr>
                         <td>
-                            <div id="current_date" class="day_time"></div>
-                            <div id="real_time" class="hour_time"></div>
+                            <div class="weather">
+                                <img src="{{ url_for('static', filename=data['weather_image_url']) }}" alt="">
+                                <div class="hour_time"> {{data['day']}} ngày tiếp theo
+                                    <p class="predict_weather">{{data['condition']}}</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="rain">
+                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
+                                <p class="predict_rain">{{data['rain_prob']|float|round(2)}} %</p>
+                            </div>
                         </td>
                         <td>
                             <div class="temperature">
                                 <span class="value">{{data['temperature']|float|round(1)}}</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="weather">
-                                <img src="{{ url_for('static', filename=data['weather_image_url']) }}" alt="Dynamic Image">
-                                <p class="predict_weather">{{data['condition']}}</p>
                             </div>
                         </td>
                     </tr>
@@ -69,7 +73,7 @@
                             </div>
                             <div class="attribute">
                                 <div>
-                                    <span class="rain">{{data['rain_prob']|float|round(2)}} %</span>
+                                    <span class="predict_rain">{{data['rain_prob']|float|round(2)}} %</span>
                                 </div>
                                 <p>Khả năng mưa</p>
                             </div>
@@ -87,6 +91,7 @@
                                 </div>
                                 <p>Độ ẩm</p>
                             </div>
+
                         </td>
                         <td>
                             <div class="icon">
@@ -101,7 +106,7 @@
                         </td>
                     </tr>
                 </table>
-
+                {% endfor %}
             </div>
         </div>
     </div>

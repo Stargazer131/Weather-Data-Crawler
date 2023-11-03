@@ -5,8 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 import pandas as pd
-import utility
-from sklearn.preprocessing import StandardScaler
 
 
 class WebCrawler:
@@ -25,6 +23,7 @@ class WebCrawler:
         self.driver = webdriver.Chrome(options=options)
         self.wait = WebDriverWait(self.driver, 30)
 
+    # noinspection PyTypeChecker
     def get_daily_data(self, year: int, month: int, day: int):
         date = f'{year}-{month}-{day}'
         date_str = f'{day:02d}/{month:02d}/{year}'

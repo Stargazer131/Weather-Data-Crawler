@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Station</title>
     <link rel="stylesheet" href="static/styles/hours.css">
+    <script src="static/js/hours.js"></script>
 </head>
 
 <body>
@@ -18,40 +19,39 @@
                             alt="Weather">
                     </a>
                 </li>
-                <li><a href="home.html" class="home_page">Trang Chủ</a></li>
-                <li><a href="hours.html" class="hours">Theo Giờ</a></li>
-                <li><a href="days.html" class="days">Theo Ngày</a></li>
+                <li><a href="/home" class="home_page">Trang Chủ</a></li>
+                <li><a href="/hours" class="hours">Theo Giờ</a></li>
+                <li><a href="/days" class="days">Theo Ngày</a></li>
 
             </ul>
         </div>
         <div id="content">
             <!-- About section -->
             <div class="box">
-                <div class="address">Thời tiết 24h tiếp theo - Hà Nội
-                    <div id="current_date" class="day_time">20.10.2023</div>
+                <div class="address">Thời tiết 12 giờ tiếp theo - Hà Nội
+                    <div id="current_date" class="day_time"></div>
                 </div>
-                <!-- bảng 1 -->
+                {% for data in hours_data %}
                 <table>
                     <!-- hàng 1 -->
                     <tr>
                         <td>
                             <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">0:00 - 3:00
-                                    <p class="predict_weather">Nhiều mây</p>
+                                <img src="{{ url_for('static', filename=data['weather_image_url']) }}" alt="">
+                                <div class="hour_time"> {{data['hour']}} giờ tiếp theo
+                                    <p class="predict_weather">{{data['condition']}}</p>
                                 </div>
-                                
                             </div>
                         </td>
                         <td>
                             <div class="rain">
                                 <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
+                                <p class="predict_rain">{{data['rain_prob']|float|round(2)}} %</p>
                             </div>
                         </td>
                         <td>
                             <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
+                                <span class="value">{{data['temperature']|float|round(1)}}</span><span><sup>o</sup>C </span>
                             </div>
                         </td>
                     </tr>
@@ -59,22 +59,11 @@
                     <tr>
                         <td>
                             <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
                                 <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
                             </div>
                             <div class="attribute">
                                 <div>
-                                    <span class="wind">22km/h</span>
+                                    <span class="wind">{{data['wind_speed']|float|round(1)}} m/s</span>
                                 </div>
                                 <p>Tốc độ gió</p>
                             </div>
@@ -85,7 +74,7 @@
                             </div>
                             <div class="attribute">
                                 <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
+                                    <span class="predict_rain">{{data['rain_prob']|float|round(2)}} %</span>
                                 </div>
                                 <p>Khả năng mưa</p>
                             </div>
@@ -99,7 +88,7 @@
                             </div>
                             <div class="attribute">
                                 <div>
-                                    <span class="humidity">37%</span>
+                                    <span class="humidity">{{data['humidity']|float|round(1)}} %</span>
                                 </div>
                                 <p>Độ ẩm</p>
                             </div>
@@ -111,771 +100,16 @@
                             </div>
                             <div class="attribute">
                                 <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                </table>
-                <!-- bảng 2 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">3:00 - 6:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-                <!-- bảng 3 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">6:00 - 9:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-                <!-- bảng 4 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">9:00 - 12:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-
-                <!-- bảng 5 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">12:00 - 15:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-                <!-- bảng 6 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">15:00 - 18:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-                <!-- bảng 7 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">18:00 - 21:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
-                                </div>
-                                <p>Áp suất</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="img/394591415_529545706060630_66858229131564408_n.png" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="luminosity">1000%</span>
-                                </div>
-                                <p>Cường độ sáng</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <td>Row 4, Cell 1</td>
-                        <td>Row 4, Cell 2</td>
-                        <td>Row 4, Cell 3</td>
-                    </tr>
-                    <tr>
-                        <td>Row 5, Cell 1</td>
-                        <td>Row 5, Cell 2</td>
-                        <td>Row 5, Cell 3</td>
-                    </tr> -->
-                </table>
-                <!-- bảng 8 -->
-                <table>
-                    <!-- hàng 1 -->
-                    <tr>
-                        <td>
-                            <div class="weather">
-                                <img src="https://admin.thoitiet24h.vn/images/weather_cloudy1.webp" alt="">
-                                <div id="real_time" class="hour_time">21:00 - 24:00
-                                    <p class="predict_weather">Nhiều mây</p>
-                                </div>
-                                
-                            </div>
-                        </td>
-                        <td>
-                            <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">10%</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="temperature">
-                                <span class="value">30</span><span><sup>o</sup>C </span>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 2 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_feel_like.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="temperature_feel">25</span><span><sup>o</sup>C</span>
-                                </div>
-                                <p>Cảm thấy</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://thoitiet24h.vn/images/ic_detail_windspeed@2x.webp" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="wind">22km/h</span>
-                                </div>
-                                <p>Tốc độ gió</p>
-                            </div>
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_rain.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="predict_rain">(Mưa) 5%</span>
-                                </div>
-                                <p>Khả năng mưa</p>
-                            </div>
-                        </td>
-                    </tr>
-                    <!-- hàng 3 -->
-                    <tr>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_Humidity.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="humidity">37%</span>
-                                </div>
-                                <p>Độ ẩm</p>
-                            </div>
-
-                        </td>
-                        <td>
-                            <div class="icon">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_pressure.svg" alt="">
-                            </div>
-                            <div class="attribute">
-                                <div>
-                                    <span class="pressure">1000 mbar</span>
+                                    <span class="pressure">{{data['pressure']|float|round(1)}} hPa</span>
                                 </div>
                                 <p>Áp suất</p>
                             </div>
                         </td>
                     </tr>
                 </table>
+                {% endfor %}
             </div>
         </div>
     </div>
 </body>
-<script src="main_hours.js"></script>
-
 </html>

@@ -85,6 +85,4 @@ def print_weather_condition_count():
 
 
 if __name__ == "__main__":
-    df = pd.read_csv('weather_data/processed_weather_data_2017-2023.csv')
-    rows_with_null = df[df.isna().any(axis=1)]
-    print(rows_with_null)
+    pass

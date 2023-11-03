@@ -2,11 +2,8 @@ import threading
 import time
 
 from flask import Flask, render_template, redirect, url_for
-import requests
-from datetime import datetime
-from typing import Optional
-from utility import inverse_transform_condition
-
+from datetime import datetime, timedelta
+from utility import inverse_transform_condition, day_or_night, get_api_data, get_sensor_data
 from xgboost import XGBClassifier, XGBRegressor
 import numpy as np
 
@@ -18,6 +15,7 @@ def fetch_data():
     global latest_data
     while True:
         timestamp, temp, humid = get_sensor_data()
+        timestamp += timedelta(hours=7)
         if datetime.now().hour == timestamp.hour:
             press, wind = get_api_data()
         else:
@@ -41,7 +39,7 @@ def home_page():
     model = all_models['classification']
     condition = inverse_transform_condition(model.predict(inputs)[0])
     rain_prob = model.predict_proba(inputs)[0][3] * 100
-    time = day_or_night(timestamp.hour, 0)
+    time_of_day = day_or_night(timestamp.hour, 0)
 
     data = {
         "temperature": (temp-32) * 5/9,
@@ -49,7 +47,7 @@ def home_page():
         "pressure": press,
         "wind_speed": wind * 0.44704,
         "condition": condition,
-        "weather_image_url": f"images/{condition.lower()}_{time}.png",
+        "weather_image_url": f"images/{condition.lower()}_{time_of_day}.png",
         "rain_prob": rain_prob
     }
 
@@ -99,8 +97,8 @@ def hours_page():
 
         data['condition'] = condition
         data['rain_prob'] = rain_prob
-        time = day_or_night(timestamp.hour, hour)
-        data["weather_image_url"] = f"images/{condition.lower()}_{time}.png"
+        time_of_day = day_or_night(timestamp.hour, hour)
+        data["weather_image_url"] = f"images/{condition.lower()}_{time_of_day}.png"
         hours_data.append(data)
 
     return render_template('hours.html', hours_data=hours_data)
@@ -149,85 +147,11 @@ def days_page():
 
         data['condition'] = condition
         data['rain_prob'] = rain_prob
-        time = day_or_night(timestamp.hour, 0)
-        data["weather_image_url"] = f"images/{condition.lower()}_{time}.png"
+        time_of_day = day_or_night(timestamp.hour, 0)
+        data["weather_image_url"] = f"images/{condition.lower()}_{time_of_day}.png"
         days_data.append(data)
 
     return render_template('days.html', days_data=days_data)
-
-
-def get_sensor_data():
-    """
-    Get latest timestamp, temperature and humidity from thingspeak (simulated data)
-    """
-    channel_id = 2323800
-    base_url = f'https://api.thingspeak.com/channels/{channel_id}/feeds.json'
-    params = {
-        'api_key': 'XS2X5BHENB7J2WJD',
-        'results': 1,
-    }
-    response = requests.get(base_url, params=params)
-
-    if response.status_code == 200:
-        data = response.json()
-        timestamp = data['feeds'][0]['created_at']
-        timestamp = datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%SZ')
-        temperature = float(data['feeds'][0]['field1']) * 9/5 + 32
-        humidity = float(data['feeds'][0]['field2'])
-        return timestamp, temperature, humidity
-    else:
-        print(f'Failed. Status code: {response.status_code}')
-        return datetime.now(), 75, 70
-
-
-def get_api_data(timestamp: Optional[datetime] = None):
-    """
-    Get pressure and wind from openweather, currently or in a specific timestamp (Ha Noi)
-    """
-    if timestamp is None:
-        base_url = 'https://api.openweathermap.org/data/2.5/weather'
-        params = {
-            'q': 'hanoi',
-            'appid': '922fa7db5e80194935a053d2bbab7354',
-            'units': 'imperial'
-        }
-        response = requests.get(base_url, params=params)
-
-        if response.status_code == 200:
-            data = response.json()
-            pressure = data['main']['pressure']
-            wind_speed = data['wind']['speed']
-            return pressure, wind_speed
-        else:
-            print(f'Failed. Status code: {response.status_code}')
-            return 1000, 5
-    else:
-        base_url = 'https://api.openweathermap.org/data/3.0/onecall/timemachine'
-        params = {
-            'lat': 21.0245,
-            'lon': 105.8412,
-            'dt': int(timestamp.timestamp()),
-            'appid': '922fa7db5e80194935a053d2bbab7354',
-            'units': 'imperial'
-        }
-        response = requests.get(base_url, params=params)
-
-        if response.status_code == 200:
-            data = response.json()
-            pressure = data['data'][0]['pressure']
-            wind_speed = data['data'][0]['wind_speed']
-            return pressure, wind_speed
-        else:
-            print(f'Failed. Status code: {response.status_code}')
-            return 1000, 5
-
-
-def day_or_night(time: int, add: int):
-    time += add
-    if 5 <= time <= 18:
-        return 'day'
-    else:
-        return 'night'
 
 
 # -----------------------------------------------------------------------------------------

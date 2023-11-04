@@ -61,7 +61,7 @@ def hours_page():
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
-    hours = [1, 3, 6, 9, 12]
+    hours = [1]
     hours_data = []
     classifier = all_models['classification']
     for hour in hours:
@@ -111,7 +111,7 @@ def days_page():
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
-    days = list(range(1, 8))
+    days = list(range(1, 2))
     days_data = []
     classifier = all_models['classification']
     for day in days:
@@ -172,7 +172,7 @@ def load_all_models():
     print('finish load classification model')
 
     # hours regression
-    hours = [1, 3, 6, 9, 12]
+    hours = [1]
     features = ['temperature', 'humidity', 'pressure', 'wind_speed']
     for hour in hours:
         for feature in features:
@@ -183,7 +183,7 @@ def load_all_models():
             print(f'finish load regression model ({hour}H-{feature})')
 
     # days regression
-    days = list(range(1, 8))
+    days = list(range(1, 2))
     features = ['temperature', 'humidity', 'pressure', 'wind_speed']
     for day in days:
         for feature in features:

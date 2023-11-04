@@ -31,7 +31,7 @@
                     <div id="current_date" class="day_time"></div>
                 </div>
                 {% for data in hours_data %}
-                <table>
+                <table class="table1">
                     <!-- hàng 1 -->
                     <tr>
                         <td>
@@ -44,8 +44,7 @@
                         </td>
                         <td>
                             <div class="rain">
-                                <img src="https://admin.thoitiet24h.vn/images/ic_detail_humidity_big@2x.png" alt="">
-                                <p class="predict_rain">{{data['rain_prob']|float|round(2)}} %</p>
+                                <p id="next_hour">12:00</p>
                             </div>
                         </td>
                         <td>
@@ -54,7 +53,9 @@
                             </div>
                         </td>
                     </tr>
-                    <!-- hàng 2 -->
+                </table>
+                <table class ="table2">
+                    <!-- hàng 1 - bảng 2 -->
                     <tr>
                         <td>
                             <div class="icon">
@@ -79,7 +80,7 @@
                             </div>
                         </td>
                     </tr>
-                    <!-- hàng 3 -->
+                    <!-- hàng 2 -->
                     <tr>
                         <td>
                             <div class="icon">

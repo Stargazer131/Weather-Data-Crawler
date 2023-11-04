@@ -25,14 +25,15 @@ html {
 
 #header {
     height: 46px;
-	background-color: #192438!important;
+    background-color: #192438 !important;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
     z-index: 1;
 }
-#header .hours{
+
+#header .hours {
     font-weight: 600;
     color: #000;
     background-color: #ccc;
@@ -45,29 +46,31 @@ html {
 
 #nav .subnav {
     list-style: none;
-	
+
 }
 
 #nav li {
     display: inline-block;
-	position: relative;
+    position: relative;
 }
 
 #nav li a {
-	color: #fff;
+    color: #fff;
     text-decoration: none;
     line-height: 46.4px;
     padding: 0 24px;
     display: block;
-	margin-left: 20px;
+    margin-left: 20px;
 }
-li a img{
-	width: 40px;
-	position: fixed;
-	top: 4px;
+
+li a img {
+    width: 40px;
+    position: fixed;
+    top: 4px;
 }
-#nav > li:hover > a,
-#nav  li:hover a {
+
+#nav>li:hover>a,
+#nav li:hover a {
     color: #000;
     background-color: #ccc;
 }
@@ -93,19 +96,24 @@ li a img{
 }
 
 #content {
-    background: #192438;
-    height: 3560px;
+    background-image: url('https://thoitiet24h.vn/images/Backgournd.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
     position: relative;
 }
-#content .box{
+
+#content .box {
     position: relative;
     top: 100px;
     width: 80%;
     margin: auto;
     color: #fff;
-    
+
 }
-.box .address{
+
+.box .address {
     position: relative;
     width: 100%;
     color: #fff;
@@ -117,11 +125,12 @@ li a img{
     line-height: 1.5;
     letter-spacing: 1px;
     text-shadow: 4px 4px 8px #000;
-    border: 1px solid #fff; /* Màu đen, border 2px, kiểu solid (liền) */
+    border: 1px solid #fff;
+    /* Màu đen, border 2px, kiểu solid (liền) */
 
 }
 
-.box .day_time{
+.box .day_time {
     color: #000;
     position: absolute;
     font-size: 22px;
@@ -130,13 +139,12 @@ li a img{
     background-color: #fff;
     text-shadow: none;
     width: 300px;
-    
+
 }
 
-.box table{
-    border-collapse: collapse;
+.box table {
     width: 100%;
-    height: 400px;
+    height: 200px;
 }
 
 td {
@@ -144,10 +152,12 @@ td {
     padding: 10px;
     text-align: center;
 }
+
 .box .weather {
     position: relative;
 }
-.box .weather img{
+
+.box .weather img {
     vertical-align: middle;
     border-style: none;
     width: 110px;
@@ -155,9 +165,10 @@ td {
     height: 110px;
     overflow-clip-margin: content-box;
     overflow: clip;
-    
+
 }
-.box .weather .hour_time{
+
+.box .weather .hour_time {
     position: absolute;
     top: 42px;
     right: 0px;
@@ -165,26 +176,29 @@ td {
     font-weight: 500;
     font-size: 20px;
 }
-.box td sup{
+
+.box td sup {
     top: -0.5em;
     position: relative;
     font-size: 75%;
     line-height: 0;
     vertical-align: baseline;
 }
-.box .temperature{
+
+.box .temperature {
     font-size: 60px;
     line-height: 92px;
     padding-top: 8px;
 
 }
 
-.box .weather p{
+.box .weather p {
     text-align: left;
     font-weight: 500;
     font-size: 18px;
 }
-table .rain{
+
+table .rain {
     position: relative;
     margin: auto;
     margin-left: 80px;
@@ -192,12 +206,20 @@ table .rain{
     border-left: 2px solid #fff;
     border-right: 2px solid #fff;
 }
-.box .rain img{
+
+.table2 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 40px;
+    height: 0;
+}
+
+.box .rain img {
     height: 28px;
     width: 24px;
-    
+
 }
-.box .rain p{
+
+.box .rain p {
     position: absolute;
     top: 0px;
     right: 80px;
@@ -205,7 +227,17 @@ table .rain{
     font-weight: 700;
 }
 
-table .icon{
+.box .weather p {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.table2 td {
+    padding-top: 40px;
+    padding-left: 200px;
+}
+
+table .icon {
     width: 10%;
     float: left;
     height: 48px;
@@ -213,27 +245,25 @@ table .icon{
     margin: 0 20px 0 0;
 
 }
-table .icon img{
+
+table .icon img {
     height: 48px;
     width: 48px;
 }
-table .attribute{
+
+table .attribute {
     width: 50%;
     float: left;
     text-align: left;
     font-weight: 500;
     font-size: 18px;
 }
-/* table .attribute .temperature_min{
-    
-    margin-bottom: 20px;
-} */
-table .attribute p{
+
+
+table .attribute p {
     margin-top: 10px;
 }
-tr:last-child {
-    padding-bottom: 10px;
-    border-bottom: 2px solid #fff; 
-    height: 100px;
-}
 
+#next_hour{
+    left: 0;
+}

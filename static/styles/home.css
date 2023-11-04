@@ -103,7 +103,7 @@ li a img{
 #content .box{
     position: relative;
     top: 100px;
-    height: 600px;
+    height: 700px;
     width: 80%;
     margin: auto;
     color: #fff;
@@ -125,11 +125,10 @@ li a img{
 }
 
 .box table{
-    border-collapse: collapse;
     width: 100%;
-    height: 400px;
+    height: 200px;
 }
-tr:first-child {
+.table1  {
     border-bottom: 2px solid #fff; 
     height: 0;
 }
@@ -166,16 +165,18 @@ td {
     vertical-align: middle;
     border-style: none;
     width: 110px;
-    aspect-ratio: auto 110 / 110;
-    height: 110px;
-    overflow-clip-margin: content-box;
+    height: 80px;
     overflow: clip;
 }
 .box .weather p{
-    font-size: 15px;
-    font-weight: 700;
+    font-size: 32px;
+    font-weight: 600;
 }
 
+.table2 td{
+    padding-top: 40px;
+    padding-left: 200px;
+}
 table .icon{
     width: 10%;
     float: left;

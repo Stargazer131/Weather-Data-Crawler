@@ -3,7 +3,7 @@ import time
 
 from flask import Flask, render_template, redirect, url_for
 from datetime import datetime, timedelta
-from utility import inverse_transform_condition, day_or_night, get_api_data, get_sensor_data
+from utility import inverse_transform_condition, day_or_night, get_api_data, get_sensor_data, round_time
 from xgboost import XGBClassifier, XGBRegressor
 import numpy as np
 
@@ -16,6 +16,7 @@ def fetch_data():
     while True:
         timestamp, temp, humid = get_sensor_data()
         timestamp += timedelta(hours=7)
+        timestamp = round_time(timestamp)
         if datetime.now().hour == timestamp.hour:
             press, wind = get_api_data()
         else:
@@ -61,11 +62,11 @@ def hours_page():
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
-    hours = [1]
+    hours = [1, 3, 6, 9, 12]
     hours_data = []
     classifier = all_models['classification']
     for hour in hours:
-        data = {"hour": hour}
+        data = {"hour": hour, "time": timestamp + timedelta(hours=hour)}
 
         # temperature
         model = all_models['regression']['hours'][f'{hour}_temperature']
@@ -111,11 +112,11 @@ def days_page():
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
-    days = list(range(1, 2))
+    days = list(range(1, 8))
     days_data = []
     classifier = all_models['classification']
     for day in days:
-        data = {"day": day}
+        data = {"day": day, "time": timestamp + timedelta(days=day)}
 
         # temperature
         model = all_models['regression']['days'][f'{day}_temperature']
@@ -172,7 +173,7 @@ def load_all_models():
     print('finish load classification model')
 
     # hours regression
-    hours = [1]
+    hours = [1, 3, 6, 9, 12]
     features = ['temperature', 'humidity', 'pressure', 'wind_speed']
     for hour in hours:
         for feature in features:
@@ -183,7 +184,7 @@ def load_all_models():
             print(f'finish load regression model ({hour}H-{feature})')
 
     # days regression
-    days = list(range(1, 2))
+    days = list(range(1, 8))
     features = ['temperature', 'humidity', 'pressure', 'wind_speed']
     for day in days:
         for feature in features:

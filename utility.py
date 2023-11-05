@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Optional
 import requests
 
@@ -94,3 +94,12 @@ def get_api_data(timestamp: Optional[datetime] = None):
     except Exception as er:
         print(er)
         return 1000, 5
+
+
+def round_time(time: datetime):
+    if 0 <= time.minute < 30:
+        add_minute = -time.minute
+    else:
+        add_minute = 60-time.minute
+
+    return time + timedelta(minutes=add_minute)

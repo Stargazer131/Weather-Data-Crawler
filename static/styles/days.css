@@ -96,11 +96,8 @@ li a img {
 }
 
 #content {
-    background-image: url('https://thoitiet24h.vn/images/Backgournd.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 800px;
+    background: #192438;
+    height: 3400px;
     position: relative;
 }
 
@@ -246,8 +243,8 @@ table .icon {
 }
 
 table .icon img {
-    height: 48px;
-    width: 48px;
+    height: 40px;
+    width: 40px;
 }
 
 table .attribute {

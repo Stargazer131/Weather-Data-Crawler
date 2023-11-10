@@ -32,8 +32,12 @@ def root():
 
 @app.route('/home', methods=['GET'])
 def home_page():
-    timestamp, temp, humid, press, wind = latest_data
+    data = get_current_weather(latest_data)
+    return render_template('home.html', data=data)
 
+
+def get_current_weather(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
     inputs = [temp, humid, press, wind, timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
     model = all_models['classification']
@@ -51,18 +55,23 @@ def home_page():
         "rain_prob": rain_prob
     }
 
-    return render_template('home.html', data=data)
+    return data
 
 
 @app.route('/hours', methods=['GET'])
 def hours_page():
-    timestamp, temp, humid, press, wind = latest_data
+    hours_data = get_hour_prediction(latest_data)
+    return render_template('hours.html', hours_data=hours_data)
 
+
+def get_hour_prediction(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
     hours = [1, 3, 6, 9, 12]
     hours_data = []
+
     classifier = all_models['classification']
     for hour in hours:
         data = {"hour": hour, "time": timestamp + timedelta(hours=hour)}
@@ -101,12 +110,17 @@ def hours_page():
         data["weather_image_url"] = f"images/{condition.lower()}_{time_of_day}.png"
         hours_data.append(data)
 
-    return render_template('hours.html', hours_data=hours_data)
+    return hours_data
 
 
 @app.route('/days', methods=['GET'])
 def days_page():
-    timestamp, temp, humid, press, wind = latest_data
+    days_data = get_day_prediction(latest_data)
+    return render_template('days.html', days_data=days_data)
+
+
+def get_day_prediction(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
 
     inputs = [temp, humid, press, wind,
               timestamp.month, timestamp.day, timestamp.hour]
@@ -151,7 +165,7 @@ def days_page():
         data["weather_image_url"] = f"images/{condition.lower()}_{time_of_day}.png"
         days_data.append(data)
 
-    return render_template('days.html', days_data=days_data)
+    return days_data
 
 
 # -----------------------------------------------------------------------------------------

@@ -94,8 +94,22 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def current_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    timestamp, temp, humid, press, wind = latest_data
+    data = get_current_weather(latest_data)
 
+    answer = (
+        f"The weather is: {data['condition']} {icon_bank['weather'][data['icon']]}\n"
+        f"Temperature: {data['temperature']:.1f}°C {icon_bank['weather']['temperature']}\n"
+        f"Wind speed: {data['wind_speed']:.1f} mps {icon_bank['weather']['wind_speed']}\n"
+        f"Humidity: {data['humidity']:.1f}% {icon_bank['weather']['humidity']}\n"
+        f"Pressure: {data['pressure']:.1f} hPa {icon_bank['weather']['pressure']}\n"
+        f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
+    )
+
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+
+
+def get_current_weather(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
     inputs = [temp, humid, press, wind, timestamp.month, timestamp.day, timestamp.hour]
     inputs = np.array(inputs).reshape(1, -1)
     model = all_models['classification']
@@ -106,19 +120,159 @@ async def current_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if condition == 'fair':
         icon = time_of_day
 
-    temp = (temp-32) * 5/9
-    wind = wind * 0.44704
+    data = {
+        "temperature": (temp-32) * 5/9,
+        "humidity": humid,
+        "pressure": press,
+        "wind_speed": wind * 0.44704,
+        "condition": condition,
+        "icon": icon,
+        "rain_prob": rain_prob
+    }
 
-    answer = (
-        f"The weather is: {condition} {icon_bank['weather'][icon]}\n"
-        f"Temperature: {temp:.1f}°C {icon_bank['weather']['temperature']}\n"
-        f"Wind speed: {wind:.1f} mps {icon_bank['weather']['wind_speed']}\n"
-        f"Humidity: {humid:.1f}% {icon_bank['weather']['humidity']}\n"
-        f"Pressure: {press:.1f} hPa {icon_bank['weather']['pressure']}\n"
-        f"Rain Probability: {rain_prob:.2f}% {icon_bank['weather']['rain_prob']}\n"
-    )
+    return data
 
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+
+async def hour_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    hours_data = get_hour_prediction(latest_data)
+    answers = []
+    for data in hours_data:
+        answer = (
+            f"Weather in next {data['hour']} hour ({data['time'].strftime('%H:%M')})\n"
+            f"The weather is: {data['condition']} {icon_bank['weather'][data['icon']]}\n"
+            f"Temperature: {data['temperature']:.1f}°C {icon_bank['weather']['temperature']}\n"
+            f"Wind speed: {data['wind_speed']:.1f} mps {icon_bank['weather']['wind_speed']}\n"
+            f"Humidity: {data['humidity']:.1f}% {icon_bank['weather']['humidity']}\n"
+            f"Pressure: {data['pressure']:.1f} hPa {icon_bank['weather']['pressure']}\n"
+            f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
+        )
+        answers.append(answer)
+
+    for answer in answers:
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+
+
+def get_hour_prediction(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
+    inputs = [temp, humid, press, wind,
+              timestamp.month, timestamp.day, timestamp.hour]
+    inputs = np.array(inputs).reshape(1, -1)
+    hours = [1, 3, 6, 9, 12]
+    hours_data = []
+
+    classifier = all_models['classification']
+    for hour in hours:
+        data = {"hour": hour, "time": timestamp + timedelta(hours=hour)}
+
+        # temperature
+        model = all_models['regression']['hours'][f'{hour}_temperature']
+        predict_temperature = model.predict(inputs)[0]
+        data['temperature'] = (predict_temperature-32) * 5/9
+
+        # humidity
+        model = all_models['regression']['hours'][f'{hour}_humidity']
+        predict_humidity = model.predict(inputs)[0]
+        data['humidity'] = predict_humidity
+
+        # pressure
+        model = all_models['regression']['hours'][f'{hour}_pressure']
+        predict_pressure = model.predict(inputs)[0]
+        data['pressure'] = predict_pressure
+
+        # wind_speed
+        model = all_models['regression']['hours'][f'{hour}_wind_speed']
+        predict_wind_speed = model.predict(inputs)[0]
+        data['wind_speed'] = predict_wind_speed * 0.44704
+
+        # condition and rain probability
+        temp_inputs = [predict_temperature, predict_humidity, predict_pressure, predict_wind_speed,
+                       timestamp.month, timestamp.day, timestamp.hour+hour]
+        temp_inputs = np.array(temp_inputs).reshape(1, -1)
+
+        condition = inverse_transform_condition(classifier.predict(temp_inputs)[0]).lower()
+        rain_prob = classifier.predict_proba(temp_inputs)[0][3] * 100
+        data['rain_prob'] = rain_prob
+        time_of_day = day_or_night(timestamp.hour, hour)
+        data['condition'] = condition
+        if condition == 'fair':
+            data['icon'] = time_of_day
+        else:
+            data['icon'] = condition
+
+        hours_data.append(data)
+
+    return hours_data
+
+
+async def day_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    days_data = get_day_prediction(latest_data)
+    answers = []
+    for data in days_data:
+        answer = (
+            f"Weather in next {data['day']} day ({data['time'].strftime('%d/%m/%Y')})\n"
+            f"The weather is: {data['condition']} {icon_bank['weather'][data['icon']]}\n"
+            f"Temperature: {data['temperature']:.1f}°C {icon_bank['weather']['temperature']}\n"
+            f"Wind speed: {data['wind_speed']:.1f} mps {icon_bank['weather']['wind_speed']}\n"
+            f"Humidity: {data['humidity']:.1f}% {icon_bank['weather']['humidity']}\n"
+            f"Pressure: {data['pressure']:.1f} hPa {icon_bank['weather']['pressure']}\n"
+            f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
+        )
+        answers.append(answer)
+
+    for answer in answers:
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+
+
+def get_day_prediction(input_data: tuple):
+    timestamp, temp, humid, press, wind = input_data
+
+    inputs = [temp, humid, press, wind,
+              timestamp.month, timestamp.day, timestamp.hour]
+    inputs = np.array(inputs).reshape(1, -1)
+    days = list(range(1, 8))
+    days_data = []
+    classifier = all_models['classification']
+    for day in days:
+        data = {"day": day, "time": timestamp + timedelta(days=day)}
+
+        # temperature
+        model = all_models['regression']['days'][f'{day}_temperature']
+        predict_temperature = model.predict(inputs)[0]
+        data['temperature'] = (predict_temperature-32) * 5/9
+
+        # humidity
+        model = all_models['regression']['days'][f'{day}_humidity']
+        predict_humidity = model.predict(inputs)[0]
+        data['humidity'] = predict_humidity
+
+        # pressure
+        model = all_models['regression']['days'][f'{day}_pressure']
+        predict_pressure = model.predict(inputs)[0]
+        data['pressure'] = predict_pressure
+
+        # wind_speed
+        model = all_models['regression']['days'][f'{day}_wind_speed']
+        predict_wind_speed = model.predict(inputs)[0]
+        data['wind_speed'] = predict_wind_speed * 0.44704
+
+        # condition and rain probability
+        temp_inputs = [predict_temperature, predict_humidity, predict_pressure, predict_wind_speed,
+                       timestamp.month, timestamp.day+day, timestamp.hour]
+        temp_inputs = np.array(temp_inputs).reshape(1, -1)
+
+        condition = inverse_transform_condition(classifier.predict(temp_inputs)[0]).lower()
+        rain_prob = classifier.predict_proba(temp_inputs)[0][3] * 100
+
+        data['condition'] = condition
+        data['rain_prob'] = rain_prob
+        time_of_day = day_or_night(timestamp.hour, 0)
+        if condition == 'fair':
+            data['icon'] = time_of_day
+        else:
+            data['icon'] = condition
+        days_data.append(data)
+
+    return days_data
 
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -151,27 +305,27 @@ def load_all_models():
     models['classification'] = model
     print('finish load classification model')
 
-    # # hours regression
-    # hours = [1, 3, 6, 9, 12]
-    # features = ['temperature', 'humidity', 'pressure', 'wind_speed']
-    # for hour in hours:
-    #     for feature in features:
-    #         file_path = f"model\\regression\\hours\\{hour}_{feature}_xgboost_regression.json"
-    #         model = XGBRegressor()
-    #         model.load_model(file_path)
-    #         models['regression']['hours'][f'{hour}_{feature}'] = model
-    #         print(f'finish load regression model ({hour}H-{feature})')
-    #
-    # # days regression
-    # days = list(range(1, 8))
-    # features = ['temperature', 'humidity', 'pressure', 'wind_speed']
-    # for day in days:
-    #     for feature in features:
-    #         file_path = f"model\\regression\\days\\{day}_{feature}_xgboost_regression.json"
-    #         model = XGBRegressor()
-    #         model.load_model(file_path)
-    #         models['regression']['days'][f'{day}_{feature}'] = model
-    #         print(f'finish load regression model ({day}D-{feature})')
+    # hours regression
+    hours = [1, 3, 6, 9, 12]
+    features = ['temperature', 'humidity', 'pressure', 'wind_speed']
+    for hour in hours:
+        for feature in features:
+            file_path = f"model\\regression\\hours\\{hour}_{feature}_xgboost_regression.json"
+            model = XGBRegressor()
+            model.load_model(file_path)
+            models['regression']['hours'][f'{hour}_{feature}'] = model
+            print(f'finish load regression model ({hour}H-{feature})')
+
+    # days regression
+    days = list(range(1, 8))
+    features = ['temperature', 'humidity', 'pressure', 'wind_speed']
+    for day in days:
+        for feature in features:
+            file_path = f"model\\regression\\days\\{day}_{feature}_xgboost_regression.json"
+            model = XGBRegressor()
+            model.load_model(file_path)
+            models['regression']['days'][f'{day}_{feature}'] = model
+            print(f'finish load regression model ({day}D-{feature})')
 
     end_time = datetime.now()
     print(end_time - start_time)
@@ -192,6 +346,8 @@ if __name__ == '__main__':
     app.add_handler(CommandHandler("start", start_command))
     app.add_handler(CommandHandler("help", help_command))
     app.add_handler(CommandHandler("current", current_command))
+    app.add_handler(CommandHandler("hour", hour_command))
+    app.add_handler(CommandHandler("day", day_command))
 
     # message
     app.add_handler(MessageHandler(filters.TEXT, handle_message))

@@ -1,6 +1,5 @@
 import threading
 import time
-
 from flask import Flask, render_template, redirect, url_for
 from datetime import datetime, timedelta
 from utility import inverse_transform_condition, day_or_night, get_api_data, get_sensor_data, round_time
@@ -200,8 +199,8 @@ def load_all_models():
 
 
 all_models = load_all_models()
-thread = threading.Thread(target=fetch_data, daemon=True)
-thread.start()
+data_thread = threading.Thread(target=fetch_data, daemon=True)
+data_thread.start()
 # -----------------------------------------------------------------------------------------
 
 if __name__ == '__main__':

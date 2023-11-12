@@ -1,6 +1,6 @@
 import threading
-import time
-from datetime import datetime, timedelta
+import time as tme
+from datetime import datetime, timedelta, time
 
 import numpy as np
 from telegram import Update
@@ -17,7 +17,7 @@ latest_data = (datetime.now(), 75, 70, 1000, 5)
 
 def fetch_data():
     global latest_data
-    time.sleep(2)
+    tme.sleep(2)
     while True:
         timestamp, temp, humid = get_sensor_data()
         timestamp += timedelta(hours=7)
@@ -28,7 +28,7 @@ def fetch_data():
             press, wind = get_api_data(timestamp)
         latest_data = (timestamp, temp, humid, press, wind)
         print('get latest data')
-        time.sleep(30)
+        tme.sleep(30)
 
 
 # for printing emoji
@@ -75,7 +75,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"Type /help for more information {icon_bank['logo']['question_mark']}"
     )
 
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+    await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -90,7 +90,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"/stop_alert Stop receiving alert {icon_bank['logo']['no']}\n"
     )
 
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+    await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 async def current_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -105,7 +105,7 @@ async def current_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
     )
 
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+    await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 def get_current_weather(input_data: tuple):
@@ -149,7 +149,7 @@ async def hour_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         answers.append(answer)
 
     for answer in answers:
-        await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+        await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 def get_hour_prediction(input_data: tuple):
@@ -220,7 +220,7 @@ async def day_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         answers.append(answer)
 
     for answer in answers:
-        await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+        await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 def get_day_prediction(input_data: tuple):
@@ -275,13 +275,109 @@ def get_day_prediction(input_data: tuple):
     return days_data
 
 
+async def daily_handler(context: ContextTypes.DEFAULT_TYPE):
+    data = get_current_weather(latest_data)
+
+    answer = (
+        f"Today the weather is: {data['condition']} {icon_bank['weather'][data['icon']]}\n"
+        f"Temperature: {data['temperature']:.1f}°C {icon_bank['weather']['temperature']}\n"
+        f"Wind speed: {data['wind_speed']:.1f} mps {icon_bank['weather']['wind_speed']}\n"
+        f"Humidity: {data['humidity']:.1f}% {icon_bank['weather']['humidity']}\n"
+        f"Pressure: {data['pressure']:.1f} hPa {icon_bank['weather']['pressure']}\n"
+        f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
+        f"Good day to you!"
+    )
+
+    await context.bot.send_message(chat_id=context.job.chat_id, text=answer)
+
+
+async def daily_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    chat_id = update.message.chat_id
+    jobs = context.job_queue.get_jobs_by_name(f'daily_{chat_id}')
+    if len(jobs) != 0:
+        text = 'You already subscribed to daily update'
+    else:
+        now = datetime.now()
+        target_time = datetime(now.year, now.month, now.day, 7, 0, 0)
+        if now > target_time:
+            target_time += timedelta(days=1)
+        total_second_till_next_7am = (target_time - now).total_seconds()
+        context.job_queue.run_repeating(daily_handler, interval=60*60*24, first=2,
+                                        chat_id=chat_id, name=f'daily_{chat_id}')
+        text = 'You will receive new weather data every 07:00 AM'
+
+    await context.bot.send_message(chat_id=chat_id, text=text)
+
+
+async def stop_daily_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    chat_id = update.message.chat_id
+    jobs = context.job_queue.get_jobs_by_name(f'daily_{chat_id}')
+    if len(jobs) != 0:
+        job = jobs[0]
+        job.enabled = False
+        job.schedule_removal()
+        text = 'Stop receiving daily update!'
+    else:
+        text = "You haven't subscribed to daily update!"
+
+    await context.bot.send_message(chat_id=chat_id, text=text)
+
+
+async def alert_handler(context: ContextTypes.DEFAULT_TYPE):
+    data = get_current_weather(latest_data)
+
+    answer = (
+        f"The weather in next hour will be: {data['condition']} {icon_bank['weather'][data['icon']]}\n"
+        f"Temperature: {data['temperature']:.1f}°C {icon_bank['weather']['temperature']}\n"
+        f"Wind speed: {data['wind_speed']:.1f} mps {icon_bank['weather']['wind_speed']}\n"
+        f"Humidity: {data['humidity']:.1f}% {icon_bank['weather']['humidity']}\n"
+        f"Pressure: {data['pressure']:.1f} hPa {icon_bank['weather']['pressure']}\n"
+        f"Rain Probability: {data['rain_prob']:.2f}% {icon_bank['weather']['rain_prob']}\n"
+        f"Please be careful!"
+    )
+
+    await context.bot.send_message(chat_id=context.job.chat_id, text=answer)
+
+
+async def alert_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    chat_id = update.message.chat_id
+    jobs = context.job_queue.get_jobs_by_name(f'daily_{chat_id}')
+    if len(jobs) != 0:
+        text = 'You already subscribed to daily update'
+    else:
+        now = datetime.now()
+        target_time = datetime(now.year, now.month, now.day, 7, 0, 0)
+        if now > target_time:
+            target_time += timedelta(days=1)
+        total_second_till_next_7am = (target_time - now).total_seconds()
+        context.job_queue.run_repeating(daily_handler, interval=60*60*24, first=2,
+                                        chat_id=chat_id, name=f'daily_{chat_id}')
+        text = 'You will receive new weather data every 07:00 AM'
+
+    await context.bot.send_message(chat_id=chat_id, text=text)
+
+
+async def stop_alert_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    chat_id = update.message.chat_id
+    jobs = context.job_queue.get_jobs_by_name(f'daily_{chat_id}')
+    if len(jobs) != 0:
+        job = jobs[0]
+        job.enabled = False
+        job.schedule_removal()
+        text = 'Stop receiving daily update!'
+    else:
+        text = "You haven't subscribed to daily update!"
+
+    await context.bot.send_message(chat_id=chat_id, text=text)
+
+
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     message_types = update.message.chat.type
     text = update.message.text
-    print(f'User {update.effective_chat.id} in {message_types}: "{text}"')
+    print(f'User {update.message.chat_id} in {message_types}: "{text}"')
     answer = "Sorry, for now I can only take command, type /help for more information"
     print('Bot:', answer)
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=answer)
+    await context.bot.send_message(chat_id=update.message.chat_id, text=answer)
 
 
 async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -305,27 +401,27 @@ def load_all_models():
     models['classification'] = model
     print('finish load classification model')
 
-    # hours regression
-    hours = [1, 3, 6, 9, 12]
-    features = ['temperature', 'humidity', 'pressure', 'wind_speed']
-    for hour in hours:
-        for feature in features:
-            file_path = f"model\\regression\\hours\\{hour}_{feature}_xgboost_regression.json"
-            model = XGBRegressor()
-            model.load_model(file_path)
-            models['regression']['hours'][f'{hour}_{feature}'] = model
-            print(f'finish load regression model ({hour}H-{feature})')
-
-    # days regression
-    days = list(range(1, 8))
-    features = ['temperature', 'humidity', 'pressure', 'wind_speed']
-    for day in days:
-        for feature in features:
-            file_path = f"model\\regression\\days\\{day}_{feature}_xgboost_regression.json"
-            model = XGBRegressor()
-            model.load_model(file_path)
-            models['regression']['days'][f'{day}_{feature}'] = model
-            print(f'finish load regression model ({day}D-{feature})')
+    # # hours regression
+    # hours = [1, 3, 6, 9, 12]
+    # features = ['temperature', 'humidity', 'pressure', 'wind_speed']
+    # for hour in hours:
+    #     for feature in features:
+    #         file_path = f"model\\regression\\hours\\{hour}_{feature}_xgboost_regression.json"
+    #         model = XGBRegressor()
+    #         model.load_model(file_path)
+    #         models['regression']['hours'][f'{hour}_{feature}'] = model
+    #         print(f'finish load regression model ({hour}H-{feature})')
+    #
+    # # days regression
+    # days = list(range(1, 8))
+    # features = ['temperature', 'humidity', 'pressure', 'wind_speed']
+    # for day in days:
+    #     for feature in features:
+    #         file_path = f"model\\regression\\days\\{day}_{feature}_xgboost_regression.json"
+    #         model = XGBRegressor()
+    #         model.load_model(file_path)
+    #         models['regression']['days'][f'{day}_{feature}'] = model
+    #         print(f'finish load regression model ({day}D-{feature})')
 
     end_time = datetime.now()
     print(end_time - start_time)
@@ -348,6 +444,8 @@ if __name__ == '__main__':
     app.add_handler(CommandHandler("current", current_command))
     app.add_handler(CommandHandler("hour", hour_command))
     app.add_handler(CommandHandler("day", day_command))
+    app.add_handler(CommandHandler("daily", daily_command))
+    app.add_handler(CommandHandler("stop_daily", stop_daily_command))
 
     # message
     app.add_handler(MessageHandler(filters.TEXT, handle_message))

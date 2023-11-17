@@ -96,7 +96,8 @@ li a img {
 }
 
 #content {
-    background: #192438;
+    background-image: url('../images/repeat.jpg');
+    background-repeat: repeat-both;
     height: 3400px;
     position: relative;
 }
